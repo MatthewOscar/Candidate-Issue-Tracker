@@ -1,0 +1,41 @@
+name: Report an AI-contribution policy
+description: A repo rejected AI-assisted work, or you found policy language we should verify.
+title: 'AI policy report: '
+labels: ['policy-report']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you — verified reports become badges on the site so the next student doesn't lose
+        weeks to a repo that won't accept their work. Staff review every report.
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository (or issue/PR) URL
+      placeholder: https://github.com/org/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: what_happened
+    attributes:
+      label: What happened?
+      options:
+        - My contribution was rejected because of AI usage
+        - I found an AI policy in their docs
+        - Maintainers confirmed AI-assisted work is fine
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: evidence_url
+    attributes:
+      label: Evidence link
+      description: The rejection comment, the policy text, or the maintainer statement.
+      placeholder: https://github.com/org/repo/pull/123#issuecomment-456
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: What were you contributing? What did the maintainers say?

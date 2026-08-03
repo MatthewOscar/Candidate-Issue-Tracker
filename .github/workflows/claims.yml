@@ -1,0 +1,65 @@
+# Processes claim/unclaim tracker issues into data/claims.json.
+#
+# Design notes (do not "simplify" these away):
+# - Every run drains ALL open claim/unclaim issues, not just the triggering
+#   event. GitHub keeps at most one queued run per concurrency group, so a
+#   third near-simultaneous claim cancels the queued run — the drain makes
+#   that harmless, and the 6-hourly cron is the backstop.
+# - The push uses GITHUB_TOKEN, which triggers no workflows; the Pages deploy
+#   is chained explicitly below. That is also the anti-loop guarantee.
+name: Claims
+
+on:
+  issues:
+    types: [opened, reopened]
+  issue_comment:
+    types: [created]
+  schedule:
+    - cron: '41 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Log decisions without commenting, closing, or committing
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: claims
+  cancel-in-progress: false
+
+jobs:
+  process:
+    # Skip comment chatter on issues that aren't tracker claim/unclaim issues.
+    if: >
+      github.event_name != 'issue_comment' ||
+      contains(github.event.issue.labels.*.name, 'claim') ||
+      contains(github.event.issue.labels.*.name, 'unclaim')
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.drain.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Drain claim queue
+        id: drain
+        run: node scripts/process-claims.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '1' || '' }}
+
+  deploy:
+    needs: process
+    if: needs.process.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
