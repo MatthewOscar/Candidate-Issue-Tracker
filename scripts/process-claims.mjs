@@ -463,6 +463,20 @@ async function main() {
   const api = new GitHub({ token, owner, repo });
   const ctx = makeContext({ api, claimsDoc, pool, policies, blocklist, config, owner, repo, dryRun });
 
+  // Issue-template labels that don't exist in the repo are silently dropped
+  // at issue creation, which would hide claims from this drain — make sure
+  // they all exist up front. (Colors: CodePath palette.)
+  if (!dryRun) {
+    await api.ensureLabel(LABELS.CLAIM, '4f5eff', 'Student claim on a pool issue');
+    await api.ensureLabel(LABELS.UNCLAIM, '7786ff', 'Release of a claimed issue');
+    await api.ensureLabel(LABELS.PENDING, '1b1c57', 'Claim recorded, awaiting staff /approve');
+    await api.ensureLabel(LABELS.AWAITING, 'b45309', 'Duplicate claim awaiting student /confirm');
+    await api.ensureLabel(LABELS.RECORDED, '00c385', 'Claim recorded');
+    await api.ensureLabel(LABELS.INVALID, 'd1d6dc', 'Claim form could not be processed');
+    await api.ensureLabel(LABELS.NEEDS_STAFF, 'ee0004', 'Needs manual staff resolution');
+    await api.ensureLabel('policy-report', 'fe3c85', 'Student AI-policy report');
+  }
+
   const open = [
     ...(await api.listOpenIssuesByLabel(LABELS.CLAIM)),
     ...(await api.listOpenIssuesByLabel(LABELS.UNCLAIM)),

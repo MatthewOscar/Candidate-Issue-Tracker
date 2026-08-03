@@ -1,0 +1,56 @@
+# Builds and deploys the site to GitHub Pages.
+#
+# The workflow_call trigger is load-bearing: data workflows (claims,
+# status-sync, policy-scan, refresh-pool) push with GITHUB_TOKEN, and such
+# pushes deliberately trigger NO workflows (GitHub's anti-recursion rule) —
+# so those workflows invoke this one explicitly as their final job. That
+# explicit chain is also the loop prevention; do not replace it with
+# push-trigger cleverness or a PAT.
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # ref: main matters under workflow_call — the caller's inherited SHA
+      # predates the data commit it just pushed.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # A malformed hand-edit to any data file fails here and leaves the
+      # last good deployment live.
+      - run: node scripts/validate-data.mjs
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -108,6 +108,19 @@ export class GitHub {
     });
   }
 
+  /** Create a label if it doesn't exist yet (no-op on 422 already-exists). */
+  async ensureLabel(name, color, description) {
+    try {
+      await this.rest('POST', `/repos/${this.owner}/${this.repo}/labels`, {
+        name,
+        color,
+        description,
+      });
+    } catch (err) {
+      if (!String(err.message).includes('422')) throw err;
+    }
+  }
+
   /** True if the user has write access to the tracker repo (staff). */
   async isStaff(username) {
     const { status, data } = await this.rest(
