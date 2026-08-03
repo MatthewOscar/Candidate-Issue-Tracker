@@ -1,0 +1,26 @@
+name: Unclaim an issue
+description: Release an issue you previously claimed.
+title: 'Unclaim: '
+labels: ['unclaim']
+body:
+  - type: input
+    id: issue_url
+    attributes:
+      label: Issue URL
+      description: Link to the GitHub issue you are releasing.
+      placeholder: https://github.com/org/repo/issues/1234
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Why are you releasing it?
+      options:
+        - Finished — my PR was merged 🎉
+        - Stepping back from this issue
+        - Other
+  - type: textarea
+    id: note
+    attributes:
+      label: Anything staff should know?
+      placeholder: Optional

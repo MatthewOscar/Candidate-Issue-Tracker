@@ -1,0 +1,39 @@
+name: Claim an issue
+description: Claim an AI 301 pool issue as yours to work on.
+title: 'Claim: '
+labels: ['claim']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submitting this form records your claim in the class tracker under **your GitHub username**.
+        A bot replies here within ~1 minute and the site updates in ~3 minutes.
+
+        **This tracker never posts anything to the upstream project.** Introducing yourself to the
+        maintainers — in your own words — is your job, and part of the assignment.
+  - type: input
+    id: issue_url
+    attributes:
+      label: Issue URL
+      description: Link to the GitHub issue you are claiming (from the AI 301 pool).
+      placeholder: https://github.com/org/repo/issues/1234
+    validations:
+      required: true
+  - type: dropdown
+    id: duplicate_ack
+    attributes:
+      label: Is someone already working on this?
+      description: Only relevant if the site showed this issue as already claimed.
+      options:
+        - 'No'
+        - Yes — I understand working a claimed issue is discouraged and want to proceed
+      default: 0
+  - type: checkboxes
+    id: pledge
+    attributes:
+      label: Pledges
+      options:
+        - label: I have read (or will read before commenting) the repository's CONTRIBUTING guide and its AI-contribution policy.
+          required: true
+        - label: I will introduce myself on the upstream issue in my own words — I understand this tracker never posts there for me.
+          required: true

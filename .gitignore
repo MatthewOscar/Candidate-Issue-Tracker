@@ -141,3 +141,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Generated: canonical data lives in /data, copied for the site at build time
+site/public/data/

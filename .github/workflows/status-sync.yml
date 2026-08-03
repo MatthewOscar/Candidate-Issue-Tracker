@@ -1,0 +1,54 @@
+# Daily sync of upstream open/closed state for every pool issue.
+# Commits only when something actually changed, then explicitly chains the
+# Pages deploy (GITHUB_TOKEN pushes trigger no workflows on their own).
+name: Status sync
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Compute and log the diff without committing
+        type: boolean
+        default: false
+      limit:
+        description: Probe only the first N issues (no write)
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: status-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.sync.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Sync issue statuses
+        id: sync
+        run: node scripts/sync-status.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '1' || '' }}
+          LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.limit || '' }}
+
+  deploy:
+    needs: sync
+    if: needs.sync.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

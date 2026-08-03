@@ -1,0 +1,82 @@
+/* CodePath-inspired theme tokens (palette sampled from codepath.org). */
+@import '@fontsource/poppins/latin-400.css';
+@import '@fontsource/poppins/latin-600.css';
+@import '@fontsource/poppins/latin-700.css';
+
+:root {
+  /* Brand */
+  --cp-indigo: #1b1c57;
+  --cp-indigo-soft: #43447f;
+  --cp-blue: #4f5eff;
+  --cp-blue-soft: #7786ff;
+  --cp-blue-tint: #eef0ff;
+  --cp-green: #00c385;
+  --cp-green-tint: #ebfbe2;
+  --cp-red: #ee0004;
+  --cp-red-tint: #fdecec;
+  --cp-amber: #b45309;
+  --cp-amber-tint: #fef3c7;
+  --cp-pink: #fe3c85;
+
+  /* Surfaces & text */
+  --surface: #ffffff;
+  --surface-alt: #f7f8fa;
+  --border: #d1d6dc;
+  --muted: #6b6b78;
+  --muted-light: #a0a0ac;
+  --text: #1b1c57;
+
+  --radius: 10px;
+  --shadow: 0 1px 3px rgba(27, 28, 87, 0.08), 0 4px 14px rgba(27, 28, 87, 0.06);
+  --font-heading: 'Poppins', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-body: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--text);
+  background: var(--surface-alt);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading);
+  color: var(--cp-indigo);
+  margin: 0;
+}
+
+a {
+  color: var(--cp-blue);
+}
+
+button {
+  font-family: inherit;
+}
+
+code {
+  background: var(--cp-blue-tint);
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+  font-size: 0.9em;
+}
+
+mark {
+  background: #ffe9a8;
+  color: inherit;
+  border-radius: 3px;
+  padding: 0 1px;
+}

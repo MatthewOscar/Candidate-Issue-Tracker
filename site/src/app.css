@@ -1,0 +1,77 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background: var(--cp-indigo);
+  color: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  box-shadow: var(--shadow);
+}
+
+.app-header-inner {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0.65rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.wordmark {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.wordmark span {
+  color: var(--cp-green);
+}
+
+.app-header nav {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.app-header nav a {
+  color: #cfd3ff;
+  text-decoration: none;
+  font-size: 0.92rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+}
+
+.app-header nav a:hover {
+  color: #fff;
+}
+
+.app-header nav a.active {
+  background: var(--cp-blue);
+  color: #fff;
+}
+
+.app-main {
+  flex: 1;
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 1.25rem 1rem 3rem;
+}
+
+.app-footer {
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.85rem;
+}

@@ -1,0 +1,89 @@
+# Staff one-click pool refresh straight from the Google Sheet.
+# Point the SHEET_EXPORT_URL repository variable at the sheet's xlsx export
+# (File share -> anyone with link can view, then
+# https://docs.google.com/spreadsheets/d/<id>/export?format=xlsx).
+# The import's structural gate fails the run BEFORE any commit, so a
+# reshaped/renamed sheet can never silently wipe the pool. Claims are
+# untouched by design; orphaned claims are reported in the job summary.
+name: Refresh pool from sheet
+
+on:
+  workflow_dispatch:
+    inputs:
+      sheet_url:
+        description: xlsx export URL (defaults to the SHEET_EXPORT_URL repo variable)
+        type: string
+        default: ''
+      prune_orphan_claims:
+        description: Also delete claims whose issue left the pool
+        type: boolean
+        default: false
+      dry_run:
+        description: Report only — do not write or commit
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Shares the claims group: a refresh must not race the claim processor's
+# commit to the data files.
+concurrency:
+  group: claims
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Import sheet
+        id: import
+        run: |
+          URL="${{ inputs.sheet_url || vars.SHEET_EXPORT_URL }}"
+          if [ -z "$URL" ]; then
+            echo "::error::No sheet URL: pass sheet_url or set the SHEET_EXPORT_URL repository variable"
+            exit 1
+          fi
+          ARGS="--in $URL"
+          if [ "${{ inputs.prune_orphan_claims }}" = "true" ]; then ARGS="$ARGS --prune-orphan-claims"; fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          echo '## Pool refresh' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          node scripts/import-xlsx.mjs $ARGS | tee -a "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+      - name: Validate and commit
+        if: ${{ !inputs.dry_run }}
+        id: commit
+        run: |
+          node scripts/validate-data.mjs
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/issues.json data/claims.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            COUNT=$(node -e "console.log(require('./data/issues.json').count)")
+            git commit -m "pool: refresh from sheet ($COUNT unique issues)"
+            for i in 1 2 3; do git push && break || { git pull --rebase; }; done
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    needs: refresh
+    if: needs.refresh.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
