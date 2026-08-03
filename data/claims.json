@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-03T20:50:08.540Z",
+ "updatedAt": "2026-08-03T23:06:34.696Z",
  "claims": {
   "https://github.com/genericmappingtools/pygmt/issues/1352": [
    {
@@ -11861,6 +11861,15 @@
     "status": "active",
     "source": "sheet-import",
     "claimIssue": null
+   }
+  ],
+  "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": [
+   {
+    "claimedBy": "MatthewOscar",
+    "claimedAt": "2026-08-03T23:06:33.810Z",
+    "status": "pending",
+    "source": "issue-form",
+    "claimIssue": 3
    }
   ]
  }
