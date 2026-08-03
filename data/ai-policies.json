@@ -1,4 +1,89 @@
 {
-  "updatedAt": null,
-  "repos": {}
+  "updatedAt": "2026-08-03T00:00:00Z",
+  "repos": {
+    "manyfold3d/manyfold": {
+      "status": "disallows",
+      "sourceUrl": "https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md",
+      "note": "Generative AI policy: \"We are highly unlikely to review or accept AI-generated or 'vibe coded' PRs\" and considers AI-generated code likely incompatible with their license/CLA.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "rizinorg/rizin": {
+      "status": "disallows",
+      "sourceUrl": "https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md",
+      "note": "\"Using AI tools to fix issues labelled as 'good first issues' is forbidden\" — and the course pool issues for this repo are exactly those. Raised standards for new contributors due to AI-generated contribution volume.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "ggml-org/llama.cpp": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md",
+      "note": "AI Usage Policy: AI-generated code is allowed, but submitting code you don't understand is not — \"you are 100% responsible for every line\".",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "ponylang/ponyc": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/ponylang/ponyc/blob/HEAD/CONTRIBUTING.md",
+      "note": "AI-assisted contributions welcomed (\"we're glad to have you\"), with extra responsibilities: use their published LLM skills and review carefully before opening clearly AI-assisted PRs.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "scikit-learn/scikit-learn": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/scikit-learn/scikit-learn/blob/HEAD/CODE_OF_CONDUCT.md",
+      "note": "Has a \"Low Quality and AI Generated Contributions Policy\" and the PR template requires an AI-usage disclosure section.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "kubernetes-sigs/cluster-api": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/kubernetes-sigs/cluster-api/blob/HEAD/CONTRIBUTING.md",
+      "note": "Allows AI assistance but requires you to respond to review comments without relying on AI tools, and discourages lengthy AI-generated PR descriptions.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "academysoftwarefoundation/openimageio": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/AcademySoftwareFoundation/OpenImageIO/blob/HEAD/docs/dev/AI_Policy.md",
+      "note": "AI coding assistants permitted with guidelines: human in the loop and fully able to explain the code, interact yourself (not by agent), and disclose tools via an \"Assisted-by:\" line in commits/PR.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "wesnoth/wesnoth": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/wesnoth/wesnoth/blob/HEAD/CONTRIBUTING.md",
+      "note": "Machine-assisted code accepted only if you can fully explain what it does and why; \"vibe coded\" PRs you can't explain may be closed immediately.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "cortexproject/cortex": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/cortexproject/cortex/blob/HEAD/GENAI_POLICY.md",
+      "note": "Has a dedicated Generative AI Contribution Policy (GENAI_POLICY.md) that contributors using AI tools must review.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "apache/airflow": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/apache/airflow/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md",
+      "note": "PR template requires disclosing whether generative AI tooling was used to co-author the PR.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "stdlib-js/stdlib": {
+      "status": "conditional",
+      "sourceUrl": "https://github.com/stdlib-js/stdlib/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md",
+      "note": "PR template requires an AI-assistance disclosure (e.g. \"This PR was written primarily by Claude Code.\") so reviewers can calibrate scrutiny.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    },
+    "carlos-emr/carlos": {
+      "status": "allows",
+      "sourceUrl": "https://github.com/carlos-emr/carlos/blob/HEAD/CONTRIBUTING.md",
+      "note": "Explicitly supports AI-assisted development: ships Claude Code configuration (.claude/) and Copilot instructions for contributors.",
+      "reviewedBy": "initial-curation",
+      "reviewedAt": "2026-08-03"
+    }
+  }
 }

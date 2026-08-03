@@ -1,0 +1,54 @@
+# Weekly sweep of pool repos' contribution docs for AI-policy language.
+# Results feed the staff review queue on /review; students only ever see
+# the hand-curated data/ai-policies.json.
+name: AI policy scan
+
+on:
+  schedule:
+    - cron: '23 5 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Scan and log without committing
+        type: boolean
+        default: false
+      limit:
+        description: Probe only the first N repos (no write)
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: policy-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.scan.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Scan repo docs
+        id: scan
+        run: node scripts/scan-policies.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '1' || '' }}
+          LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.limit || '' }}
+
+  deploy:
+    needs: scan
+    if: needs.scan.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
