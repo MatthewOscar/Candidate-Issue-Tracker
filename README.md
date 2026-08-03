@@ -81,7 +81,10 @@ empty).
 ## Going live
 
 1. Repo must be **public** with **Issues enabled**.
-2. **Settings → Pages → Source: "GitHub Actions".**
+2. **Settings → Pages → Source: "GitHub Actions"** — not "Deploy from a branch". Branch mode
+   makes GitHub Jekyll-render the raw repo (you'll see the README at the site URL instead of the
+   app) and races its own builds against ours; the deploy workflow only works with the
+   "GitHub Actions" source.
 3. Bootstrap the labels: **Actions → Claims → Run workflow** (once, right after merging). The
    run creates every pipeline label (`claim`, `unclaim`, `claim:pending`, …). This matters
    because GitHub silently drops template labels that don't exist yet — a claim opened before
