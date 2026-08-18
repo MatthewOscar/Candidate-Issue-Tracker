@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17T07:16:21.366Z",
+ "generatedAt": "2026-08-18T07:03:57.489Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "open",
@@ -1493,7 +1493,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-02-21T03:30:26Z"
+   "updatedAt": "2026-08-18T04:37:40Z"
   },
   "https://github.com/apache/shardingsphere/issues/31473": {
    "state": "open",
@@ -1889,7 +1889,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-01-12T13:59:58Z"
+   "updatedAt": "2026-08-18T01:32:49Z"
   },
   "https://github.com/apache/airflow/issues/60172": {
    "state": "open",
@@ -2204,10 +2204,10 @@
    "updatedAt": "2026-05-14T15:46:11Z"
   },
   "https://github.com/beeware/toga/issues/3551": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-14T02:00:02Z"
+   "updatedAt": "2026-08-18T04:13:20Z"
   },
   "https://github.com/beeware/toga/issues/3112": {
    "state": "open",
@@ -3128,10 +3128,10 @@
    "updatedAt": "2026-07-23T23:28:12Z"
   },
   "https://github.com/ocaml/dune/issues/13525": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-12T12:02:53Z"
+   "updatedAt": "2026-08-17T22:49:59Z"
   },
   "https://github.com/ocaml/dune/issues/12611": {
    "state": "open",
@@ -3743,7 +3743,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-18T18:51:36Z"
+   "updatedAt": "2026-08-17T16:33:50Z"
   },
   "https://github.com/vllm-project/vllm/issues/31414": {
    "state": "open",
@@ -6323,7 +6323,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-06T16:03:30Z"
+   "updatedAt": "2026-08-17T08:53:03Z"
   },
   "https://github.com/llvm/llvm-project/issues/184672": {
    "state": "open",
@@ -6365,7 +6365,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-13T20:13:39Z"
+   "updatedAt": "2026-08-17T13:07:10Z"
   },
   "https://github.com/llvm/llvm-project/issues/167752": {
    "state": "open",
@@ -6419,7 +6419,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-14T06:54:18Z"
+   "updatedAt": "2026-08-18T06:17:59Z"
   },
   "https://github.com/llvm/llvm-project/issues/148938": {
    "state": "open",
@@ -7580,10 +7580,10 @@
    "updatedAt": "2026-04-07T02:20:38Z"
   },
   "https://github.com/opengovsg/formsg/issues/9213": {
-   "state": "closed",
-   "stateReason": "completed",
+   "state": "open",
+   "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-08-17T06:05:26Z"
+   "updatedAt": "2026-08-18T03:11:00Z"
   },
   "https://github.com/opengovsg/formsg/issues/9051": {
    "state": "open",
@@ -7967,7 +7967,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-14T15:20:19Z"
+   "updatedAt": "2026-08-18T06:26:15Z"
   },
   "https://github.com/apache/gluten/issues/10275": {
    "state": "open",
@@ -8225,7 +8225,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-07-31T14:35:41Z"
+   "updatedAt": "2026-08-17T12:14:26Z"
   },
   "https://github.com/nushell/nushell/issues/9109": {
    "state": "open",
@@ -9641,7 +9641,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-11T02:36:54Z"
+   "updatedAt": "2026-08-17T19:04:19Z"
   },
   "https://github.com/pytorch/executorch/issues/11221": {
    "state": "open",
@@ -10199,7 +10199,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-03T10:09:48Z"
+   "updatedAt": "2026-08-17T16:25:11Z"
   },
   "https://github.com/openfoodfacts/openfoodfacts-server/issues/6534": {
    "state": "open",
@@ -14438,10 +14438,10 @@
    "updatedAt": "2025-10-08T17:12:18Z"
   },
   "https://github.com/mozilla-mobile/firefox-ios/issues/28817": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": true,
-   "updatedAt": "2026-08-15T12:00:35Z"
+   "updatedAt": "2026-08-17T21:04:37Z"
   },
   "https://github.com/mozilla-mobile/firefox-ios/issues/28385": {
    "state": "open",
@@ -15443,7 +15443,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-07T07:22:32Z"
+   "updatedAt": "2026-08-17T12:42:31Z"
   },
   "https://github.com/zulip/zulip/issues/39348": {
    "state": "open",
@@ -16571,7 +16571,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-16T13:57:42Z"
+   "updatedAt": "2026-08-17T11:07:19Z"
   },
   "https://github.com/gleam-lang/gleam/issues/5884": {
    "state": "closed",
@@ -17075,7 +17075,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-16T09:35:48Z"
+   "updatedAt": "2026-08-17T18:58:42Z"
   },
   "https://github.com/envoyproxy/gateway/issues/9014": {
    "state": "closed",
@@ -19718,10 +19718,10 @@
    "updatedAt": "2026-07-23T04:07:40Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/26162": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-07-19T02:18:55Z"
+   "updatedAt": "2026-08-18T02:37:22Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/26110": {
    "state": "closed",
@@ -19736,10 +19736,10 @@
    "updatedAt": "2026-03-19T17:33:27Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/26086": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-07-19T02:18:52Z"
+   "updatedAt": "2026-08-18T02:37:20Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/26061": {
    "state": "open",
@@ -19799,7 +19799,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-07T22:32:29Z"
+   "updatedAt": "2026-08-17T23:45:01Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/25835": {
    "state": "open",
@@ -22445,7 +22445,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-06T16:03:16Z"
+   "updatedAt": "2026-08-17T20:36:56Z"
   },
   "https://github.com/lakekeeper/lakekeeper/issues/9": {
    "state": "open",
@@ -23063,7 +23063,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-17T06:49:28Z"
+   "updatedAt": "2026-08-17T12:48:16Z"
   },
   "https://github.com/python/cpython/issues/148268": {
    "state": "open",
@@ -23426,10 +23426,10 @@
    "updatedAt": "2026-06-06T23:14:55Z"
   },
   "https://github.com/marin-community/marin/issues/5079": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-08-10T00:51:59Z"
+   "updatedAt": "2026-08-18T00:34:21Z"
   },
   "https://github.com/dapr/js-sdk/issues/472": {
    "state": "open",
@@ -23657,7 +23657,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2025-11-10T16:00:50Z"
+   "updatedAt": "2026-08-17T12:47:13Z"
   },
   "https://github.com/kubevirt/kubevirt/issues/5932": {
    "state": "open",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-08-17T06:10:30Z"
+   "updatedAt": "2026-08-18T06:08:42Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -26435,7 +26435,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-17T03:31:14Z"
+   "updatedAt": "2026-08-18T06:16:43Z"
   },
   "https://github.com/opencontainers/runc/issues/2519": {
    "state": "open",
@@ -26740,8 +26740,8 @@
   "https://github.com/apache/datafusion/issues/14943": {
    "state": "open",
    "stateReason": null,
-   "assigned": true,
-   "updatedAt": "2026-08-17T07:08:49Z"
+   "assigned": false,
+   "updatedAt": "2026-08-17T07:36:42Z"
   },
   "https://github.com/apache/datafusion/issues/14776": {
    "state": "open",
@@ -31391,7 +31391,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-03-10T06:49:28Z"
+   "updatedAt": "2026-08-18T06:42:39Z"
   },
   "https://github.com/bazel-contrib/rules_foreign_cc/issues/1178": {
    "state": "open",
@@ -34925,7 +34925,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-06-26T14:16:00Z"
+   "updatedAt": "2026-08-17T16:52:09Z"
   },
   "https://github.com/ggml-org/llama.cpp/issues/10819": {
    "state": "closed",
@@ -36707,7 +36707,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-08-16T23:52:13Z"
+   "updatedAt": "2026-08-18T02:33:14Z"
   },
   "https://github.com/frappe/lms/issues/635": {
    "state": "open",
@@ -37391,7 +37391,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-16T07:58:33Z"
+   "updatedAt": "2026-08-17T08:00:58Z"
   },
   "https://github.com/kubestellar/console/issues/4072": {
    "state": "open",
@@ -37451,7 +37451,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-06-18T06:22:38Z"
+   "updatedAt": "2026-08-17T12:15:02Z"
   },
   "https://github.com/backstage/community-plugins/issues/7534": {
    "state": "open",
@@ -37955,7 +37955,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2020-12-14T18:30:18Z"
+   "updatedAt": "2026-08-18T03:08:45Z"
   },
   "https://github.com/pytorch/ignite/issues/966": {
    "state": "open",
@@ -39170,10 +39170,10 @@
    "updatedAt": null
   },
   "https://github.com/inventree/inventree/issues/11385": {
-   "state": "open",
-   "stateReason": "reopened",
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-08-09T11:49:03Z"
+   "updatedAt": "2026-08-17T11:44:16Z"
   },
   "https://github.com/zarr-developers/zarr-python/issues/2995": {
    "state": "open",
