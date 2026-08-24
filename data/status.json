@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T07:01:16.118Z",
+ "generatedAt": "2026-08-24T07:20:30.343Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "open",
@@ -1346,10 +1346,10 @@
    "updatedAt": "2026-08-23T03:40:03Z"
   },
   "https://github.com/apache/shardingsphere/issues/31501": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-11T17:32:34Z"
+   "updatedAt": "2026-08-23T16:44:49Z"
   },
   "https://github.com/apache/shardingsphere/issues/31500": {
    "state": "closed",
@@ -1358,10 +1358,10 @@
    "updatedAt": "2026-08-18T16:44:28Z"
   },
   "https://github.com/apache/shardingsphere/issues/31498": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-11T17:03:12Z"
+   "updatedAt": "2026-08-23T14:53:26Z"
   },
   "https://github.com/apache/shardingsphere/issues/31497": {
    "state": "closed",
@@ -1382,22 +1382,22 @@
    "updatedAt": "2026-07-30T12:32:49Z"
   },
   "https://github.com/apache/shardingsphere/issues/31494": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-05-29T09:48:54Z"
+   "updatedAt": "2026-08-23T14:51:44Z"
   },
   "https://github.com/apache/shardingsphere/issues/31492": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-18T11:52:30Z"
+   "updatedAt": "2026-08-23T14:41:40Z"
   },
   "https://github.com/apache/shardingsphere/issues/31491": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-18T11:53:51Z"
+   "updatedAt": "2026-08-23T13:04:22Z"
   },
   "https://github.com/apache/shardingsphere/issues/31490": {
    "state": "closed",
@@ -1418,10 +1418,10 @@
    "updatedAt": "2026-08-18T16:46:34Z"
   },
   "https://github.com/apache/shardingsphere/issues/31487": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-06-26T16:04:43Z"
+   "updatedAt": "2026-08-23T14:52:44Z"
   },
   "https://github.com/apache/shardingsphere/issues/31486": {
    "state": "closed",
@@ -1430,10 +1430,10 @@
    "updatedAt": "2026-08-19T14:35:00Z"
   },
   "https://github.com/apache/shardingsphere/issues/31485": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-01-25T14:12:25Z"
+   "updatedAt": "2026-08-23T16:50:42Z"
   },
   "https://github.com/apache/shardingsphere/issues/31483": {
    "state": "closed",
@@ -1448,10 +1448,10 @@
    "updatedAt": "2026-08-19T16:19:51Z"
   },
   "https://github.com/apache/shardingsphere/issues/31481": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-03T21:39:13Z"
+   "updatedAt": "2026-08-23T16:51:06Z"
   },
   "https://github.com/apache/shardingsphere/issues/31480": {
    "state": "closed",
@@ -1460,10 +1460,10 @@
    "updatedAt": "2026-08-18T13:04:43Z"
   },
   "https://github.com/apache/shardingsphere/issues/31479": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-09T01:27:23Z"
+   "updatedAt": "2026-08-23T14:40:50Z"
   },
   "https://github.com/apache/shardingsphere/issues/31478": {
    "state": "closed",
@@ -1478,16 +1478,16 @@
    "updatedAt": "2026-08-23T03:50:57Z"
   },
   "https://github.com/apache/shardingsphere/issues/31476": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-02-06T01:38:27Z"
+   "updatedAt": "2026-08-23T12:49:57Z"
   },
   "https://github.com/apache/shardingsphere/issues/31475": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-02-19T16:47:31Z"
+   "updatedAt": "2026-08-23T12:26:38Z"
   },
   "https://github.com/apache/shardingsphere/issues/31474": {
    "state": "closed",
@@ -1496,10 +1496,10 @@
    "updatedAt": "2026-08-18T11:10:55Z"
   },
   "https://github.com/apache/shardingsphere/issues/31473": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-02-21T14:21:11Z"
+   "updatedAt": "2026-08-23T12:23:56Z"
   },
   "https://github.com/apache/shardingsphere/issues/31472": {
    "state": "closed",
@@ -3773,7 +3773,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-18T18:22:43Z"
+   "updatedAt": "2026-08-23T07:34:18Z"
   },
   "https://github.com/vllm-project/vllm/issues/23957": {
    "state": "open",
@@ -6323,7 +6323,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-19T14:56:24Z"
+   "updatedAt": "2026-08-24T04:46:16Z"
   },
   "https://github.com/llvm/llvm-project/issues/184672": {
    "state": "open",
@@ -8918,10 +8918,10 @@
    "updatedAt": "2026-07-08T11:23:47Z"
   },
   "https://github.com/apache/datafusion/issues/22419": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-08T05:27:30Z"
+   "updatedAt": "2026-08-24T05:24:08Z"
   },
   "https://github.com/apache/datafusion/issues/22263": {
    "state": "closed",
@@ -8945,7 +8945,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-20T20:57:49Z"
+   "updatedAt": "2026-08-24T03:57:11Z"
   },
   "https://github.com/apache/datafusion/issues/16054": {
    "state": "open",
@@ -15152,10 +15152,10 @@
    "updatedAt": "2026-07-20T13:35:47Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5983": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-22T11:40:00Z"
+   "updatedAt": "2026-08-23T14:34:33Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5919": {
    "state": "open",
@@ -15209,7 +15209,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:42:28Z"
+   "updatedAt": "2026-08-23T14:31:54Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5064": {
    "state": "open",
@@ -15233,7 +15233,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:45:04Z"
+   "updatedAt": "2026-08-24T05:18:30Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/4253": {
    "state": "open",
@@ -15275,19 +15275,19 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:51:59Z"
+   "updatedAt": "2026-08-23T14:11:56Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/2524": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:45:01Z"
+   "updatedAt": "2026-08-23T14:07:49Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/2373": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:49:41Z"
+   "updatedAt": "2026-08-23T14:06:22Z"
   },
   "https://github.com/boinc/boinc/issues/7162": {
    "state": "missing",
@@ -15749,7 +15749,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:54:55Z"
+   "updatedAt": "2026-08-23T14:49:22Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet-contrib/issues/4380": {
    "state": "open",
@@ -15809,7 +15809,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:29:53Z"
+   "updatedAt": "2026-08-23T22:49:10Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet-contrib/issues/2474": {
    "state": "open",
@@ -15830,10 +15830,10 @@
    "updatedAt": "2026-08-22T11:56:11Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet-contrib/issues/2206": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-08-22T11:24:15Z"
+   "updatedAt": "2026-08-23T14:43:54Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet-contrib/issues/2068": {
    "state": "open",
@@ -15869,7 +15869,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T11:56:53Z"
+   "updatedAt": "2026-08-23T14:26:54Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet-contrib/issues/1562": {
    "state": "open",
@@ -16258,8 +16258,8 @@
   "https://github.com/kubernetes/website/issues/56049": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2026-08-08T09:15:39Z"
+   "assigned": true,
+   "updatedAt": "2026-08-24T02:41:09Z"
   },
   "https://github.com/kubernetes/website/issues/56048": {
    "state": "open",
@@ -16325,103 +16325,103 @@
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-22T09:41:03Z"
+   "updatedAt": "2026-08-24T03:50:53Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2559": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:06Z"
+   "updatedAt": "2026-08-24T03:40:22Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2558": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:09Z"
+   "updatedAt": "2026-08-24T03:40:21Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2557": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:40:21Z"
+   "updatedAt": "2026-08-24T03:40:22Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2556": {
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-22T09:40:24Z"
+   "updatedAt": "2026-08-24T03:50:54Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2555": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:40:27Z"
+   "updatedAt": "2026-08-24T03:40:23Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2554": {
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-22T09:40:30Z"
+   "updatedAt": "2026-08-24T03:50:55Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2552": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:40:34Z"
+   "updatedAt": "2026-08-24T03:40:23Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2551": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:40:39Z"
+   "updatedAt": "2026-08-24T03:40:23Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2550": {
    "state": "open",
    "stateReason": null,
-   "assigned": true,
-   "updatedAt": "2026-08-22T09:40:43Z"
+   "assigned": false,
+   "updatedAt": "2026-08-24T03:40:23Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2549": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:13Z"
+   "updatedAt": "2026-08-24T03:40:24Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2548": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:15Z"
+   "updatedAt": "2026-08-24T03:40:23Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2547": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:40:25Z"
+   "updatedAt": "2026-08-24T03:40:24Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2546": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:19Z"
+   "updatedAt": "2026-08-24T05:11:11Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2545": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:22Z"
+   "updatedAt": "2026-08-24T03:40:24Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2544": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:25Z"
+   "updatedAt": "2026-08-24T03:40:24Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2543": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:28Z"
+   "updatedAt": "2026-08-24T03:40:24Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2542": {
    "state": "closed",
@@ -16433,7 +16433,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:33Z"
+   "updatedAt": "2026-08-24T03:40:25Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2491": {
    "state": "closed",
@@ -16445,61 +16445,61 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:38:37Z"
+   "updatedAt": "2026-08-24T03:40:25Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2477": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T10:39:31Z"
+   "updatedAt": "2026-08-24T03:40:26Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2474": {
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-22T09:40:46Z"
+   "updatedAt": "2026-08-24T03:50:56Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2472": {
    "state": "open",
    "stateReason": null,
-   "assigned": true,
-   "updatedAt": "2026-08-22T09:40:28Z"
+   "assigned": false,
+   "updatedAt": "2026-08-24T03:40:26Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2471": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:41:36Z"
+   "updatedAt": "2026-08-24T03:40:26Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2470": {
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-22T09:40:50Z"
+   "updatedAt": "2026-08-24T03:50:57Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2469": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:40:32Z"
+   "updatedAt": "2026-08-24T03:40:26Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2468": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T09:40:35Z"
+   "updatedAt": "2026-08-24T03:40:27Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2467": {
    "state": "open",
    "stateReason": null,
-   "assigned": true,
-   "updatedAt": "2026-08-22T09:40:38Z"
+   "assigned": false,
+   "updatedAt": "2026-08-24T03:40:27Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2465": {
    "state": "open",
    "stateReason": null,
-   "assigned": true,
-   "updatedAt": "2026-08-22T09:53:13Z"
+   "assigned": false,
+   "updatedAt": "2026-08-24T03:40:27Z"
   },
   "https://github.com/gleam-lang/gleam/issues/5984": {
    "state": "open",
@@ -16868,10 +16868,10 @@
    "updatedAt": "2026-04-08T06:59:53Z"
   },
   "https://github.com/micrometer-metrics/micrometer/issues/5066": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2024-08-25T13:22:34Z"
+   "updatedAt": "2026-08-24T02:32:44Z"
   },
   "https://github.com/micrometer-metrics/micrometer/issues/5063": {
    "state": "open",
@@ -16967,7 +16967,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-23T02:54:26Z"
+   "updatedAt": "2026-08-23T08:58:38Z"
   },
   "https://github.com/micrometer-metrics/micrometer/issues/1252": {
    "state": "open",
@@ -17021,7 +17021,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-27T01:36:14Z"
+   "updatedAt": "2026-08-23T23:43:35Z"
   },
   "https://github.com/envoyproxy/gateway/issues/9254": {
    "state": "closed",
@@ -17045,7 +17045,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-13T07:33:28Z"
+   "updatedAt": "2026-08-23T23:43:34Z"
   },
   "https://github.com/envoyproxy/gateway/issues/9219": {
    "state": "open",
@@ -23057,7 +23057,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-18T13:27:41Z"
+   "updatedAt": "2026-08-24T07:13:57Z"
   },
   "https://github.com/python/cpython/issues/150942": {
    "state": "open",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-08-23T06:08:39Z"
+   "updatedAt": "2026-08-24T06:13:45Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -26435,7 +26435,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-21T19:25:05Z"
+   "updatedAt": "2026-08-24T03:46:46Z"
   },
   "https://github.com/opencontainers/runc/issues/2519": {
    "state": "open",
@@ -28055,7 +28055,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-31T08:37:06Z"
+   "updatedAt": "2026-08-24T07:01:50Z"
   },
   "https://github.com/kata-containers/kata-containers/issues/6720": {
    "state": "open",
@@ -29900,16 +29900,16 @@
    "updatedAt": "2021-12-16T22:33:06Z"
   },
   "https://github.com/bradygaster/squad/issues/1493": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-23T00:03:50Z"
+   "updatedAt": "2026-08-23T18:07:23Z"
   },
   "https://github.com/bradygaster/squad/issues/1490": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-08T08:43:49Z"
+   "updatedAt": "2026-08-23T18:03:21Z"
   },
   "https://github.com/emacs-lsp/lsp-mode/issues/3067": {
    "state": "open",
@@ -33479,7 +33479,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-22T15:23:33Z"
+   "updatedAt": "2026-08-23T11:24:28Z"
   },
   "https://github.com/wso2/product-is/issues/27951": {
    "state": "open",
@@ -37169,7 +37169,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-17T05:45:43Z"
+   "updatedAt": "2026-08-23T18:46:28Z"
   },
   "https://github.com/gramps-project/gramps-web/issues/225": {
    "state": "closed",
@@ -37391,7 +37391,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-22T08:20:51Z"
+   "updatedAt": "2026-08-23T08:29:34Z"
   },
   "https://github.com/kubestellar/console/issues/4072": {
    "state": "open",
