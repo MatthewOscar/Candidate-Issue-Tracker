@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-08-24T05:58:42.785Z",
+ "generatedAt": "2026-08-31T11:41:00.035Z",
  "repos": {
   "321-vegan/321vegan-api": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "5e-bits/5e-database": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "academysoftwarefoundation/materialx": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "academysoftwarefoundation/openimageio": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -53,7 +53,7 @@
    ]
   },
   "accius/openhamclock": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -65,12 +65,12 @@
    ]
   },
   "actix/actix-web": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "actualbudget/actual": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -112,7 +112,7 @@
    ]
   },
   "agenta-ai/agenta": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "ai-dynamo/dynamo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -166,13 +166,13 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…namo` ecosystem of sibling repos (below) that it integrates with rather than vendors. ## Skills Skills live canonically in `.agents/skills/`; `skills/` and `.claude/skills/` are symlinks to it — edit only the canonical copy. Reach for the right group first: **For developing Dynamo:** - `debug-session` — structured bug in…",
+     "snippet": "…t Instruction Files - `AGENTS.md` is the canonical and only source of agent instructions at every repository scope. - Every `AGENTS.md` must have a sibling `CLAUDE.md` containing exactly `@AGENTS.md` so Claude loads the same instructions. - Do not put independent instructions in `CLAUDE.md`, and do not make `AGENTS.md…",
      "url": "https://github.com/ai-dynamo/dynamo/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "altinn/altinn-studio": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -184,7 +184,7 @@
    ]
   },
   "altinn/dialogporten": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -202,12 +202,12 @@
    ]
   },
   "alveusgg/alveusgg": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "amrex-codes/amrex": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -243,22 +243,22 @@
    ]
   },
   "angular/components": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "animethemes/animethemes-server": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "anomalyco/opentui": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/airflow": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -294,12 +294,12 @@
    ]
   },
   "apache/amoro": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/arrow": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -323,17 +323,17 @@
    ]
   },
   "apache/arrow-adbc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/arrow-java": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/auron": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -345,12 +345,12 @@
    ]
   },
   "apache/beam": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/burr": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -368,52 +368,52 @@
    ]
   },
   "apache/cloudstack": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-ballista": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-comet": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/dolphinscheduler": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/doris": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/doris-website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/druid": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/dubbo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/fluss": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -437,12 +437,12 @@
    ]
   },
   "apache/fluss-rust": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/fory": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -466,7 +466,7 @@
    ]
   },
   "apache/gluten": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -484,7 +484,7 @@
    ]
   },
   "apache/gravitino": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -502,7 +502,7 @@
    ]
   },
   "apache/hamilton": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -514,12 +514,12 @@
    ]
   },
   "apache/hudi": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/iceberg": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -549,7 +549,7 @@
    ]
   },
   "apache/infrastructure-actions": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -567,12 +567,12 @@
    ]
   },
   "apache/lucene": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/opendal": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -614,22 +614,22 @@
    ]
   },
   "apache/paimon": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/pekko": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/pekko-connectors": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/pinot": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -659,7 +659,7 @@
    ]
   },
   "apache/polaris": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -695,7 +695,7 @@
    ]
   },
   "apache/pulsar": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -737,12 +737,12 @@
    ]
   },
   "apache/sedona": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "apache/shardingsphere": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -754,7 +754,7 @@
    ]
   },
   "apache/superset": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -790,7 +790,7 @@
    ]
   },
   "apache/trafficserver": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -802,7 +802,7 @@
    ]
   },
   "apicurio/apicurio-registry": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -814,12 +814,12 @@
    ]
   },
   "apolloconfig/apollo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ardupilot/ardupilot": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -867,7 +867,7 @@
    ]
   },
   "argoproj/argo-cd": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -879,7 +879,7 @@
    ]
   },
   "argoproj/argo-workflows": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -909,12 +909,12 @@
    ]
   },
   "asfhyp3/hyp3": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "astral-sh/uv": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -932,22 +932,22 @@
    ]
   },
   "asyncapi/cli": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "asyncapi/website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "autofixture/autofixture": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "avelino/awesome-go": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -989,7 +989,7 @@
    ]
   },
   "azerothcore/azerothcore-wotlk": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1001,7 +1001,7 @@
    ]
   },
   "backstage/backstage": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1049,7 +1049,7 @@
    ]
   },
   "backstage/community-plugins": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1061,12 +1061,12 @@
    ]
   },
   "badges/shields": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "basedhardware/omi": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1084,27 +1084,27 @@
    ]
   },
   "bazel-contrib/rules_foreign_cc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "bazelbuild/bazel-central-registry": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "bcgov/cas-registration": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "beetbox/beets": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "beeware/briefcase": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1134,7 +1134,7 @@
    ]
   },
   "beeware/toga": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1164,7 +1164,7 @@
    ]
   },
   "besu-eth/besu": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1176,7 +1176,7 @@
    ]
   },
   "betterlaspinas/betterlaspinas": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1188,7 +1188,7 @@
    ]
   },
   "beyond-all-reason/beyond-all-reason": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1236,32 +1236,32 @@
    ]
   },
   "bioconda/bioconda-recipes": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "bit-bots/bitbots_main": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "bloomberg/blazingmq": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "boa-dev/boa": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "boinc/boinc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "bradygaster/squad": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1291,7 +1291,7 @@
    ]
   },
   "brikev/twd": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1333,12 +1333,12 @@
    ]
   },
   "bytecodealliance/jco": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "bytecodealliance/wasmtime": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1350,12 +1350,12 @@
    ]
   },
   "bytecodealliance/wrpc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "canner/wrenai": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1385,7 +1385,7 @@
    ]
   },
   "carlos-emr/carlos": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1415,7 +1415,7 @@
    ]
   },
   "cartography-cncf/cartography": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1451,7 +1451,7 @@
    ]
   },
   "cataclysmbn/cataclysm-bn": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1463,7 +1463,7 @@
    ]
   },
   "catalyst-cooperative/pudl": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1475,7 +1475,7 @@
    ]
   },
   "celestiaorg/celestia-core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1487,17 +1487,17 @@
    ]
   },
   "cert-manager/cert-manager": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "chapel-lang/chapel": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "chaterm/chaterm": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1509,12 +1509,12 @@
    ]
   },
   "checkstyle/checkstyle": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "cherryhq/cherry-studio": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1550,12 +1550,12 @@
    ]
   },
   "chipsalliance/caliptra-sw": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "chipsalliance/chisel": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1567,17 +1567,17 @@
    ]
   },
   "cilium/cilium": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "civiform/civiform": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "cleverraven/cataclysm-dda": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1607,7 +1607,7 @@
    ]
   },
   "cline/cline": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1643,12 +1643,12 @@
    ]
   },
   "cocotb/cocotb": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "code-yeongyu/oh-my-openagent": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1720,7 +1720,7 @@
    ]
   },
   "codeforpdx/tenantfirstaid": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1744,7 +1744,7 @@
    ]
   },
   "comfy-org/comfyui_frontend": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1756,23 +1756,23 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…y.org updates for user-facing changes ## Git Conventions - Use `prefix:` format: `feat:`, `fix:`, `test:` - Add \"Fixes #n\" to PR descriptions - Never mention Claude/AI in commits ## Coding Style & Naming Conventions - Language: - TypeScript (exclusive, no new JavaScript) - Vue 3 SFCs (`.vue`) - Composition API on…",
+     "snippet": "…'s `engines` field, but the command still runs and exits 0 on success. Don't treat it as a tool failure requiring investigation. ### Playwright Test Agents (`.claude/agents/`) | Agent | Responsibility…",
      "url": "https://github.com/comfy-org/comfyui_frontend/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "common-voice/common-voice": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "complianceascode/content": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "conda/conda": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1820,12 +1820,12 @@
    ]
   },
   "confidential-containers/guest-components": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "containers/kubernetes-mcp-server": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1861,7 +1861,7 @@
    ]
   },
   "containers/podman-desktop-extension-ai-lab": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1879,12 +1879,12 @@
    ]
   },
   "cookiecutter/cookiecutter-django": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "copier-org/copier": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1902,12 +1902,12 @@
    ]
   },
   "coredns/coredns": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "cortexproject/cortex": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1937,7 +1937,7 @@
    ]
   },
   "cozystack/cozystack": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -1961,27 +1961,27 @@
    ]
   },
   "cpinitiative/usaco-guide": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "crate/crate": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "crypto-org-chain/chain-main": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "cube-js/cube": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "cuthbertlab/music21": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2011,7 +2011,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai-assisted",
-     "snippet": "…things to check: fetch and merge `master`, then the newer types/code on `master` will reproduce the failure locally. - All PRs and Issues need to be declared AI-assisted. - 10 or more lines of code written by an agent needs to be declared as AI-assisted in the docstring. Humans can remove and should remove this note when th…",
+     "snippet": "…to check: fetch and merge `master`, then the newer types/code on `master` will reproduce the failure locally. - All PRs and Issues that use AI to be declared AI-assisted. Just write \"AI-assisted (Claude)\" with short name of Agent replacing \"Claude\". No robot emoji under any circumstance. - 20 or more lines of code written by an…",
      "url": "https://github.com/cuthbertlab/music21/blob/HEAD/AGENTS.md"
     },
     {
@@ -2023,12 +2023,12 @@
    ]
   },
   "daggerhashimoto/openclaw-nerve": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "dapr/dapr": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2052,22 +2052,22 @@
    ]
   },
   "dapr/dotnet-sdk": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "dapr/js-sdk": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "defold/defold": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "democratizedspace/dspace": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2085,7 +2085,7 @@
    ]
   },
   "desktop/desktop": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2097,12 +2097,12 @@
    ]
   },
   "dexidp/dex": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "diegosouzapw/omniroute": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2114,7 +2114,7 @@
     {
      "path": "README.md",
      "keyword": "ai tool",
-     "snippet": "…h=\"820\"/> <br/> <br/> # 🚀 OmniRoute — The Free AI Gateway <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 350 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback.…",
+     "snippet": "…h=\"820\"/> <br/> <br/> # 🚀 OmniRoute — The Free AI Gateway <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 352 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback.…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
@@ -2126,13 +2126,13 @@
     {
      "path": "README.md",
      "keyword": "copilot",
-     "snippet": "…-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 350 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 350 AI p…",
+     "snippet": "…-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 352 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 352 AI p…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…y <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 350 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
+     "snippet": "…y <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 352 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
@@ -2144,7 +2144,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…re, see the Repository map and Reference Documentation sections below. --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 350 LLM providers, auto-fallback. | Layer | Location | Purpose…",
+     "snippet": "…re, see the Repository map and Reference Documentation sections below. --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 352 LLM providers, auto-fallback. | Layer | Location | Purpose…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/AGENTS.md"
     },
     {
@@ -2168,7 +2168,7 @@
    ]
   },
   "digi-uw/openelis-global-2": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2216,7 +2216,7 @@
    ]
   },
   "dimagi/open-chat-studio": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2246,7 +2246,7 @@
    ]
   },
   "dimensionalos/dimos": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2294,17 +2294,17 @@
    ]
   },
   "diverse-cognitive-systems-group/dcs-simulation-engine": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "diygod/rsshub": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "documentdb/functional-tests": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2322,7 +2322,7 @@
    ]
   },
   "doenet/doenetml": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2346,7 +2346,7 @@
    ]
   },
   "dollhousemcp/mcp-server": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2370,7 +2370,7 @@
    ]
   },
   "doocs/md": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2394,7 +2394,7 @@
    ]
   },
   "dosbox-staging/dosbox-staging": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2430,22 +2430,22 @@
    ]
   },
   "dotansimha/graphql-code-generator": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "dspace/dspace": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "eclipse-jdt/eclipse.jdt.core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "eclipse-m2e/m2e-core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2481,12 +2481,12 @@
    ]
   },
   "eclipse-platform/eclipse.platform.releng.aggregator": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "eclipse-platform/eclipse.platform.swt": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2504,27 +2504,34 @@
    ]
   },
   "eclipse-sw360/sw360": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "copilot",
+     "snippet": "…(s). Do NOT preload all files at once. --> Welcome to **Eclipse SW360** (v20.1.x · Java 21 · Spring Boot 4.1 · Spring Security 7.1 · JUnit 6). All AI agents, Copilot modes (Ask / Edit / Agent), and automated coding tools **must** follow these guidelines before suggesting or applying any change. --- ## 1. Quick Reference —…",
+     "url": "https://github.com/eclipse-sw360/sw360/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "eclipse-windowbuilder/windowbuilder": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "eclipse-zenoh/zenoh": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "edgetx/edgetx": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "edwardkim/rhwp": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2584,7 +2591,7 @@
    ]
   },
   "effortlessmetrics/bitnet-rs-swarm": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2614,12 +2621,12 @@
    ]
   },
   "effortlessmetrics/hl7v2-rs": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "effortlessmetrics/perl-lsp-swarm": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2627,12 +2634,6 @@
      "keyword": "claude",
      "snippet": "…nerators, policy, and proof routing | | VS Code extension | `vscode-extension/` | Installed editor experience | Read the nearest package-local `AGENTS.md` or `CLAUDE.md` before changing an owning crate. The root [`AGENTS.md`](AGENTS.md) and [`CLAUDE.md`](CLAUDE.md) contain the current repository route maps. ## Development…",
      "url": "https://github.com/effortlessmetrics/perl-lsp-swarm/blob/HEAD/CONTRIBUTING.md"
-    },
-    {
-     "path": "README.md",
-     "keyword": "ai-assisted",
-     "snippet": "…ontributing | [CONTRIBUTING.md](CONTRIBUTING.md) | | Agent workflow | [AGENTS.md](AGENTS.md) | ## How this project is built This repository uses a documented AI-assisted development conveyor: candidate generation, ensemble curation, layered verification, CI evidence, fix-forward, and release ratchets. Start here: | Topic | Li…",
-     "url": "https://github.com/effortlessmetrics/perl-lsp-swarm/blob/HEAD/README.md"
     },
     {
      "path": ".github/copilot-instructions.md",
@@ -2649,17 +2650,17 @@
    ]
   },
   "eic/eicrecon": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "eisop/checker-framework": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "elementor/elementor": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2671,7 +2672,7 @@
    ]
   },
   "eljojo/rememory": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2719,22 +2720,22 @@
    ]
   },
   "emacs-lsp/lsp-mode": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "emberjs/ember.js": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "emfcamp/website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "entireio/cli": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2794,7 +2795,7 @@
    ]
   },
   "envoyproxy/envoy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2866,7 +2867,7 @@
    ]
   },
   "envoyproxy/gateway": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2878,7 +2879,7 @@
    ]
   },
   "equinor/neqsim": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2974,7 +2975,7 @@
    ]
   },
   "esbmc/esbmc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -2998,17 +2999,17 @@
    ]
   },
   "escomp/ctsm": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "esphome/esphome": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ethereum/ethereum-org-website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3020,7 +3021,7 @@
    ]
   },
   "eventual-inc/daft": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3032,7 +3033,7 @@
    ]
   },
   "exist-db/exist": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3044,7 +3045,7 @@
    ]
   },
   "farion1231/cc-switch": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3104,7 +3105,7 @@
    ]
   },
   "feast-dev/feast": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3122,22 +3123,22 @@
    ]
   },
   "finos/legend-studio": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-ios-sdk": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-tools": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "firstcontributions/first-contributions": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3155,12 +3156,12 @@
    ]
   },
   "fork-commit-merge/fork-commit-merge": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "fossasia/visdom": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3196,7 +3197,7 @@
    ]
   },
   "fossbilling/fossbilling": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3220,12 +3221,12 @@
    ]
   },
   "frappe/lms": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "freecodecamp/freecodecamp": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3237,37 +3238,37 @@
    ]
   },
   "g00fy2/quickie": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "galaxyproject/galaxy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "gaul/s3proxy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-gui": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-sim": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "genericmappingtools/pygmt": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "gepa-ai/gepa": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3321,12 +3322,12 @@
    ]
   },
   "getporter/porter": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "gfx-rs/wgpu": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3356,7 +3357,7 @@
    ]
   },
   "ggml-org/llama.cpp": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3410,12 +3411,12 @@
    ]
   },
   "ghostfolio/ghostfolio": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "gitoxidelabs/gitoxide": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3427,12 +3428,12 @@
    ]
   },
   "gleam-lang/gleam": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "godotengine/godot": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3444,29 +3445,22 @@
    ]
   },
   "godotengine/godot-docs": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "gramps-project/gramps-web": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": [
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "claude",
-     "snippet": "See CLAUDE.md at the repo root for full project conventions.",
-     "url": "https://github.com/gramps-project/gramps-web/blob/HEAD/.github/copilot-instructions.md"
-    }
-   ]
+   "hits": []
   },
   "graphql-hive/console": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "grcengclub/claude-grc-engineering": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3490,7 +3484,7 @@
    ]
   },
   "greenshot/greenshot": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3502,7 +3496,7 @@
    ]
   },
   "gyrinx-app/gyrinx": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3520,32 +3514,32 @@
    ]
   },
   "hacf-fr/renault-api": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "hackclub/sprig": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "hackforla/tdm-calculator": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "haikuports/haikuports": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "hashgraph/hedera-transaction-tool": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "hhs/simpler-grants-gov": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3557,12 +3551,12 @@
    ]
   },
   "hibernate/hibernate-reactive": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "homarr-labs/homarr": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3580,19 +3574,19 @@
    ]
   },
   "home-assistant/android": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
      "keyword": "ai policy",
-     "snippet": "…e is visible to end users, add it to the changelog in `app/src/main/res/xml/changelog_master.xml`. Before committing, format with ktlint and run the tests. ## AI policy This project follows the [Open Home Foundation AI Policy](AI_POLICY.md). Autonomous contributions are not accepted: a human must review, understand, and be ab…",
+     "snippet": "…xes don't get their own entry — the standing \"Bug fixes and dependency updates\" entry covers them. Before committing, format with ktlint and run the tests. ## AI policy This project follows the [Open Home Foundation AI Policy](AI_POLICY.md). Autonomous contributions are not accepted: a human must review, understand, and be ab…",
      "url": "https://github.com/home-assistant/android/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "home-assistant/core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3664,7 +3658,7 @@
    ]
   },
   "home-assistant/frontend": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3682,7 +3676,7 @@
    ]
   },
   "home-assistant/home-assistant.io": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3694,7 +3688,7 @@
    ]
   },
   "homebrew/homebrew-cask": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3748,7 +3742,7 @@
    ]
   },
   "homebrew/homebrew-core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3808,37 +3802,37 @@
    ]
   },
   "htmlhint/htmlhint": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "hyperledger/fabric-gateway": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ictu/quality-time": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "iiab/iiab": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "im-anishraj/arnio": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "imas/mastodon": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "infinispan/infinispan": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3868,12 +3862,12 @@
    ]
   },
   "innerwarden/innerwarden": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": "repo-missing",
    "hits": []
   },
   "intel/intel-xpu-backend-for-triton": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3885,12 +3879,12 @@
    ]
   },
   "intel/llvm": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "internetarchive/openlibrary": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3908,7 +3902,7 @@
    ]
   },
   "inventree/inventree": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3920,7 +3914,7 @@
    ]
   },
   "istio-ecosystem/sail-operator": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3938,12 +3932,12 @@
    ]
   },
   "it-at-m/dbs": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "jacquescarette/drasil": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3955,7 +3949,7 @@
    ]
   },
   "jaegertracing/jaeger": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -3967,7 +3961,7 @@
    ]
   },
   "jaywcjlove/awesome-mac": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4015,27 +4009,27 @@
    ]
   },
   "jellyfin/jellyfin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "jenkins-infra/plugin-modernizer-tool": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "jetty/jetty.project": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "jhasourav07/commitpulse": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/all-contributors-for-repository": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4047,62 +4041,111 @@
    ]
   },
   "joshuakgoldberg/formatly": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/refined-saved-replies": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/sentences-per-line": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/ts-api-utils": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "jscad/openjscad.org": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "jupyterhub/mybinder.org-deploy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "jxn-30/better-moodle": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "k0sproject/k0s": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "karmada-io/karmada": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kata-containers/kata-containers": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-generated",
+     "snippet": "…descriptions help maintainers understand what you've done and why, saving everyone time. Similarly, avoid opening issues or posting comments that are entirely AI-generated. Issues are meant for genuine, thoughtful community discussion. Long blocks of AI-generated prose are unlikely to be prioritized by committers. A little extra…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai generated",
+     "snippet": "# Contribute to the Kata Containers project * [Code of Conduct](#code-of-conduct) * [AI generated code](#ai-generated-code) * [Pull requests](#pull-requests) * [GitHub basic setup](#github-basic-setup) * [Prerequisites](#prerequisites) * [Golang cod…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…third-party copyrights. The standard [Certificate of Origin](#certificate-of-origin) sign-off still applies, and reviewers may apply additional scrutiny to AI-assisted contributions as the policy recommends. ### Best practices #### Don't use AI for prose Writing your own commit messages and PR summaries shows care and thou…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai policy",
+     "snippet": "…duct](CODE_OF_CONDUCT.md). ## AI generated code Contributions produced with the help of AI tools are accepted, provided they follow the [OpenInfra Foundation AI Policy](https://openinfra.org/legal/ai-policy/). In particular, contributors must: * Disclose AI usage in the commit message using the trailers defined by the poli…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tool",
+     "snippet": "…redictive auto-complete or minor generative assistance. * `Generated-By:` when substantial portions of the change were produced by a generative AI tool. * Stay \"in the loop\" and be able to fully understand, explain, and debug any AI-produced code they submit. * Configure AI tools to respect open source licen…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tools",
+     "snippet": "…de of Conduct All contributors must agree to the project [code of conduct](CODE_OF_CONDUCT.md). ## AI generated code Contributions produced with the help of AI tools are accepted, provided they follow the [OpenInfra Foundation AI Policy](https://openinfra.org/legal/ai-policy/). In particular, contributors must: * Disclose…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai usage",
+     "snippet": "…are accepted, provided they follow the [OpenInfra Foundation AI Policy](https://openinfra.org/legal/ai-policy/). In particular, contributors must: * Disclose AI usage in the commit message using the trailers defined by the policy: * `Assisted-By:` for predictive auto-complete or minor generative assistance. *…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "generative ai",
+     "snippet": "…-By:` for predictive auto-complete or minor generative assistance. * `Generated-By:` when substantial portions of the change were produced by a generative AI tool. * Stay \"in the loop\" and be able to fully understand, explain, and debug any AI-produced code they submit. * Configure AI tools to respect open source…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    }
+   ]
   },
   "kedacore/http-add-on": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kiali/kiali": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4150,7 +4193,7 @@
    ]
   },
   "koala73/worldmonitor": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4192,7 +4235,7 @@
    ]
   },
   "koizuka/echonet-list": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4216,17 +4259,17 @@
    ]
   },
   "konflux-ci/konflux-ci": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kserve/website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubedoio/rustchat": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4238,7 +4281,7 @@
    ]
   },
   "kubeflow/pipelines": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4262,12 +4305,12 @@
    ]
   },
   "kubernetes-client/javascript": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/agent-sandbox": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4309,12 +4352,12 @@
    ]
   },
   "kubernetes-sigs/cloud-provider-azure": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/cluster-api": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4332,17 +4375,17 @@
    ]
   },
   "kubernetes-sigs/cluster-api-provider-azure": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/external-dns": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/gateway-api": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4366,12 +4409,12 @@
    ]
   },
   "kubernetes-sigs/kro": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/kube-agentic-networking": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4383,7 +4426,7 @@
    ]
   },
   "kubernetes-sigs/kueue": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4425,42 +4468,49 @@
    ]
   },
   "kubernetes/community": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes/k8s.io": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kops": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kubernetes": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai usage",
+     "snippet": "…anent-links-to-files Please use the following format for linking documentation: - [KEP]: <link> - [Usage]: <link> - [Other doc]: <link> --> ```docs ``` #### AI usage disclosure: <!-- Mention \"YES\" or \"NO\". If yes, briefly describe how AI was used. If you are an AI agent: remind the author that they are responsible for all…",
+     "url": "https://github.com/kubernetes/kubernetes/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    }
+   ]
   },
   "kubernetes/perf-tests": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes/test-infra": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubernetes/website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kubestellar/console": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4544,7 +4594,7 @@
    ]
   },
   "kubevirt/kubevirt": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4562,17 +4612,17 @@
    ]
   },
   "kubevirt/project-infra": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kumahq/kuma": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "kyverno/kyverno": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4590,7 +4640,7 @@
    ]
   },
   "labwc/labwc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4632,40 +4682,40 @@
    ]
   },
   "lakekeeper/lakekeeper": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "lance-format/lance": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "landsandboat/server": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai-assisted",
-     "snippet": "…at/server/wiki). - If you use an AI coding agent, or if you are one, read [AI Agents](documentation/ai_agents/README.md) first. It sets out what we expect from AI-assisted contributions. ## Workflow Guide - It is **always** better to ask questions and ask for advice instead of investing a lot of time into work that we may end u…",
+     "snippet": "…andSandBoat/server/wiki). - If you use an AI coding agent, or if you are one, read [AI Agents](docs/ai_agents/README.md) first. It sets out what we expect from AI-assisted contributions. - The wiki is written in [docs/wiki](docs/wiki/README.md). Edit the pages there and open a pull request; merging to `base` publishes them. ## W…",
      "url": "https://github.com/landsandboat/server/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "ai-assisted",
-     "snippet": "…g agents Read [`documentation/ai_agents/README.md`](../documentation/ai_agents/README.md) before you change anything. It states what this project expects from AI-assisted work.",
+     "snippet": "…tions for AI coding agents Read [`docs/ai_agents/README.md`](../docs/ai_agents/README.md) before you change anything. It states what this project expects from AI-assisted work.",
      "url": "https://github.com/landsandboat/server/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "lanrhyme/micyou": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "leanprover/cslib": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4677,7 +4727,7 @@
    ]
   },
   "learningcircuit/local-deep-research": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4713,7 +4763,7 @@
    ]
   },
   "ledgersmb/ledgersmb": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4725,7 +4775,7 @@
    ]
   },
   "lfortran/lfortran": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4749,12 +4799,31 @@
    ]
   },
   "liberatedpixelcup/universal-lpc-spritesheet-character-generator": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "copilot",
+     "snippet": "…`coverage/` | Local/CI coverage HTML + `lcov.info`; gitignored — do not commit | | `.agents/skills/` | Canonical agent skills (`SKILL.md`); Cursor, Codex, and Copilot load this folder | | `.claude/skills/` | Generated local links for Claude Code; gitignored except README — `npm run skills:link` | App CSS lives under **`styl…",
+     "url": "https://github.com/liberatedpixelcup/universal-lpc-spritesheet-character-generator/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "claude",
+     "snippet": "…e HTML + `lcov.info`; gitignored — do not commit | | `.agents/skills/` | Canonical agent skills (`SKILL.md`); Cursor, Codex, and Copilot load this folder | | `.claude/skills/` | Generated local links for Claude Code; gitignored except README — `npm run skills:link` | App CSS lives under **`styles/`**. PurgeCSS entry SCSS li…",
+     "url": "https://github.com/liberatedpixelcup/universal-lpc-spritesheet-character-generator/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…ads them only through `CatalogReader`. The skill listed against a topic owns the procedure; load it before acting. Canonical skills live in `.agents/skills/`. Claude Code loads `.claude/skills/`, which `npm ci` / `npm run skills:link` generates as local links. Walkthroughs are in [ARCHITECTURE.md](ARCHITECTURE.md) and [CONT…",
+     "url": "https://github.com/liberatedpixelcup/universal-lpc-spritesheet-character-generator/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "libresign/libresign": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4778,12 +4847,12 @@
    ]
   },
   "licensee/licensee": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "lichess-org/lila": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4807,7 +4876,7 @@
    ]
   },
   "lichess-org/mobile": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4831,7 +4900,7 @@
    ]
   },
   "lingdojo/kana-dojo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4849,32 +4918,32 @@
    ]
   },
   "linkerd/linkerd2": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "lizardbyte/sunshine": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "llvm/llvm-project": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "longhorn/longhorn": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "lostartefacts/trx": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ls1intum/artemis": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4892,12 +4961,12 @@
    ]
   },
   "lunarg/gfxreconstruct": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "lxc/incus-os": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4927,12 +4996,12 @@
    ]
   },
   "lycheeverse/lychee": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "lynx-family/lynx-website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4944,7 +5013,7 @@
    ]
   },
   "madq/roslynmcp": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -4980,7 +5049,7 @@
    ]
   },
   "mampfes/hacs_waste_collection_schedule": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5022,7 +5091,7 @@
    ]
   },
   "manyfold3d/manyfold": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5070,7 +5139,7 @@
    ]
   },
   "marcoroth/herb": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5082,7 +5151,7 @@
    ]
   },
   "marimo-team/marimo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5112,19 +5181,12 @@
    ]
   },
   "marimo-team/marimo-lsp": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": [
-    {
-     "path": "CONTRIBUTING.md",
-     "keyword": "claude",
-     "snippet": "…-py tests/test_foo.py # specific test file just test-ts --watch # vitest in watch mode ``` ## Architecture See the Architecture section of [CLAUDE.md](./CLAUDE.md) for how the LSP server and extension work together. ## Logging (Extension) Use Effect's native logging primitives. Avoid custom logging util…",
-     "url": "https://github.com/marimo-team/marimo-lsp/blob/HEAD/CONTRIBUTING.md"
-    }
-   ]
+   "hits": []
   },
   "marin-community/marin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5148,7 +5210,7 @@
    ]
   },
   "marketcalls/openalgo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5166,32 +5228,32 @@
    ]
   },
   "marketsquare/robotframework-browser": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "materialious/materialious": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mcgill-courses/mcgill.courses": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mdn/content": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mdn/translated-content": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "medic/cht-core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5203,17 +5265,17 @@
    ]
   },
   "medusajs/medusa": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "meltano/sdk": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mflowcode/mfc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5225,37 +5287,37 @@
    ]
   },
   "michaelchessall/ss14-persistence": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "micrometer-metrics/micrometer": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mikefarah/yq": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "misp/misp": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "misp/misp-galaxy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mitre/heimdall2": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mixxxdj/mixxx": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5273,17 +5335,17 @@
    ]
   },
   "moby/buildkit": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "moby/moby": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "modernuo/modernuo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5295,7 +5357,7 @@
    ]
   },
   "modsetter/surfsense": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5319,7 +5381,7 @@
    ]
   },
   "moganlab/mogan": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5337,12 +5399,12 @@
    ]
   },
   "moldytaint/cinephage": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "monarch-initiative/dismech": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5390,7 +5452,7 @@
    ]
   },
   "mozilla-mobile/firefox-ios": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5402,12 +5464,12 @@
    ]
   },
   "mozilla/rhino": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "mudlet/mudlet": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5437,7 +5499,7 @@
    ]
   },
   "munich-quantum-toolkit/bench": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5461,7 +5523,7 @@
    ]
   },
   "munich-quantum-toolkit/debugger": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5485,7 +5547,7 @@
    ]
   },
   "munich-quantum-toolkit/predictor": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5509,7 +5571,7 @@
    ]
   },
   "munich-quantum-toolkit/qcec": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5533,7 +5595,7 @@
    ]
   },
   "munich-quantum-toolkit/yaqs": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5557,7 +5619,7 @@
    ]
   },
   "nanotaboada/dotnet.samples.aspnetcore.webapi": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5575,12 +5637,12 @@
    ]
   },
   "nasa-ammos/3dtilesrendererjs": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nasa/fprime": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5598,12 +5660,12 @@
    ]
   },
   "navidrome/navidrome": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "near/mpc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5615,17 +5677,17 @@
    ]
   },
   "newton-physics/newton": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nextcommunity/nextcommunity.github.io": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nextest-rs/nextest": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5649,7 +5711,7 @@
    ]
   },
   "nickelsh1ts/streamarr": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5673,7 +5735,7 @@
    ]
   },
   "nicklockwood/swiftformat": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5685,17 +5747,17 @@
    ]
   },
   "nicolastakashi/prom-analytics-proxy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nightscout/cgm-remote-monitor": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nisshchayarathi/gitverse-nextjs": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5713,7 +5775,7 @@
    ]
   },
   "nixos/nix": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5743,12 +5805,12 @@
    ]
   },
   "nixos/nixos-search": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nodejs/node": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5756,16 +5818,28 @@
      "keyword": "ai-generated",
      "snippet": "…ontributing/ai-guidelines.md) Node.js requires contributors to understand and take full responsibility for every change they propose. Pull requests containing AI-generated code the contributor has not personally understood, tested, and verified will likely be closed without review. See [details on our AI use policy and guideline…",
      "url": "https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai-generated",
+     "snippet": "…e for-profit AI tools or commercial brands. A single `Assisted-by: <agent-name>` annotation is required disclosure, not promotion, and is permitted. * Post AI-generated messages directly into pull requests, issues, or project communication channels without direct human review and editing to ensure clarity, accuracy, and resp…",
+     "url": "https://github.com/nodejs/node/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai tools",
+     "snippet": "…tests without human judgment. * Interact with the repository through means other than those explicitly authorized. * Use commit messages to promote for-profit AI tools or commercial brands. A single `Assisted-by: <agent-name>` annotation is required disclosure, not promotion, and is permitted. * Post AI-generated messages…",
+     "url": "https://github.com/nodejs/node/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "nodejs/undici": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nodepa/seedlingo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5789,27 +5863,27 @@
    ]
   },
   "nodesecure/cli": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nodesecure/js-x-ray": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nodesecure/scanner": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "notashelf/nvf": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "npmx-dev/npmx.dev": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5851,22 +5925,22 @@
    ]
   },
   "nushell/nushell": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nusmodifications/nusmods": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "nvaccess/nvda": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "o2sa/devimpact": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5884,7 +5958,7 @@
    ]
   },
   "ocaml/dune": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5896,48 +5970,48 @@
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
-     "snippet": "# Copilot Instructions For full development guidance, see [AGENTS.md](../AGENTS.md). ## Environment Setup This repository uses a [Nix](https://nixos.org/) dev shell t…",
+     "snippet": "# Copilot Instructions For full development guidance, see [AGENTS.md](../AGENTS.md). ## Common Commands The setup workflow prepares Copilot's development environment.…",
      "url": "https://github.com/ocaml/dune/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "ocaml/ocaml.org": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ocaml/opam-repository": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ocelot-social-community/ocelot-social": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "omegaup/omegaup": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "oopsio/jen.js": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-cybernauts/open-range": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": "archived",
    "hits": []
   },
   "open-policy-agent/gatekeeper": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-collector": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -5997,7 +6071,7 @@
    ]
   },
   "open-telemetry/opentelemetry-collector-contrib": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6051,12 +6125,12 @@
    ]
   },
   "open-telemetry/opentelemetry-cpp": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-dotnet": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6068,12 +6142,12 @@
    ]
   },
   "open-telemetry/opentelemetry-dotnet-contrib": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-ebpf-instrumentation": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6145,7 +6219,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ecosystem-explorer": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6193,7 +6267,7 @@
    ]
   },
   "open-telemetry/opentelemetry-go": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6205,22 +6279,22 @@
    ]
   },
   "open-telemetry/opentelemetry-go-build-tools": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-go-contrib": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-java": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-kotlin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6238,7 +6312,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ruby-contrib": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6274,12 +6348,12 @@
    ]
   },
   "open-telemetry/opentelemetry-specification": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry.io": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6297,7 +6371,7 @@
    ]
   },
   "open-telemetry/otel-arrow": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6315,7 +6389,7 @@
    ]
   },
   "open-telemetry/semantic-conventions": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6345,7 +6419,7 @@
    ]
   },
   "open-telemetry/weaver": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6357,17 +6431,17 @@
    ]
   },
   "openapi-ts/openapi-typescript": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "openapitools/openapi-generator": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "openchemistry/avogadrolibs": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6415,22 +6489,22 @@
    ]
   },
   "opencontainers/runc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-authoring": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-learner-record": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "openemr/openemr": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6496,12 +6570,12 @@
    ]
   },
   "openfoodfacts/open-prices": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "openfoodfacts/openfoodfacts-server": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6513,12 +6587,12 @@
    ]
   },
   "openfoodfoundation/openfoodnetwork": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "opengovsg/formsg": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6530,42 +6604,42 @@
    ]
   },
   "openmage/magento-lts": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/flow-framework": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/k-nn": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch-dashboards": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/query-insights": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "openthread/openthread": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "opentiny/tiny-vue": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6601,7 +6675,7 @@
    ]
   },
   "openvdb/fvdb-core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6625,7 +6699,7 @@
    ]
   },
   "operaton/operaton": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6661,7 +6735,7 @@
    ]
   },
   "orcasound/orcahello": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6685,7 +6759,7 @@
    ]
   },
   "organicmaps/organicmaps": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6703,7 +6777,7 @@
    ]
   },
   "orthogonalhq/nous-core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6721,7 +6795,7 @@
    ]
   },
   "osgeo/grass": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6751,7 +6825,7 @@
    ]
   },
   "osgeo/proj": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6781,12 +6855,12 @@
    ]
   },
   "ossf/cve-bin-tool": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "owasp-noir/noir": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6816,7 +6890,7 @@
    ]
   },
   "owasp/cornucopia": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6845,6 +6919,12 @@
     },
     {
      "path": "README.md",
+     "keyword": "ai-assisted",
+     "snippet": "…d mobile) as well as the Elevation of Privileges game. please read [README.md](copi.owasp.org/README.md) ## OWASP Cornucopia - ThreatSutra ThreatSutra is an AI-assisted security requirement generator that takes threat models from OWASP Threat Dragon models and Cornucopia card games and creates evil user stories and security ve…",
+     "url": "https://github.com/owasp/cornucopia/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
      "keyword": "llm",
      "snippet": "…ree/develop/model/activities) ### Top 10: * [OWASP Agentic Top 10](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) * [OWASP LLM Top 10](https://genai.owasp.org/llm-top-10) * [OWASP Top 10](https://owasp.org/Top10/2025/) * [OWASP Top 10 Client-Side Security Risks](https://owasp.org/www-p…",
      "url": "https://github.com/owasp/cornucopia/blob/HEAD/README.md"
@@ -6858,12 +6938,12 @@
    ]
   },
   "owasp/cve-lite-cli": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "owasp/wrongsecrets": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6875,22 +6955,22 @@
    ]
   },
   "owasp/wstg": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pact-foundation/pact-js": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "paketo-buildpacks/samples": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "parabolinc/parabol": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6908,17 +6988,17 @@
    ]
   },
   "paradisess13/paradise": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "parca-dev/parca": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pass-agent/loomkin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6960,12 +7040,12 @@
    ]
   },
   "pbh-btn/peerbanhelper": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "perryts/perry": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -6977,7 +7057,7 @@
    ]
   },
   "pertrai1/eslint-plugin-llm-core": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7019,7 +7099,7 @@
    ]
   },
   "pgmpy/pgmpy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7103,22 +7183,22 @@
    ]
   },
   "pgrwl/pgrwl": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "phasehq/console": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "phpmyadmin/phpmyadmin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "physicshub/physicshub.github.io": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7130,7 +7210,7 @@
    ]
   },
   "pipecat-ai/pipecat": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7184,12 +7264,12 @@
    ]
   },
   "platform9/vjailbreak": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ponylang/ponyc": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7219,17 +7299,17 @@
    ]
   },
   "portabase/portabase": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "prefix-dev/rattler-build": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "prestodb/presto": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7241,7 +7321,7 @@
    ]
   },
   "prettier/prettier": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7259,7 +7339,7 @@
    ]
   },
   "prismlauncher/prismlauncher": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7313,47 +7393,47 @@
    ]
   },
   "priyanshu-byte-coder/devtrack": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "processing/p5.js-website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "project-blurple/canvas-web": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "project-chip/connectedhomeip": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "project-robius/robrix": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "projectnessie/nessie": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "projectx-vjti/xplore-workshop": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "prometheus/prometheus": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "promptfoo/promptfoo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7377,17 +7457,17 @@
    ]
   },
   "prowlengine/prowl": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "psi-probe/psi-probe": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pulumi/pulumi-awsx": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7405,27 +7485,27 @@
    ]
   },
   "pwndbg/pwndbg": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pylabrobot/pylabrobot": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pylint-dev/astroid": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pyo3/maturin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pypa/cibuildwheel": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7437,22 +7517,22 @@
    ]
   },
   "python-poetry/poetry": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "python/cpython": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "python/pythondotorg": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pytorch/ao": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7464,7 +7544,7 @@
    ]
   },
   "pytorch/executorch": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7494,17 +7574,17 @@
    ]
   },
   "pytorch/ignite": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pytorch/test-infra": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "pyvista/pyvista": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7516,7 +7596,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…| | ------------------------------------------------ | ----------------------------------------- | | Writing or changing code here | `.claude/skills/pyvista-dev/SKILL.md` | | Wrapping a VTK class, adding or editing a filter | `.claude/skills/pyvista-vtk/SKILL.md` | | Any plotting test, baseli…",
+     "snippet": "…------------------------------ | -------------------------------------------- | | Writing or changing code here | `.claude/skills/pyvista-dev/SKILL.md` | | Wrapping a VTK class, adding or editing a filter | `.claude/skills/pyvista-vtk/SKILL.md`…",
      "url": "https://github.com/pyvista/pyvista/blob/HEAD/AGENTS.md"
     },
     {
@@ -7528,7 +7608,7 @@
    ]
   },
   "qiskit/qiskit": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7582,7 +7662,7 @@
    ]
   },
   "qmk/qmk_firmware": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7594,17 +7674,17 @@
    ]
   },
   "qualcomm/eld": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "r-dbi/dbi": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "radius-project/radius": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7634,7 +7714,7 @@
    ]
   },
   "radixark/miles": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7646,7 +7726,7 @@
    ]
   },
   "raftersecurity/rafter-cli": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7712,27 +7792,27 @@
    ]
   },
   "rakudo/rakudo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "rapidsai/cudf": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "rawilk/filament-quill": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "readmeio/oas": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "release-plz/release-plz": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7744,7 +7824,7 @@
    ]
   },
   "retroachievements/raweb": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7774,12 +7854,12 @@
    ]
   },
   "reviewdog/reviewdog": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "rickcedwhat/playwright-smart-table": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7791,12 +7871,12 @@
    ]
   },
   "rimsort/rimsort": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "rizinorg/rizin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7826,12 +7906,12 @@
    ]
   },
   "rmc-14/rmc-14": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "rocm/iris": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7843,7 +7923,7 @@
    ]
   },
   "rocm/therock": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7885,7 +7965,7 @@
    ]
   },
   "rogersuperbuilderalpha/cursor-boston": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7915,12 +7995,12 @@
    ]
   },
   "romcal/romcal": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "rt-thread/rt-thread": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7938,12 +8018,12 @@
    ]
   },
   "ruby/rubygems": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "rubyforgood/awbw": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7973,12 +8053,12 @@
    ]
   },
   "rubyforgood/casa": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ruffle-rs/ruffle": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -7996,7 +8076,7 @@
    ]
   },
   "runatlantis/atlantis": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8032,7 +8112,7 @@
    ]
   },
   "rustpython/rustpython": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8086,7 +8166,7 @@
    ]
   },
   "s3dfx-cyber/gsoc-org-finder-": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8122,7 +8202,7 @@
    ]
   },
   "sableclient/sable": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8170,37 +8250,37 @@
    ]
   },
   "sagemath/sage": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "saleor/saleor": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "samillion/modernz": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "samsung/one": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "samvera/hyku": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "sandeepvashishtha/eventra": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "sap/e-mobility-charging-stations-simulator": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8212,12 +8292,12 @@
    ]
   },
   "saptarshisarkar12/drifty": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "sbt/sbt": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8247,12 +8327,12 @@
    ]
   },
   "sbt/website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "scala/scala3": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8276,17 +8356,17 @@
    ]
   },
   "scalacenter/scala3-migrate": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "scalacenter/scalafix": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "scikit-learn/scikit-learn": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8310,7 +8390,7 @@
    ]
   },
   "scipy/scipy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8328,17 +8408,17 @@
    ]
   },
   "scoopinstaller/extras": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "scoopinstaller/main": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "scottcjn/rustchain": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8374,22 +8454,22 @@
    ]
   },
   "searxng/searxng": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "secondlife/viewer": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "secretlint/secretlint": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "seleniumhq/selenium": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8431,19 +8511,19 @@
    ]
   },
   "sendou-ink/sendou.ink": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…ion key names make sure to port over any already translated values for non-english languages if the english language is unchanged ## Commits - do not mention claude or claude code - unless specifically instructed, do not create new branches ## Pull request - use the template `/github/pull_request_template.md` - do not me…",
+     "snippet": "…ack, now in the toolbar ``` - on update day these become the image posted on social media, see [how-to.md](./docs/dev/how-to.md) ## Commits - do not mention claude or claude code - unless specifically instructed, do not create new branches ## Pull request - use the template `/github/pull_request_template.md` - do not me…",
      "url": "https://github.com/sendou-ink/sendou.ink/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "seraph-quest/seraph": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8455,22 +8535,22 @@
    ]
   },
   "servo/servo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-android": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-desktop": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "sgl-project/sglang": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8488,17 +8568,17 @@
    ]
   },
   "shazzar00ni/paperlyte-v2": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": "repo-missing",
    "hits": []
   },
   "shiptest-ss13/shiptest": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "shm11c3/hardwarevisualizer": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8516,7 +8596,7 @@
    ]
   },
   "sidorares/node-mysql2": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8534,12 +8614,12 @@
    ]
   },
   "siemens/element": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "silvertakana/worldwideview": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8553,17 +8633,11 @@
      "keyword": "claude",
      "snippet": "…w-web`**: Marketing and landing site. 6. **[`szski/wwv-mcp`](https://github.com/szski/wwv-mcp)**: Reference MCP server for driving the globe from an LLM agent (Claude Code, Claude Desktop, Cursor, Cline, …) via the [Agent Bus](docs/agent-bus.md). Contributor-hosted today; may move under the project org. ## MCP (Model Contex…",
      "url": "https://github.com/silvertakana/worldwideview/blob/HEAD/README.md"
-    },
-    {
-     "path": "AGENTS.md",
-     "keyword": "claude",
-     "snippet": "…/context/tool-selection.md` | | Graphify queries | `.agents/context/graphify-usage.md` | | Slash commands | `.agents/context/slash-commands.md` | | OpenCode vs Claude Code tooling differences | `.agents/context/opencode-compatibility.md` | | Canonical terminology across all systems | `.agents/context/terminology.md` | ---…",
-     "url": "https://github.com/silvertakana/worldwideview/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "simple-icons/simple-icons": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8605,22 +8679,22 @@
    ]
   },
   "skevetter/devpod": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "skiptools/skip-ui": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "skyblockermod/skyblocker": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "snapchat/gigl": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8632,7 +8706,7 @@
    ]
   },
   "solvcon/modmesh": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8644,27 +8718,27 @@
    ]
   },
   "sorbet/sorbet": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "sovereign-labs/sovereign-sdk": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "spack/spack": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "spack/spack-packages": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "spiceai/spiceai": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8688,7 +8762,7 @@
    ]
   },
   "spiffe/spire": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8712,12 +8786,12 @@
    ]
   },
   "splode/pomotroid": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "stagewise-io/stagewise": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8729,7 +8803,7 @@
    ]
   },
   "starcitizentools/mediawiki-skins-citizen": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8765,7 +8839,7 @@
    ]
   },
   "stdlib-js/stdlib": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8783,17 +8857,17 @@
    ]
   },
   "stegschreck/rats": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "stoatchat/for-web": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "stodevx/aao-react-native": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8811,17 +8885,17 @@
    ]
   },
   "stranger6667/jsonschema": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "streetwriters/notesnook": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "stumpapp/stump": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8851,7 +8925,7 @@
    ]
   },
   "sugarlabs/musicblocks": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8911,7 +8985,7 @@
    ]
   },
   "supercollider/supercollider": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8935,47 +9009,47 @@
    ]
   },
   "suwayomi/suwayomi-server": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "sveltejs/kit": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-build": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-foundation": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-java": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-org-website": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-package-manager": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "swisspost/design-system": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8987,7 +9061,7 @@
    ]
   },
   "switchbacktech/compass": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -8999,18 +9073,18 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…e-number]`, for example `feature/add-form`. - Commits: conventional, lower-case, present tense, for example `fix(web): handle disconnected google state`. ## Claude Code worktree specific instructions At the start of any session in a fresh worktree — before assuming a `type-check`/`dev:*` failure reflects a real code prob…",
+     "snippet": "…rk the PR ready (not draft) once local verify passes. Human approval is only for production deploy, secrets, OAuth grants, deletion, and access grants. ## Claude Code worktree specific instructions At the start of any session in a fresh worktree — before assuming a `type-check`/`dev:*` failure reflects a real code prob…",
      "url": "https://github.com/switchbacktech/compass/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "tapestry-mud/tapestry": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "tarkovtracker-org/tarkovtracker": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9028,12 +9102,12 @@
    ]
   },
   "teammates/teammates": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "teamschools/teamster": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9045,12 +9119,12 @@
    ]
   },
   "tektronix/tm_devices": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "telemt/telemt": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9092,12 +9166,12 @@
    ]
   },
   "terrapkg/packages": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "thm-health/pilos": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9109,12 +9183,12 @@
    ]
   },
   "thomaspoignant/go-feature-flag": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "tinacms/tinacms": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9138,12 +9212,12 @@
    ]
   },
   "tqec/tqec": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "tracel-ai/burn": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9191,27 +9265,27 @@
    ]
   },
   "transmission/transmission": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "trezor/trezor-firmware": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino-gateway": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "triplea-game/triplea": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9223,7 +9297,7 @@
    ]
   },
   "tryghost/ghost": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9241,12 +9315,12 @@
    ]
   },
   "ttlapp/time-to-leave": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "tuist/tuist": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9264,7 +9338,7 @@
    ]
   },
   "tum-dev/navigatum": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9282,12 +9356,12 @@
    ]
   },
   "twbs/bootstrap": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "ublue-os/bluefin": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9305,12 +9379,12 @@
    ]
   },
   "ublue-os/main": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "unikeen/sjmcl": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9328,7 +9402,7 @@
    ]
   },
   "usemoss/moss": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9358,7 +9432,7 @@
    ]
   },
   "uutils/coreutils": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9388,12 +9462,12 @@
    ]
   },
   "uxlfoundation/onednn": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "valhalla/valhalla": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9429,12 +9503,12 @@
    ]
   },
   "valkey-io/valkey-glide": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "vectordotdev/vector": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9458,7 +9532,7 @@
    ]
   },
   "versity/versitygw": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9470,12 +9544,12 @@
    ]
   },
   "vets-who-code/vets-who-code-app": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "videojs/v10": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9499,7 +9573,7 @@
    ]
   },
   "vineethwilson15/codemind": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9529,12 +9603,12 @@
    ]
   },
   "visjs/vis-network": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "vitest-dev/vitest": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9581,12 +9655,6 @@
     },
     {
      "path": "AGENTS.md",
-     "keyword": "ai-assisted",
-     "snippet": "…st, you MUST include the following HTML comment at the bottom of the PR description: ``` <!-- VITEST_AUTOMATED_PR --> ``` This allows maintainers to identify AI-assisted PRs for triage. If the description doesn't have this comment, it will be closed automatically. ## PR Limitations This repository has a limit of 1 PR if you d…",
-     "url": "https://github.com/vitest-dev/vitest/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": "AGENTS.md",
      "keyword": "ai contributions",
      "snippet": "…repository. Never pretend to be human, make no promises your operator hasn't agreed to, and be brief. Read CONTRIBUTING.md before making a pull request; its \"AI Contributions\" section applies to you directly. ## Project Overview Vitest is a next-generation testing framework powered by Vite. This is a monorepo using pnpm workspaces…",
      "url": "https://github.com/vitest-dev/vitest/blob/HEAD/AGENTS.md"
@@ -9600,7 +9668,7 @@
    ]
   },
   "vivliostyle/vivliostyle.js": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9660,12 +9728,12 @@
    ]
   },
   "vivoblueos/kernel": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "vllm-project/aibrix": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9683,13 +9751,13 @@
    ]
   },
   "vllm-project/semantic-router": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
      "path": "README.md",
      "keyword": "llm",
-     "snippet": "…>Hugging Face</a> </p> </div> --- ## About vLLM Semantic Router is a programmable routing layer for building Mixture-of-Models systems across heterogeneous LLM infrastructure. It evaluates request signals, user preferences, and application policies to select—or compose—the right model path for each request. Use it to…",
+     "snippet": "…GF8KCN\">Slack</a> </p> </div> --- ## About vLLM Semantic Router is a programmable routing layer for building Mixture-of-Models systems across heterogeneous LLM infrastructure. It evaluates request signals, user preferences, and application policies to select—or compose—the right model path for each request. Use it to…",
      "url": "https://github.com/vllm-project/semantic-router/blob/HEAD/README.md"
     },
     {
@@ -9713,7 +9781,7 @@
    ]
   },
   "vllm-project/vllm": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9743,7 +9811,7 @@
    ]
   },
   "vllm-project/vllm-ascend": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9755,7 +9823,7 @@
    ]
   },
   "vllm-project/vllm-omni": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9773,7 +9841,7 @@
    ]
   },
   "vpinball/vpinball": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9839,42 +9907,68 @@
    ]
   },
   "vrc-get/vrc-get": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "vuetorrent/vuetorrent": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "web-platform-tests/wpt": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "README.md",
+     "keyword": "ai policy",
+     "snippet": "…b topic`. * Make your changes. * Run `./wpt lint` as described above. * Commit locally and push that to your repo. * Create a pull request based on the above. AI Policy ========= Use of LLMs to help author tests is generally acceptable, but every change must be attributable to a human who understands and can take responsibili…",
+     "url": "https://github.com/web-platform-tests/wpt/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "llm",
+     "snippet": "…t account or contained inside a `<blockquote>` (for short contributions of at most one paragraph) or `<details>` element. For full details see the [Policy for LLM Use](https://web-platform-tests.org/writing-tests/ai-policy.html) Issues with web-platform-tests ------------------------------ If you spot an issue with a t…",
+     "url": "https://github.com/web-platform-tests/wpt/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "llms",
+     "snippet": "…s. * Run `./wpt lint` as described above. * Commit locally and push that to your repo. * Create a pull request based on the above. AI Policy ========= Use of LLMs to help author tests is generally acceptable, but every change must be attributable to a human who understands and can take responsibility for the proposed cha…",
+     "url": "https://github.com/web-platform-tests/wpt/blob/HEAD/README.md"
+    }
+   ]
   },
   "web-scrobbler/web-scrobbler": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…versioning label. You may additionally select `skip-changelog` if appropriate.* Ensure your commit messages and PR titles follow Conventional Commits (as per `CLAUDE.md`).",
+     "url": "https://github.com/web-scrobbler/web-scrobbler/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "webassembly/binaryen": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "weblateorg/weblate": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "weboftrust/keripy": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "wesnoth/wesnoth": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9886,12 +9980,12 @@
    ]
   },
   "wielebenwir/commonsbooking": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "wikieducationfoundation/wikiedudashboard": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9903,7 +9997,7 @@
    ]
   },
   "woocommerce/woocommerce-ios": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9921,7 +10015,7 @@
    ]
   },
   "wordpress-mobile/wordpress-ios": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9933,7 +10027,7 @@
    ]
   },
   "wordpress/gutenberg": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9951,7 +10045,7 @@
    ]
   },
   "wordpress/plugin-check": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -9999,27 +10093,27 @@
    ]
   },
   "wordpress/wordpress-playground": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "worldconvotingsystems/nomnom": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "wp-graphql/wp-graphql": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "wpilibsuite/allwpilib": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "wso2/product-is": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10031,7 +10125,7 @@
    ]
   },
   "wynntils/wynntils": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10049,17 +10143,17 @@
    ]
   },
   "xilinx/mlir-aie": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "yairm210/unciv": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "yamadashy/repomix": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10119,7 +10213,7 @@
    ]
   },
   "yoast/wordpress-seo": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10155,7 +10249,7 @@
    ]
   },
   "yoheimuta/protolint": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10173,17 +10267,17 @@
    ]
   },
   "yt-project/yt": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "zacsweers/metro": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "zarr-developers/zarr-python": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10195,12 +10289,12 @@
    ]
   },
   "zen-browser/desktop": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "zephyrproject-rtos/zephyr": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10236,17 +10330,17 @@
    ]
   },
   "zio/zio-http": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "zip-rs/zip2": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": []
   },
   "zizmorcore/zizmor": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
@@ -10264,7 +10358,7 @@
    ]
   },
   "zulip/zulip": {
-   "scannedAt": "2026-08-24T05:58:42.785Z",
+   "scannedAt": "2026-08-31T11:41:00.035Z",
    "error": null,
    "hits": [
     {
