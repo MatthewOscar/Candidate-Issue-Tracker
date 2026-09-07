@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T10:53:50.122Z",
+ "generatedAt": "2026-09-07T12:27:23.427Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "open",
@@ -68,10 +68,10 @@
    "updatedAt": "2024-10-08T18:26:15Z"
   },
   "https://github.com/cpinitiative/usaco-guide/issues/4617": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2025-06-29T18:39:28Z"
+   "updatedAt": "2026-09-07T02:43:25Z"
   },
   "https://github.com/cpinitiative/usaco-guide/issues/4418": {
    "state": "open",
@@ -92,10 +92,10 @@
    "updatedAt": "2025-07-31T05:39:18Z"
   },
   "https://github.com/cpinitiative/usaco-guide/issues/3939": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-30T19:39:16Z"
+   "updatedAt": "2026-09-07T01:47:29Z"
   },
   "https://github.com/cpinitiative/usaco-guide/issues/3712": {
    "state": "open",
@@ -131,7 +131,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-22T22:02:32Z"
+   "updatedAt": "2026-09-07T02:44:22Z"
   },
   "https://github.com/cpinitiative/usaco-guide/issues/904": {
    "state": "open",
@@ -1733,7 +1733,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-09-02T10:32:12Z"
+   "updatedAt": "2026-09-07T09:27:56Z"
   },
   "https://github.com/apache/airflow/issues/69123": {
    "state": "closed",
@@ -10787,7 +10787,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-09-06T04:58:00Z"
+   "updatedAt": "2026-09-06T16:39:27Z"
   },
   "https://github.com/pgmpy/pgmpy/issues/2574": {
    "state": "open",
@@ -15881,7 +15881,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-06T09:59:08Z"
+   "updatedAt": "2026-09-06T14:08:43Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet-contrib/issues/1452": {
    "state": "open",
@@ -16544,10 +16544,10 @@
    "updatedAt": "2026-08-01T16:03:35Z"
   },
   "https://github.com/gleam-lang/gleam/issues/5914": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-01T13:41:04Z"
+   "updatedAt": "2026-09-06T13:03:13Z"
   },
   "https://github.com/gleam-lang/gleam/issues/5908": {
    "state": "open",
@@ -16568,10 +16568,10 @@
    "updatedAt": "2026-06-25T13:37:20Z"
   },
   "https://github.com/gleam-lang/gleam/issues/5890": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-17T11:07:19Z"
+   "updatedAt": "2026-09-06T11:48:31Z"
   },
   "https://github.com/gleam-lang/gleam/issues/5884": {
    "state": "closed",
@@ -16925,7 +16925,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-27T18:11:15Z"
+   "updatedAt": "2026-09-07T08:41:33Z"
   },
   "https://github.com/micrometer-metrics/micrometer/issues/3154": {
    "state": "open",
@@ -18707,13 +18707,13 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-06-11T01:25:52Z"
+   "updatedAt": "2026-09-07T10:26:31Z"
   },
   "https://github.com/mampfes/hacs_waste_collection_schedule/issues/6183": {
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-08-10T11:50:10Z"
+   "updatedAt": "2026-09-07T10:34:21Z"
   },
   "https://github.com/mampfes/hacs_waste_collection_schedule/issues/6174": {
    "state": "open",
@@ -19658,10 +19658,10 @@
    "updatedAt": null
   },
   "https://github.com/qmk/qmk_firmware/issues/26326": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-13T01:28:33Z"
+   "updatedAt": "2026-09-06T17:16:51Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/26309": {
    "state": "open",
@@ -19694,10 +19694,10 @@
    "updatedAt": "2026-06-19T04:31:03Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/26218": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-06T17:58:11Z"
+   "updatedAt": "2026-09-06T17:17:06Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/26210": {
    "state": "open",
@@ -19814,10 +19814,10 @@
    "updatedAt": "2026-06-19T06:39:22Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/25726": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-01-04T16:48:16Z"
+   "updatedAt": "2026-09-06T17:20:04Z"
   },
   "https://github.com/qmk/qmk_firmware/issues/25647": {
    "state": "open",
@@ -21266,10 +21266,10 @@
    "updatedAt": "2025-09-28T09:23:54Z"
   },
   "https://github.com/cilium/cilium/issues/40562": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-04-29T02:29:10Z"
+   "updatedAt": "2026-09-07T07:11:08Z"
   },
   "https://github.com/cilium/cilium/issues/40492": {
    "state": "open",
@@ -21560,10 +21560,10 @@
    "updatedAt": "2026-09-02T03:35:32Z"
   },
   "https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/1927": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-03-12T11:59:29Z"
+   "updatedAt": "2026-09-07T07:57:22Z"
   },
   "https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/1780": {
    "state": "open",
@@ -21626,16 +21626,16 @@
    "updatedAt": "2026-03-12T11:53:34Z"
   },
   "https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/676": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-03-12T11:54:09Z"
+   "updatedAt": "2026-09-07T10:21:12Z"
   },
   "https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/509": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-07-06T10:00:39Z"
+   "updatedAt": "2026-09-07T10:05:16Z"
   },
   "https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/298": {
    "state": "open",
@@ -22666,8 +22666,8 @@
   "https://github.com/apache/arrow/issues/33432": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2026-07-30T17:24:19Z"
+   "assigned": true,
+   "updatedAt": "2026-09-07T05:57:23Z"
   },
   "https://github.com/apache/arrow/issues/33251": {
    "state": "open",
@@ -23555,7 +23555,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2025-02-09T07:02:35Z"
+   "updatedAt": "2026-09-07T12:02:03Z"
   },
   "https://github.com/apache/arrow-java/issues/477": {
    "state": "closed",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-09-06T06:15:30Z"
+   "updatedAt": "2026-09-07T06:16:39Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -24425,7 +24425,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-31T07:29:57Z"
+   "updatedAt": "2026-09-06T14:06:36Z"
   },
   "https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/46751": {
    "state": "closed",
@@ -26435,7 +26435,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-06T05:44:27Z"
+   "updatedAt": "2026-09-07T10:27:07Z"
   },
   "https://github.com/opencontainers/runc/issues/2519": {
    "state": "open",
@@ -29699,7 +29699,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2025-10-15T23:18:50Z"
+   "updatedAt": "2026-09-07T10:45:20Z"
   },
   "https://github.com/secondlife/viewer/issues/4389": {
    "state": "open",
@@ -31334,10 +31334,10 @@
    "updatedAt": "2026-08-05T23:41:16Z"
   },
   "https://github.com/apache/pekko-connectors/issues/1581": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-04-16T17:07:48Z"
+   "updatedAt": "2026-09-06T15:40:55Z"
   },
   "https://github.com/apache/pekko-connectors/issues/1517": {
    "state": "closed",
@@ -33904,8 +33904,8 @@
   "https://github.com/wso2/product-is/issues/27724": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2026-05-03T18:20:31Z"
+   "assigned": true,
+   "updatedAt": "2026-09-07T02:59:50Z"
   },
   "https://github.com/wso2/product-is/issues/27670": {
    "state": "open",
@@ -37391,7 +37391,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-06T07:59:29Z"
+   "updatedAt": "2026-09-07T07:35:49Z"
   },
   "https://github.com/kubestellar/console/issues/4072": {
    "state": "open",
@@ -37403,7 +37403,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-09T11:55:25Z"
+   "updatedAt": "2026-09-07T12:19:07Z"
   },
   "https://github.com/backstage/community-plugins/issues/8983": {
    "state": "open",
