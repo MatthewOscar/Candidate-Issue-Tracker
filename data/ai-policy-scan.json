@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-08-31T11:41:00.035Z",
+ "generatedAt": "2026-09-07T10:30:35.046Z",
  "repos": {
   "321-vegan/321vegan-api": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "5e-bits/5e-database": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "academysoftwarefoundation/materialx": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "academysoftwarefoundation/openimageio": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -53,24 +53,24 @@
    ]
   },
   "accius/openhamclock": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…s://github.com/phether) --- ## Credits - **K0CJH (Chris Hetherington)** — Creator and maintainer — [chris@cjhlighting.com](mailto:chris@cjhlighting.com) - **Claude AI (Anthropic)** — Accelerated development by assisting with bug fixes, code structure, and feature implementation - **Elwood Downey, WB0OEW (SK)** — Creator o…",
+     "snippet": "…s@cjhlighting.com) - **Elwood Downey, WB0OEW (SK)** — Creator of the original HamClock that inspired this project. OpenHamClock is dedicated to his memory. - **Claude AI (Anthropic)** — Accelerated development by assisting with bug fixes, code structure, and feature implementation - **Keith, G6NHU** — DX Spider cluster opera…",
      "url": "https://github.com/accius/openhamclock/blob/HEAD/README.md"
     }
    ]
   },
   "actix/actix-web": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "actualbudget/actual": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -112,7 +112,7 @@
    ]
   },
   "agenta-ai/agenta": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "ai-dynamo/dynamo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -172,19 +172,19 @@
    ]
   },
   "altinn/altinn-studio": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…e is appropriate when it helps users understand or adopt the change. - **Docs:** `AGENTS.md` is the source of truth for agent guidance in a directory. Where a `CLAUDE.md` exists alongside it, that file just links to the `AGENTS.md` (`@AGENTS.md`) so Claude Code loads it. Never leave a directory with only a `CLAUDE.md` —…",
+     "snippet": "…ter renaming a directory you must also `git grep` the old segment. - **Docs:** `AGENTS.md` is the source of truth for agent guidance in a directory. Where a `CLAUDE.md` exists alongside it, that file just links to the `AGENTS.md` (`@AGENTS.md`) so Claude Code loads it. Never leave a directory with only a `CLAUDE.md` —…",
      "url": "https://github.com/altinn/altinn-studio/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "altinn/dialogporten": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -202,12 +202,12 @@
    ]
   },
   "alveusgg/alveusgg": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "amrex-codes/amrex": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -243,22 +243,22 @@
    ]
   },
   "angular/components": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "animethemes/animethemes-server": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "anomalyco/opentui": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/airflow": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -294,12 +294,12 @@
    ]
   },
   "apache/amoro": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/arrow": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -323,17 +323,17 @@
    ]
   },
   "apache/arrow-adbc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/arrow-java": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/auron": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -345,12 +345,12 @@
    ]
   },
   "apache/beam": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/burr": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -368,52 +368,59 @@
    ]
   },
   "apache/cloudstack": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-ballista": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-comet": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…ble skill before starting a task; new skills go in `.ai/skills/<skill-name>/SKILL.md`. For compatibility with agents that look in vendor-specific locations, `.claude/skills` is a symlink to `.ai/skills` and `CLAUDE.md` is a symlink to this file. Add new content here rather than to the symlinks.",
+     "url": "https://github.com/apache/datafusion-comet/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "apache/dolphinscheduler": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/doris": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/doris-website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/druid": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/dubbo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/fluss": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -437,12 +444,12 @@
    ]
   },
   "apache/fluss-rust": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/fory": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -466,7 +473,7 @@
    ]
   },
   "apache/gluten": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -484,9 +491,15 @@
    ]
   },
   "apache/gravitino": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "copilot",
+     "snippet": "…he project. You can: * Reproduce bugs and confirm issues * Add labels to categorize * Suggest improvements on PRs * Review code and give feedback * Please add Copilot before you review. That is recommended, not required. Do not wait on Copilot if you are ready to review. ## 🔃 Creating Pull Requests * Use feature branches…",
+     "url": "https://github.com/apache/gravitino/blob/HEAD/CONTRIBUTING.md"
+    },
     {
      "path": "AGENTS.md",
      "keyword": "claude",
@@ -502,7 +515,7 @@
    ]
   },
   "apache/hamilton": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -514,12 +527,12 @@
    ]
   },
   "apache/hudi": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/iceberg": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -549,7 +562,7 @@
    ]
   },
   "apache/infrastructure-actions": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -567,12 +580,25 @@
    ]
   },
   "apache/lucene": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai policy",
+     "snippet": "…n of the change and contributors' name. Please see the existing entries for reference. ### Use of AI We require all use of AI in contributions to follow our [AI Policy](AI_POLICY.md). ## Stay involved Contributors should join the [Lucene mailing lists](https://lucene.apache.org/core/discussion.html). In particular, the comm…",
+     "url": "https://github.com/apache/lucene/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "use of ai",
+     "snippet": "…pull request number `GITHUB#XXX` that is followed by the description of the change and contributors' name. Please see the existing entries for reference. ### Use of AI We require all use of AI in contributions to follow our [AI Policy](AI_POLICY.md). ## Stay involved Contributors should join the [Lucene mailing lists](http…",
+     "url": "https://github.com/apache/lucene/blob/HEAD/CONTRIBUTING.md"
+    }
+   ]
   },
   "apache/opendal": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -614,22 +640,22 @@
    ]
   },
   "apache/paimon": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/pekko": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/pekko-connectors": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/pinot": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -659,7 +685,7 @@
    ]
   },
   "apache/polaris": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -695,7 +721,7 @@
    ]
   },
   "apache/pulsar": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -713,7 +739,7 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "…ch the CVE id in apache/pulsar PRs/issues first, then ask via a GitHub issue or dev@pulsar.apache.org. ## AI coding agents If you use an AI coding assistant (Claude Code, Copilot, Cursor, Gemini, Codex, Aider, …), see [`AGENTS.md`](AGENTS.md) for the agent-facing guidance — a routing index into this guide, [`ARCHITECTURE.m…",
+     "snippet": "…rectly, which turns a flame graph into something you can ask questions about. Register it once (it needs [JBang](https://www.jbang.dev/) and JDK 25+): ```bash claude mcp add jafar -- jbang jfr-mcp@btraceio --stdio ``` It exposes `jfr_diagnose` (automated diagnosis of a recording), `jfr_stackprofile` (structured stack profi…",
      "url": "https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -737,12 +763,12 @@
    ]
   },
   "apache/sedona": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "apache/shardingsphere": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -754,7 +780,7 @@
    ]
   },
   "apache/superset": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -790,7 +816,7 @@
    ]
   },
   "apache/trafficserver": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -802,7 +828,7 @@
    ]
   },
   "apicurio/apicurio-registry": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -814,12 +840,12 @@
    ]
   },
   "apolloconfig/apollo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ardupilot/ardupilot": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -867,7 +893,7 @@
    ]
   },
   "argoproj/argo-cd": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -879,7 +905,7 @@
    ]
   },
   "argoproj/argo-workflows": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -909,12 +935,12 @@
    ]
   },
   "asfhyp3/hyp3": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "astral-sh/uv": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -932,22 +958,22 @@
    ]
   },
   "asyncapi/cli": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "asyncapi/website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "autofixture/autofixture": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "avelino/awesome-go": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -976,6 +1002,12 @@
     },
     {
      "path": "README.md",
+     "keyword": "copilot",
+     "snippet": "…nip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go. - [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems. - [w…",
+     "url": "https://github.com/avelino/awesome-go/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
      "keyword": "claude",
      "snippet": "…with routing, usage tracking, rate limits, and guardrails. - [hotplex](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. - [jargo](https://github.com/g…",
      "url": "https://github.com/avelino/awesome-go/blob/HEAD/README.md"
@@ -989,7 +1021,7 @@
    ]
   },
   "azerothcore/azerothcore-wotlk": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1001,7 +1033,7 @@
    ]
   },
   "backstage/backstage": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1049,7 +1081,7 @@
    ]
   },
   "backstage/community-plugins": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1061,12 +1093,12 @@
    ]
   },
   "badges/shields": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "basedhardware/omi": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1084,27 +1116,27 @@
    ]
   },
   "bazel-contrib/rules_foreign_cc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "bazelbuild/bazel-central-registry": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "bcgov/cas-registration": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "beetbox/beets": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "beeware/briefcase": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1134,7 +1166,7 @@
    ]
   },
   "beeware/toga": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1158,13 +1190,13 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai policy",
-     "snippet": "…uire a deprecation release. 5. **Contributor accountability.** The submitter owns the diff, regardless of AI assistance. Follow the BeeWare Code of Conduct and AI Policy. Any PR failing one of these is rejected, not waived. ## Toolchain - **Python**: 3.10–3.14 (see `core/pyproject.toml` classifiers). - **Task runner**: `tox`…",
+     "snippet": "…uire a deprecation release. 5. **Contributor accountability.** The submitter owns the diff, regardless of AI assistance. Follow the BeeWare Code of Conduct and AI Policy. Any PR failing one of these is rejected, not waived. ## Toolchain - **Python**: 3.11–3.15 (see `core/pyproject.toml` classifiers). - **Task runner**: `tox`…",
      "url": "https://github.com/beeware/toga/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "besu-eth/besu": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1176,7 +1208,7 @@
    ]
   },
   "betterlaspinas/betterlaspinas": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1188,7 +1220,7 @@
    ]
   },
   "beyond-all-reason/beyond-all-reason": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1214,54 +1246,36 @@
      "keyword": "llm",
      "snippet": "…r for reviewers to see what is different in this PR #### BEFORE: (screenshot from master) #### AFTER: (screenshot from branch) --> <!-- If relevant ### AI / LLM usage statement: Tell us if you used an AI or LLM in the creation of this code, which AI tool was used, and to what extent. -->",
      "url": "https://github.com/beyond-all-reason/beyond-all-reason/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "ai-assisted",
-     "snippet": "…tructed, do not also update repo equivalent or local widget copies. Keep working with the file we started prompting with. ## Contribution Policy - Disclose AI-assisted changes in the pull request per `AI_POLICY.md`, and have a human verify them. The PR template has an \"AI / LLM usage statement\" section. - One concern per pu…",
-     "url": "https://github.com/beyond-all-reason/beyond-all-reason/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "llm",
-     "snippet": "…h. ## Contribution Policy - Disclose AI-assisted changes in the pull request per `AI_POLICY.md`, and have a human verify them. The PR template has an \"AI / LLM usage statement\" section. - One concern per pull request; PRs are squash-merged, so the title must describe the whole change (`.github/PULL_REQUEST_GUIDELINE…",
-     "url": "https://github.com/beyond-all-reason/beyond-all-reason/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "copilot",
-     "snippet": "# Beyond All Reason - Copilot Instructions Mixed script types: LuaUI widgets, LuaRules gadgets, BOS animation scripts, shaders, RmlUi documents, busted specs. ## Working in This Repositor…",
-     "url": "https://github.com/beyond-all-reason/beyond-all-reason/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "bioconda/bioconda-recipes": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "bit-bots/bitbots_main": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "bloomberg/blazingmq": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "boa-dev/boa": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "boinc/boinc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "bradygaster/squad": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1291,7 +1305,7 @@
    ]
   },
   "brikev/twd": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1333,12 +1347,12 @@
    ]
   },
   "bytecodealliance/jco": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "bytecodealliance/wasmtime": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1350,12 +1364,12 @@
    ]
   },
   "bytecodealliance/wrpc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "canner/wrenai": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1385,7 +1399,7 @@
    ]
   },
   "carlos-emr/carlos": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1415,7 +1429,7 @@
    ]
   },
   "cartography-cncf/cartography": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1451,7 +1465,7 @@
    ]
   },
   "cataclysmbn/cataclysm-bn": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1463,7 +1477,7 @@
    ]
   },
   "catalyst-cooperative/pudl": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1475,7 +1489,7 @@
    ]
   },
   "celestiaorg/celestia-core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1487,17 +1501,17 @@
    ]
   },
   "cert-manager/cert-manager": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "chapel-lang/chapel": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "chaterm/chaterm": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1509,12 +1523,12 @@
    ]
   },
   "checkstyle/checkstyle": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "cherryhq/cherry-studio": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1550,12 +1564,12 @@
    ]
   },
   "chipsalliance/caliptra-sw": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "chipsalliance/chisel": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1567,17 +1581,17 @@
    ]
   },
   "cilium/cilium": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "civiform/civiform": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "cleverraven/cataclysm-dda": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1607,7 +1621,7 @@
    ]
   },
   "cline/cline": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1643,12 +1657,12 @@
    ]
   },
   "cocotb/cocotb": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "code-yeongyu/oh-my-openagent": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1720,7 +1734,7 @@
    ]
   },
   "codeforpdx/tenantfirstaid": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1744,7 +1758,7 @@
    ]
   },
   "comfy-org/comfyui_frontend": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1762,17 +1776,17 @@
    ]
   },
   "common-voice/common-voice": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "complianceascode/content": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "conda/conda": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1820,12 +1834,12 @@
    ]
   },
   "confidential-containers/guest-components": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "containers/kubernetes-mcp-server": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1861,7 +1875,7 @@
    ]
   },
   "containers/podman-desktop-extension-ai-lab": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1879,12 +1893,12 @@
    ]
   },
   "cookiecutter/cookiecutter-django": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "copier-org/copier": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1902,12 +1916,12 @@
    ]
   },
   "coredns/coredns": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "cortexproject/cortex": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1937,7 +1951,7 @@
    ]
   },
   "cozystack/cozystack": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -1949,7 +1963,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…nothing else. Commit messages are the deliberate exception — `git log` and the tooling around it still expect a body wrapped at ~72 columns. This is the rule LLM agents break most often, because an ~80-column wrap is correct in the places they spend most of their time (Go comments, commit bodies) and the reflex leaks fr…",
+     "snippet": "…terns, kubebuilder style - **Git Commits**: Conventional Commits (`type(scope): description`) with `--signoff`; an agent-assisted commit adds one `Assisted-by: LLM` trailer - **Comments and commit bodies**: WHY, not a narration of WHAT; see [Review Blockers](./docs/agents/contributing.md#review-blockers-messages-trailers-…",
      "url": "https://github.com/cozystack/cozystack/blob/HEAD/AGENTS.md"
     },
     {
@@ -1961,27 +1975,27 @@
    ]
   },
   "cpinitiative/usaco-guide": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "crate/crate": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "crypto-org-chain/chain-main": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "cube-js/cube": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "cuthbertlab/music21": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2023,12 +2037,12 @@
    ]
   },
   "daggerhashimoto/openclaw-nerve": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "dapr/dapr": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2052,22 +2066,22 @@
    ]
   },
   "dapr/dotnet-sdk": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "dapr/js-sdk": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "defold/defold": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "democratizedspace/dspace": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2085,7 +2099,7 @@
    ]
   },
   "desktop/desktop": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2097,12 +2111,12 @@
    ]
   },
   "dexidp/dex": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "diegosouzapw/omniroute": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2114,7 +2128,7 @@
     {
      "path": "README.md",
      "keyword": "ai tool",
-     "snippet": "…h=\"820\"/> <br/> <br/> # 🚀 OmniRoute — The Free AI Gateway <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 352 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback.…",
+     "snippet": "…h=\"820\"/> <br/> <br/> # 🚀 OmniRoute — The Free AI Gateway <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 356 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
@@ -2126,13 +2140,13 @@
     {
      "path": "README.md",
      "keyword": "copilot",
-     "snippet": "…-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 352 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 352 AI p…",
+     "snippet": "…hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 356 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 356 AI p…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…y <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 352 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
+     "snippet": "…<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 356 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
@@ -2144,7 +2158,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…re, see the Repository map and Reference Documentation sections below. --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 352 LLM providers, auto-fallback. | Layer | Location | Purpose…",
+     "snippet": "…re, see the Repository map and Reference Documentation sections below. --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 356 LLM providers, auto-fallback. | Layer | Location | Purpose…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/AGENTS.md"
     },
     {
@@ -2168,7 +2182,7 @@
    ]
   },
   "digi-uw/openelis-global-2": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2216,7 +2230,7 @@
    ]
   },
   "dimagi/open-chat-studio": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2246,7 +2260,7 @@
    ]
   },
   "dimensionalos/dimos": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2294,17 +2308,17 @@
    ]
   },
   "diverse-cognitive-systems-group/dcs-simulation-engine": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "diygod/rsshub": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "documentdb/functional-tests": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2322,7 +2336,7 @@
    ]
   },
   "doenet/doenetml": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2346,7 +2360,7 @@
    ]
   },
   "dollhousemcp/mcp-server": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2370,7 +2384,7 @@
    ]
   },
   "doocs/md": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2394,7 +2408,7 @@
    ]
   },
   "dosbox-staging/dosbox-staging": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2430,22 +2444,22 @@
    ]
   },
   "dotansimha/graphql-code-generator": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "dspace/dspace": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "eclipse-jdt/eclipse.jdt.core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "eclipse-m2e/m2e-core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2481,12 +2495,12 @@
    ]
   },
   "eclipse-platform/eclipse.platform.releng.aggregator": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "eclipse-platform/eclipse.platform.swt": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2504,7 +2518,7 @@
    ]
   },
   "eclipse-sw360/sw360": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2516,28 +2530,28 @@
    ]
   },
   "eclipse-windowbuilder/windowbuilder": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "eclipse-zenoh/zenoh": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "edgetx/edgetx": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "edwardkim/rhwp": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
      "keyword": "llm",
-     "snippet": "…— 버그 리포트, 기능 요청 ## Notice 본 제품은 한글과컴퓨터의 한글 문서 파일(.hwp) 공개 문서를 참고하여 개발하였습니다. ## License 이 프로젝트는 [MIT License](LICENSE)로 배포됩니다. 기여하신 코드도 동일한 라이선스가 적용됩니다. ## LLM/에이전트 보조 기여 이 저장소는 AI 에이전트가 1급 소비자이자 1급 기여자다. Claude Code·Copilot· Cursor·Codex·Gemini CLI·Windsurf·Cline 이 **자동으로 읽는 지침 파일**이 전부 준비돼 있다 — 어떤 도구를 쓰든 같은 규약([AGE…",
+     "snippet": "…— 버그 리포트, 기능 요청 ## Notice 본 제품은 한글과컴퓨터의 한글 문서 파일(.hwp) 공개 문서를 참고하여 개발하였습니다. ## License 이 프로젝트는 [MIT License](LICENSE)로 배포됩니다. 기여하신 코드도 동일한 라이선스가 적용됩니다. ## LLM/에이전트 보조 기여 이 저장소는 AI 에이전트도 기여 도구로 사용할 수 있다. Claude Code·Copilot·Cursor·Codex· Gemini CLI·Windsurf·Cline은 도구별 지침 파일을 자동으로 읽을 수 있다. 다만 외부 기여자가 PR에 포함할 파일과 검증 범위…",
      "url": "https://github.com/edwardkim/rhwp/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -2549,13 +2563,13 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "copilot",
-     "snippet": "…를 참고하여 개발하였습니다. ## License 이 프로젝트는 [MIT License](LICENSE)로 배포됩니다. 기여하신 코드도 동일한 라이선스가 적용됩니다. ## LLM/에이전트 보조 기여 이 저장소는 AI 에이전트가 1급 소비자이자 1급 기여자다. Claude Code·Copilot· Cursor·Codex·Gemini CLI·Windsurf·Cline 이 **자동으로 읽는 지침 파일**이 전부 준비돼 있다 — 어떤 도구를 쓰든 같은 규약([AGENTS.md](AGENTS.md))에 도착한다. | 도구 | 자동 로딩 파일 | |---|---| | Claude C…",
+     "snippet": "…서를 참고하여 개발하였습니다. ## License 이 프로젝트는 [MIT License](LICENSE)로 배포됩니다. 기여하신 코드도 동일한 라이선스가 적용됩니다. ## LLM/에이전트 보조 기여 이 저장소는 AI 에이전트도 기여 도구로 사용할 수 있다. Claude Code·Copilot·Cursor·Codex· Gemini CLI·Windsurf·Cline은 도구별 지침 파일을 자동으로 읽을 수 있다. 다만 외부 기여자가 PR에 포함할 파일과 검증 범위는 이 문서가 정하며, 자동 로딩된 내부 지침은 메인터너의 접수·검토· 병합 운영을 외부 PR에 복제하라는 의미가 아…",
      "url": "https://github.com/edwardkim/rhwp/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "…추적·선별 반영·리뷰가 어려워져 머지가 지연됩니다. - **`mydocs/orders/YYYYMMDD.md`는 PR에 포함하지 마세요.** 이 파일은 병합 결과와 후속 작업을 관리하는 메인터너 전용 일일 운영 기록입니다. 필요한 기록은 PR 병합 뒤 메인터너가 작성합니다. ### Claude·Codex capability 기여 재사용할 Claude 에이전트·Claude Skill·Codex Skill을 추가하거나 변경하기 전에는 [에이전트 capability 카탈로그](mydocs/manual/agent_capability_registry.md)를 읽어 기존 기능과 중복…",
+     "snippet": "…지와 병합·후속처리 기록은 **메인터너만** 작성합니다. 기여자는 재현 명령, 테스트 결과, 공개 가능한 fixture와 필요한 스크린샷을 PR 본문에 적거나 첨부하면 충분합니다. 메인터너가 특정 기록 파일의 추가를 명시적으로 요청한 경우에만 그 요청 범위에서 예외로 합니다. ### Claude·Codex capability 기여 재사용할 Claude 에이전트·Claude Skill·Codex Skill을 추가하거나 변경하기 전에는 [에이전트 capability 카탈로그](mydocs/manual/agent_capability_registry.md)를 읽어 기존 기능과 중복…",
      "url": "https://github.com/edwardkim/rhwp/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -2579,7 +2593,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…아래 권위 문서를 우선한다. > **에이전트 진입점**: rhwp 를 도구로 부리는 에이전트는 루트 [`llms.txt`](llms.txt)와 > [에이전트 지식 지도](mydocs/manual/agent_knowledge_map.md)에서 시작한다. ## 문서 로딩 순서 1. `CLAUDE.md` 2. Codex는 프로젝트 메모리 덤프 `mydocs/manual/codex/MEMORY.md` 3. `mydocs/README.md` 4. 작업 성격에 맞는 `mydocs/manual/README.md` 또는 `mydocs/tech/README.md` 5. 개발·문서·Git…",
+     "snippet": "…아래 권위 문서를 우선한다. > **에이전트 진입점**: rhwp 를 도구로 부리는 에이전트는 루트 [`llms.txt`](llms.txt)와 > [에이전트 지식 지도](mydocs/manual/agent_knowledge_map.md)에서 시작한다. ## 문서 로딩 순서 1. `CLAUDE.md` 2. Codex는 프로젝트 메모리 덤프 `mydocs/manual/codex/MEMORY.md` 3. `mydocs/README.md` 4. 작업 성격에 맞는 `mydocs/manual/README.md` 또는 `mydocs/tech/README.md` 5. GitHub Act…",
      "url": "https://github.com/edwardkim/rhwp/blob/HEAD/AGENTS.md"
     },
     {
@@ -2591,7 +2605,7 @@
    ]
   },
   "effortlessmetrics/bitnet-rs-swarm": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2621,12 +2635,12 @@
    ]
   },
   "effortlessmetrics/hl7v2-rs": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "effortlessmetrics/perl-lsp-swarm": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2650,17 +2664,17 @@
    ]
   },
   "eic/eicrecon": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "eisop/checker-framework": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "elementor/elementor": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2672,7 +2686,7 @@
    ]
   },
   "eljojo/rememory": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2720,22 +2734,22 @@
    ]
   },
   "emacs-lsp/lsp-mode": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "emberjs/ember.js": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "emfcamp/website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "entireio/cli": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2771,7 +2785,7 @@
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…— A versioned record of every AI interaction tied to your git history, with nothing lost. - **Zero context switching** — Git-native, two-step setup, works with Claude Code, Codex, Gemini, Pi, and more. ## Table of Contents - [Why Entire](#why-entire) - [Quick Start](#quick-start) - [Typical Workflow](#typical-workflow) - […",
+     "snippet": "…— A versioned record of every AI interaction tied to your git history, with nothing lost. - **Zero context switching** — Git-native, two-step setup, works with Claude Code, Codex, Gemini, Pi, and more. ## Table of Contents - [Why Entire](#why-entire) - [Requirements](#requirements) - [Quick Start](#quick-start) - [Release…",
      "url": "https://github.com/entireio/cli/blob/HEAD/README.md"
     },
     {
@@ -2795,7 +2809,7 @@
    ]
   },
   "envoyproxy/envoy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2867,7 +2881,7 @@
    ]
   },
   "envoyproxy/gateway": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2879,7 +2893,7 @@
    ]
   },
   "equinor/neqsim": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2975,7 +2989,7 @@
    ]
   },
   "esbmc/esbmc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -2999,17 +3013,17 @@
    ]
   },
   "escomp/ctsm": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "esphome/esphome": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ethereum/ethereum-org-website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3021,7 +3035,7 @@
    ]
   },
   "eventual-inc/daft": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3033,7 +3047,7 @@
    ]
   },
   "exist-db/exist": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3045,7 +3059,7 @@
    ]
   },
   "farion1231/cc-switch": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3105,7 +3119,7 @@
    ]
   },
   "feast-dev/feast": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3123,22 +3137,22 @@
    ]
   },
   "finos/legend-studio": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-ios-sdk": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-tools": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "firstcontributions/first-contributions": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3156,12 +3170,12 @@
    ]
   },
   "fork-commit-merge/fork-commit-merge": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "fossasia/visdom": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3197,7 +3211,7 @@
    ]
   },
   "fossbilling/fossbilling": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3221,12 +3235,12 @@
    ]
   },
   "frappe/lms": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "freecodecamp/freecodecamp": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3238,37 +3252,37 @@
    ]
   },
   "g00fy2/quickie": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "galaxyproject/galaxy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "gaul/s3proxy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-gui": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-sim": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "genericmappingtools/pygmt": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "gepa-ai/gepa": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3322,12 +3336,12 @@
    ]
   },
   "getporter/porter": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "gfx-rs/wgpu": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3357,7 +3371,7 @@
    ]
   },
   "ggml-org/llama.cpp": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3411,12 +3425,12 @@
    ]
   },
   "ghostfolio/ghostfolio": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "gitoxidelabs/gitoxide": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3428,12 +3442,12 @@
    ]
   },
   "gleam-lang/gleam": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "godotengine/godot": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3445,22 +3459,22 @@
    ]
   },
   "godotengine/godot-docs": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "gramps-project/gramps-web": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "graphql-hive/console": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "grcengclub/claude-grc-engineering": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3484,7 +3498,7 @@
    ]
   },
   "greenshot/greenshot": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3496,7 +3510,7 @@
    ]
   },
   "gyrinx-app/gyrinx": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3514,32 +3528,32 @@
    ]
   },
   "hacf-fr/renault-api": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "hackclub/sprig": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "hackforla/tdm-calculator": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "haikuports/haikuports": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "hashgraph/hedera-transaction-tool": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "hhs/simpler-grants-gov": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3551,12 +3565,12 @@
    ]
   },
   "hibernate/hibernate-reactive": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "homarr-labs/homarr": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3574,7 +3588,7 @@
    ]
   },
   "home-assistant/android": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3586,7 +3600,7 @@
    ]
   },
   "home-assistant/core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3658,7 +3672,7 @@
    ]
   },
   "home-assistant/frontend": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3676,7 +3690,7 @@
    ]
   },
   "home-assistant/home-assistant.io": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3688,7 +3702,7 @@
    ]
   },
   "homebrew/homebrew-cask": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3742,7 +3756,7 @@
    ]
   },
   "homebrew/homebrew-core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3802,37 +3816,37 @@
    ]
   },
   "htmlhint/htmlhint": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "hyperledger/fabric-gateway": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ictu/quality-time": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "iiab/iiab": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "im-anishraj/arnio": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "imas/mastodon": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "infinispan/infinispan": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3862,12 +3876,12 @@
    ]
   },
   "innerwarden/innerwarden": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": "repo-missing",
    "hits": []
   },
   "intel/intel-xpu-backend-for-triton": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3879,12 +3893,12 @@
    ]
   },
   "intel/llvm": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "internetarchive/openlibrary": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3902,7 +3916,7 @@
    ]
   },
   "inventree/inventree": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3914,7 +3928,7 @@
    ]
   },
   "istio-ecosystem/sail-operator": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3932,12 +3946,12 @@
    ]
   },
   "it-at-m/dbs": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "jacquescarette/drasil": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -3949,9 +3963,27 @@
    ]
   },
   "jaegertracing/jaeger": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tools",
+     "snippet": "…ntribute to Jaeger We'd love your help! General contributing guidelines are described in [Contributing Guidelines](./CONTRIBUTING_GUIDELINES.md). If you use AI tools to help you contribute, read the [AI Usage Policy](./AI_POLICY.md) as well. Jaeger is [Apache 2.0 licensed](LICENSE) and accepts contributions via GitHub pull…",
+     "url": "https://github.com/jaegertracing/jaeger/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai usage",
+     "snippet": "…eneral contributing guidelines are described in [Contributing Guidelines](./CONTRIBUTING_GUIDELINES.md). If you use AI tools to help you contribute, read the [AI Usage Policy](./AI_POLICY.md) as well. Jaeger is [Apache 2.0 licensed](LICENSE) and accepts contributions via GitHub pull requests. This document outlines some of t…",
+     "url": "https://github.com/jaegertracing/jaeger/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai usage",
+     "snippet": "…ibution guidelines, refer to [CONTRIBUTING.md](./CONTRIBUTING.md). What the project expects from a human contributor who works with an agent is stated in the [AI Usage Policy](./AI_POLICY.md). It applies to work done in this repository, and the human running you owns everything you produce. ## Setup The primary branch is ca…",
+     "url": "https://github.com/jaegertracing/jaeger/blob/HEAD/AGENTS.md"
+    },
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
@@ -3961,7 +3993,7 @@
    ]
   },
   "jaywcjlove/awesome-mac": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4009,27 +4041,27 @@
    ]
   },
   "jellyfin/jellyfin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "jenkins-infra/plugin-modernizer-tool": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "jetty/jetty.project": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "jhasourav07/commitpulse": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/all-contributors-for-repository": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4041,52 +4073,52 @@
    ]
   },
   "joshuakgoldberg/formatly": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/refined-saved-replies": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/sentences-per-line": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/ts-api-utils": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "jscad/openjscad.org": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "jupyterhub/mybinder.org-deploy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "jxn-30/better-moodle": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "k0sproject/k0s": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "karmada-io/karmada": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kata-containers/kata-containers": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4140,12 +4172,12 @@
    ]
   },
   "kedacore/http-add-on": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kiali/kiali": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4193,7 +4225,7 @@
    ]
   },
   "koala73/worldmonitor": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4205,7 +4237,7 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai-assisted",
-     "snippet": "…arted](#getting-started) - [Development Setup](#development-setup) - [How to Contribute](#how-to-contribute) - [Pull Request Process](#pull-request-process) - [AI-Assisted Development](#ai-assisted-development) - [Coding Standards](#coding-standards) - [Working with Sebuf (RPC Framework)](#working-with-sebuf-rpc-framework) - [Add…",
+     "snippet": "…(#development-setup) - [Complete one change](#complete-one-change) - [How to Contribute](#how-to-contribute) - [Pull Request Process](#pull-request-process) - [AI-Assisted Development](#ai-assisted-development) - [Coding Standards](#coding-standards) - [Working with Sebuf (RPC Framework)](#working-with-sebuf-rpc-framework) - [Add…",
      "url": "https://github.com/koala73/worldmonitor/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -4235,7 +4267,7 @@
    ]
   },
   "koizuka/echonet-list": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4259,17 +4291,17 @@
    ]
   },
   "konflux-ci/konflux-ci": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kserve/website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubedoio/rustchat": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4281,7 +4313,7 @@
    ]
   },
   "kubeflow/pipelines": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4305,12 +4337,12 @@
    ]
   },
   "kubernetes-client/javascript": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/agent-sandbox": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4352,12 +4384,12 @@
    ]
   },
   "kubernetes-sigs/cloud-provider-azure": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/cluster-api": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4375,17 +4407,17 @@
    ]
   },
   "kubernetes-sigs/cluster-api-provider-azure": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/external-dns": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/gateway-api": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4405,16 +4437,22 @@
      "keyword": "llms",
      "snippet": "…r project management and build process. - [AI Policy](https://github.com/kubernetes-sigs/gateway-api/blob/main/AI-POLICY.md) - Gateway API policy on the use of LLMs and AI tools. - [Enhancement Requests](https://gateway-api.sigs.k8s.io/contributing/enhancement-requests/) - information about the GEP (Gateway Enhancement Pro…",
      "url": "https://github.com/kubernetes-sigs/gateway-api/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai policy",
+     "snippet": "…developer guide (https://gateway-api.sigs.k8s.io/contributing/devguide/), our community page (https://gateway-api.sigs.k8s.io/contributing/), and our AI Policy (https://github.com/kubernetes-sigs/gateway-api/blob/main/AI-POLICY.md) 2. If this is your first time contributing to a Kubernetes project, please read our…",
+     "url": "https://github.com/kubernetes-sigs/gateway-api/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
     }
    ]
   },
   "kubernetes-sigs/kro": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/kube-agentic-networking": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4426,7 +4464,7 @@
    ]
   },
   "kubernetes-sigs/kueue": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4468,22 +4506,22 @@
    ]
   },
   "kubernetes/community": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes/k8s.io": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kops": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kubernetes": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4495,22 +4533,22 @@
    ]
   },
   "kubernetes/perf-tests": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes/test-infra": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubernetes/website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kubestellar/console": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4594,7 +4632,7 @@
    ]
   },
   "kubevirt/kubevirt": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4612,17 +4650,17 @@
    ]
   },
   "kubevirt/project-infra": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kumahq/kuma": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "kyverno/kyverno": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4640,7 +4678,7 @@
    ]
   },
   "labwc/labwc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4682,17 +4720,17 @@
    ]
   },
   "lakekeeper/lakekeeper": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "lance-format/lance": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "landsandboat/server": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4710,12 +4748,12 @@
    ]
   },
   "lanrhyme/micyou": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "leanprover/cslib": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4727,7 +4765,7 @@
    ]
   },
   "learningcircuit/local-deep-research": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4763,7 +4801,7 @@
    ]
   },
   "ledgersmb/ledgersmb": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4775,7 +4813,7 @@
    ]
   },
   "lfortran/lfortran": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4799,7 +4837,7 @@
    ]
   },
   "liberatedpixelcup/universal-lpc-spritesheet-character-generator": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4823,7 +4861,7 @@
    ]
   },
   "libresign/libresign": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4847,12 +4885,12 @@
    ]
   },
   "licensee/licensee": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "lichess-org/lila": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4876,7 +4914,7 @@
    ]
   },
   "lichess-org/mobile": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4900,7 +4938,7 @@
    ]
   },
   "lingdojo/kana-dojo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4918,32 +4956,32 @@
    ]
   },
   "linkerd/linkerd2": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "lizardbyte/sunshine": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "llvm/llvm-project": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "longhorn/longhorn": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "lostartefacts/trx": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ls1intum/artemis": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4955,18 +4993,18 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "# Repository Guidelines All project conventions, build commands, coding standards, and contribution guidelines are maintained in **[CLAUDE.md](./CLAUDE.md)** — the single source of truth for AI coding assistants working in this repository. Please refer to `CLAUDE.md` for: - Project structure and…",
+     "snippet": "# Repository Guidelines Before making changes, read and follow **[CLAUDE.md](./CLAUDE.md)** in full; it is the single source of truth for AI coding assistants working in this repository. For task-specific procedures, install the re…",
      "url": "https://github.com/ls1intum/artemis/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "lunarg/gfxreconstruct": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "lxc/incus-os": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -4996,12 +5034,12 @@
    ]
   },
   "lycheeverse/lychee": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "lynx-family/lynx-website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5013,7 +5051,7 @@
    ]
   },
   "madq/roslynmcp": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5049,7 +5087,7 @@
    ]
   },
   "mampfes/hacs_waste_collection_schedule": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5091,7 +5129,7 @@
    ]
   },
   "manyfold3d/manyfold": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5139,7 +5177,7 @@
    ]
   },
   "marcoroth/herb": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5151,7 +5189,7 @@
    ]
   },
   "marimo-team/marimo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5181,12 +5219,12 @@
    ]
   },
   "marimo-team/marimo-lsp": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "marin-community/marin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5210,50 +5248,56 @@
    ]
   },
   "marketcalls/openalgo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
      "path": "README.md",
+     "keyword": "llm",
+     "snippet": "…Intraday with auto square-off and positional strategies - Bulk symbol configuration via CSV - Real-time strategy monitoring ### AI Agent (`/agent`) A built-in LLM agent, on the full page and as a right-side panel on the `/trading` chart: - Reads quotes, depth, history, option chains and Greeks through OpenAlgo's own serv…",
+     "url": "https://github.com/marketcalls/openalgo/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
      "keyword": "chatgpt",
-     "snippet": "…trategy monitoring ### AI-Powered Trading (MCP Server) Connect AI assistants for natural language trading: - Compatible with Claude Desktop, Cursor, Windsurf, ChatGPT - Execute trades using natural language commands - Full trading capabilities: orders, positions, market data - Local and secure integration with your OpenAlgo…",
+     "snippet": "…chart from a right-side panel, and can place orders only with your explicit approval on every single one. Bring your own model from any LiteLLM provider, or a ChatGPT Plus or Pro subscription, or run it locally against Ollama. | | **Options Trading Suite** | `/tools` | Options traders: twelve built-in analytical tools (Strat…",
      "url": "https://github.com/marketcalls/openalgo/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…onfiguration via CSV - Real-time strategy monitoring ### AI-Powered Trading (MCP Server) Connect AI assistants for natural language trading: - Compatible with Claude Desktop, Cursor, Windsurf, ChatGPT - Execute trades using natural language commands - Full trading capabilities: orders, positions, market data - Local and sec…",
+     "snippet": "…n database and never written to a configuration file ### AI-Powered Trading (MCP Server) Connect AI assistants for natural language trading: - Compatible with Claude Desktop, Cursor, Windsurf, ChatGPT - Execute trades using natural language commands - Full trading capabilities: orders, positions, market data - Local and sec…",
      "url": "https://github.com/marketcalls/openalgo/blob/HEAD/README.md"
     }
    ]
   },
   "marketsquare/robotframework-browser": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "materialious/materialious": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mcgill-courses/mcgill.courses": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mdn/content": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mdn/translated-content": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "medic/cht-core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5265,17 +5309,17 @@
    ]
   },
   "medusajs/medusa": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "meltano/sdk": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mflowcode/mfc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5287,37 +5331,50 @@
    ]
   },
   "michaelchessall/ss14-persistence": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai generated",
+     "snippet": "…PR - [ ] AI developed assets are included as parts of this PR. These assets are identified as AI developed in the file and are listed below: - <!-- Add any AI generated file names here. --> ## Breaking changes <!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and prov…",
+     "url": "https://github.com/michaelchessall/ss14-persistence/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "use of ai",
+     "snippet": "…discretion --> ## Disclaimers <!-- Per contribution guidelines, all contributions which use AI must disclose that use. Mark which section(s) best describe the use of AI in this PR. If AI was not used, this section may be skipped --> - [ ] AI was used to aid in brainstorming, testing, or debugging of systems within this PR - […",
+     "url": "https://github.com/michaelchessall/ss14-persistence/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    }
+   ]
   },
   "micrometer-metrics/micrometer": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mikefarah/yq": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "misp/misp": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "misp/misp-galaxy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mitre/heimdall2": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mixxxdj/mixxx": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5335,17 +5392,17 @@
    ]
   },
   "moby/buildkit": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "moby/moby": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "modernuo/modernuo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5357,7 +5414,7 @@
    ]
   },
   "modsetter/surfsense": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5381,7 +5438,7 @@
    ]
   },
   "moganlab/mogan": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5399,12 +5456,12 @@
    ]
   },
   "moldytaint/cinephage": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "monarch-initiative/dismech": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5434,7 +5491,7 @@
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…ty is `PUBLIC`, and the `just` upload targets default the host to `https://test.ndexbio.org`. ## Agentic Curation Guide This knowledge base is curated with **Claude Code** — an AI agent that knows the schema, validates ontology terms, and checks evidence against PubMed abstracts. There are two ways to start curating: ###…",
+     "snippet": "…gered `Publish NDEx release` GitHub Actions workflow described in the operator documentation. ## Agentic Curation Guide This knowledge base is curated with **Claude Code** — an AI agent that knows the schema, validates ontology terms, and checks evidence against PubMed abstracts. There are two ways to start curating: ###…",
      "url": "https://github.com/monarch-initiative/dismech/blob/HEAD/README.md"
     },
     {
@@ -5452,7 +5509,7 @@
    ]
   },
   "mozilla-mobile/firefox-ios": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5464,12 +5521,12 @@
    ]
   },
   "mozilla/rhino": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "mudlet/mudlet": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5499,7 +5556,7 @@
    ]
   },
   "munich-quantum-toolkit/bench": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5523,7 +5580,7 @@
    ]
   },
   "munich-quantum-toolkit/debugger": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5547,7 +5604,7 @@
    ]
   },
   "munich-quantum-toolkit/predictor": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5571,7 +5628,7 @@
    ]
   },
   "munich-quantum-toolkit/qcec": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5595,7 +5652,7 @@
    ]
   },
   "munich-quantum-toolkit/yaqs": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5619,7 +5676,7 @@
    ]
   },
   "nanotaboada/dotnet.samples.aspnetcore.webapi": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5637,12 +5694,12 @@
    ]
   },
   "nasa-ammos/3dtilesrendererjs": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nasa/fprime": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5660,12 +5717,12 @@
    ]
   },
   "navidrome/navidrome": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "near/mpc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5677,17 +5734,24 @@
    ]
   },
   "newton-physics/newton": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…ions; the linked guide is authoritative for coding and API design. For reviews, also read and apply the [review guidelines](REVIEW_GUIDELINES.rst) and follow `.claude/skills/code-review-newton/SKILL.md`. - Create a feature branch on your fork before committing—never commit directly to `main`. Give the pull request a concise…",
+     "url": "https://github.com/newton-physics/newton/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "nextcommunity/nextcommunity.github.io": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nextest-rs/nextest": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5711,7 +5775,7 @@
    ]
   },
   "nickelsh1ts/streamarr": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5735,7 +5799,7 @@
    ]
   },
   "nicklockwood/swiftformat": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5747,17 +5811,17 @@
    ]
   },
   "nicolastakashi/prom-analytics-proxy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nightscout/cgm-remote-monitor": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nisshchayarathi/gitverse-nextjs": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5775,7 +5839,7 @@
    ]
   },
   "nixos/nix": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5805,12 +5869,12 @@
    ]
   },
   "nixos/nixos-search": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nodejs/node": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5834,12 +5898,12 @@
    ]
   },
   "nodejs/undici": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nodepa/seedlingo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5863,27 +5927,27 @@
    ]
   },
   "nodesecure/cli": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nodesecure/js-x-ray": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nodesecure/scanner": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "notashelf/nvf": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "npmx-dev/npmx.dev": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5925,22 +5989,22 @@
    ]
   },
   "nushell/nushell": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nusmodifications/nusmods": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "nvaccess/nvda": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "o2sa/devimpact": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5958,7 +6022,7 @@
    ]
   },
   "ocaml/dune": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -5976,42 +6040,42 @@
    ]
   },
   "ocaml/ocaml.org": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ocaml/opam-repository": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ocelot-social-community/ocelot-social": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "omegaup/omegaup": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "oopsio/jen.js": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-cybernauts/open-range": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": "archived",
    "hits": []
   },
   "open-policy-agent/gatekeeper": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-collector": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6071,7 +6135,7 @@
    ]
   },
   "open-telemetry/opentelemetry-collector-contrib": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6125,12 +6189,12 @@
    ]
   },
   "open-telemetry/opentelemetry-cpp": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-dotnet": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6142,12 +6206,12 @@
    ]
   },
   "open-telemetry/opentelemetry-dotnet-contrib": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-ebpf-instrumentation": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6219,7 +6283,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ecosystem-explorer": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6267,7 +6331,7 @@
    ]
   },
   "open-telemetry/opentelemetry-go": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6279,22 +6343,22 @@
    ]
   },
   "open-telemetry/opentelemetry-go-build-tools": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-go-contrib": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-java": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-kotlin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6312,7 +6376,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ruby-contrib": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6348,12 +6412,12 @@
    ]
   },
   "open-telemetry/opentelemetry-specification": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry.io": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6371,7 +6435,7 @@
    ]
   },
   "open-telemetry/otel-arrow": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6389,7 +6453,7 @@
    ]
   },
   "open-telemetry/semantic-conventions": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6419,7 +6483,7 @@
    ]
   },
   "open-telemetry/weaver": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6431,17 +6495,17 @@
    ]
   },
   "openapi-ts/openapi-typescript": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "openapitools/openapi-generator": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "openchemistry/avogadrolibs": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6489,22 +6553,22 @@
    ]
   },
   "opencontainers/runc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-authoring": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-learner-record": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "openemr/openemr": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6570,12 +6634,12 @@
    ]
   },
   "openfoodfacts/open-prices": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "openfoodfacts/openfoodfacts-server": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6587,12 +6651,12 @@
    ]
   },
   "openfoodfoundation/openfoodnetwork": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "opengovsg/formsg": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6604,42 +6668,42 @@
    ]
   },
   "openmage/magento-lts": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/flow-framework": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/k-nn": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch-dashboards": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/query-insights": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "openthread/openthread": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "opentiny/tiny-vue": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6675,7 +6739,7 @@
    ]
   },
   "openvdb/fvdb-core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6699,7 +6763,7 @@
    ]
   },
   "operaton/operaton": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6727,6 +6791,12 @@
      "url": "https://github.com/operaton/operaton/blob/HEAD/README.md"
     },
     {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…sioned soon. #### Webapps Neo `webapps-neo/readme.md` contains build instructions for the web apps for the entire operaton application `webapps-neo/frontend/CLAUDE.md` contains instructions for the agent `webapps-neo/frontend/README.md` contains instructions for running the application as isolated vite application for de…",
+     "url": "https://github.com/operaton/operaton/blob/HEAD/AGENTS.md"
+    },
+    {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
      "snippet": "# Operaton Repository - Copilot Instructions ## Repository Overview **Operaton** is a native BPMN 2.0 process engine that runs inside the Java Virtual Machine. It's a fork of Camunda 7 BPM…",
@@ -6735,7 +6805,7 @@
    ]
   },
   "orcasound/orcahello": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6759,7 +6829,7 @@
    ]
   },
   "organicmaps/organicmaps": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6777,7 +6847,7 @@
    ]
   },
   "orthogonalhq/nous-core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6795,7 +6865,7 @@
    ]
   },
   "osgeo/grass": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6825,7 +6895,7 @@
    ]
   },
   "osgeo/proj": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6855,12 +6925,12 @@
    ]
   },
   "ossf/cve-bin-tool": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "owasp-noir/noir": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6890,7 +6960,7 @@
    ]
   },
   "owasp/cornucopia": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6938,12 +7008,12 @@
    ]
   },
   "owasp/cve-lite-cli": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "owasp/wrongsecrets": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6955,22 +7025,22 @@
    ]
   },
   "owasp/wstg": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pact-foundation/pact-js": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "paketo-buildpacks/samples": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "parabolinc/parabol": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -6988,17 +7058,17 @@
    ]
   },
   "paradisess13/paradise": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "parca-dev/parca": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pass-agent/loomkin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7040,12 +7110,12 @@
    ]
   },
   "pbh-btn/peerbanhelper": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "perryts/perry": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7053,11 +7123,17 @@
      "keyword": "claude",
      "snippet": "…what the review flow looks like. For building and installing Perry as a user, see [README.md](README.md#installation). For runtime/compiler architecture, see [CLAUDE.md](CLAUDE.md). This file is about *contributing*, not using. ## Ways to contribute All of these are welcome and none are ranked: - **Fix a bug.** Check the…",
      "url": "https://github.com/perryts/perry/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "# Repository instructions Before starting work, read `CLAUDE.md` in this directory in full and follow its instructions. It is the shared source of truth for both Claude Code and Codex.",
+     "url": "https://github.com/perryts/perry/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "pertrai1/eslint-plugin-llm-core": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7099,7 +7175,7 @@
    ]
   },
   "pgmpy/pgmpy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7183,22 +7259,22 @@
    ]
   },
   "pgrwl/pgrwl": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "phasehq/console": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "phpmyadmin/phpmyadmin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "physicshub/physicshub.github.io": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7206,11 +7282,17 @@
      "keyword": "claude",
      "snippet": "…attqdev via discord or github issue. > **Adding a simulation?** All physics runs on our own engine in > `app/(core)/engine/`. The complete guide lives in > [`.claude/skills/new-simulation/SKILL.md`](.claude/skills/new-simulation/SKILL.md): > the four files to touch, every available force and constraint, and the physics > ch…",
      "url": "https://github.com/physicshub/physicshub.github.io/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "# AGENTS.md PhysicsHub — free, open-source interactive physics simulations + written theory. Next.js 15 App Router, React 19, p5.js rendering, Tailwind v4. `CLAUDE.md` is the canonical architecture doc — read it before building anything, and update it when you change the project structure. ## Commands & verification ```…",
+     "url": "https://github.com/physicshub/physicshub.github.io/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "pipecat-ai/pipecat": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7264,12 +7346,12 @@
    ]
   },
   "platform9/vjailbreak": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ponylang/ponyc": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7299,17 +7381,17 @@
    ]
   },
   "portabase/portabase": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "prefix-dev/rattler-build": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "prestodb/presto": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7321,7 +7403,7 @@
    ]
   },
   "prettier/prettier": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7339,7 +7421,7 @@
    ]
   },
   "prismlauncher/prismlauncher": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7393,47 +7475,47 @@
    ]
   },
   "priyanshu-byte-coder/devtrack": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "processing/p5.js-website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "project-blurple/canvas-web": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "project-chip/connectedhomeip": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "project-robius/robrix": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "projectnessie/nessie": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "projectx-vjti/xplore-workshop": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "prometheus/prometheus": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "promptfoo/promptfoo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7457,17 +7539,17 @@
    ]
   },
   "prowlengine/prowl": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "psi-probe/psi-probe": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pulumi/pulumi-awsx": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7485,27 +7567,27 @@
    ]
   },
   "pwndbg/pwndbg": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pylabrobot/pylabrobot": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pylint-dev/astroid": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pyo3/maturin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pypa/cibuildwheel": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7517,22 +7599,35 @@
    ]
   },
   "python-poetry/poetry": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "python/cpython": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai tools",
+     "snippet": "# AI agent guidance CPython has a [policy on the use of AI tools](https://devguide.python.org/getting-started/ai-tools/). All use of AI tools and agents when working on or interacting with CPython must follow it. > [!import…",
+     "url": "https://github.com/python/cpython/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "use of ai",
+     "snippet": "# AI agent guidance CPython has a [policy on the use of AI tools](https://devguide.python.org/getting-started/ai-tools/). All use of AI tools and agents when working on or interacting with CPython must follow it. > [!…",
+     "url": "https://github.com/python/cpython/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "python/pythondotorg": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pytorch/ao": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7544,7 +7639,7 @@
    ]
   },
   "pytorch/executorch": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7574,17 +7669,17 @@
    ]
   },
   "pytorch/ignite": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pytorch/test-infra": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "pyvista/pyvista": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7608,7 +7703,7 @@
    ]
   },
   "qiskit/qiskit": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7662,7 +7757,7 @@
    ]
   },
   "qmk/qmk_firmware": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7674,17 +7769,17 @@
    ]
   },
   "qualcomm/eld": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "r-dbi/dbi": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "radius-project/radius": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7698,6 +7793,18 @@
      "keyword": "claude",
      "snippet": "…the current scope and goals of the project. > **Using an AI agent?** Start with [AGENTS.md](./AGENTS.md), the single entry point that orients GitHub Copilot, Claude Code, and other agents working in this repository. ## Ways to contribute There are many ways to get involved and make a meaningful impact on the Radius proje…",
      "url": "https://github.com/radius-project/radius/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "ai tools",
+     "snippet": "…ription | |:-----|:------------| | [AI Extensions](https://github.com/radius-project/ai-extensions) | This repository contains extensions and integrations with AI tools, including the Radius Canvas integration for the GitHub Copilot app. | [Docs](https://github.com/radius-project/docs) | This repository contains the source for…",
+     "url": "https://github.com/radius-project/radius/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "copilot",
+     "snippet": "…SSF Best Practices](https://www.bestpractices.dev/projects/11971/badge)](https://www.bestpractices.dev/projects/11971) > [!NOTE] > Integration with the GitHub Copilot app is now available via the [Radius Canvas](https://github.com/radius-project/ai-extensions). Radius is an open source, cloud-native application platform tha…",
+     "url": "https://github.com/radius-project/radius/blob/HEAD/README.md"
     },
     {
      "path": "AGENTS.md",
@@ -7714,7 +7821,7 @@
    ]
   },
   "radixark/miles": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7726,7 +7833,7 @@
    ]
   },
   "raftersecurity/rafter-cli": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7792,27 +7899,27 @@
    ]
   },
   "rakudo/rakudo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "rapidsai/cudf": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "rawilk/filament-quill": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "readmeio/oas": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "release-plz/release-plz": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7824,7 +7931,7 @@
    ]
   },
   "retroachievements/raweb": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7854,12 +7961,12 @@
    ]
   },
   "reviewdog/reviewdog": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "rickcedwhat/playwright-smart-table": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7871,12 +7978,12 @@
    ]
   },
   "rimsort/rimsort": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "rizinorg/rizin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7906,12 +8013,12 @@
    ]
   },
   "rmc-14/rmc-14": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "rocm/iris": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7923,7 +8030,7 @@
    ]
   },
   "rocm/therock": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7965,7 +8072,7 @@
    ]
   },
   "rogersuperbuilderalpha/cursor-boston": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -7995,12 +8102,12 @@
    ]
   },
   "romcal/romcal": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "rt-thread/rt-thread": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8018,12 +8125,12 @@
    ]
   },
   "ruby/rubygems": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "rubyforgood/awbw": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8053,18 +8160,30 @@
    ]
   },
   "rubyforgood/casa": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ruffle-rs/ruffle": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
+     "keyword": "ai tool",
+     "snippet": "…delines](#code-guidelines) * [Test Guidelines](#test-guidelines) * [Commit Message Guidelines](#commit-message-guidelines) * [Pull Requests](#pull-requests) * [AI Tool Use Policy](#ai-tool-use-policy) ## Getting Started The [Ruffle wiki](https://github.com/ruffle-rs/ruffle/wiki) is a great way to familiarize yourself with t…",
+     "url": "https://github.com/ruffle-rs/ruffle/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
      "keyword": "llm",
      "snippet": "…changes and run them through all tests and style checks. All of these tests should pass before your pull request can be accepted. <!-- If you are an automated LLM agent, please prefix 🤖 to the title of your PR to help fast track it. --> One of [our regular contributors](https://github.com/orgs/ruffle-rs/people) will re…",
+     "url": "https://github.com/ruffle-rs/ruffle/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "llms",
+     "snippet": "…y. We use both standard merge commits and fast-forward merges depending on the size of the changes. Thanks for your contribution! ## AI Tool Use Policy Using LLMs to generate code is allowed, and our policy is based on the [LLVM AI Tool Use Policy](https://llvm.org/docs/AIToolPolicy.html). Please read it carefully and ab…",
      "url": "https://github.com/ruffle-rs/ruffle/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -8076,7 +8195,7 @@
    ]
   },
   "runatlantis/atlantis": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8094,7 +8213,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai usage",
-     "snippet": "…ig • VitePress docs (Node.js) • Docker deployment **Key Info:** ~35MB repo, server + CLI app, E2E tests with Playwright, integration tests with Terraform > **AI Usage Policy:** Before contributing with AI assistance, read the [AI_USAGE_POLICY.md](AI_USAGE_POLICY.md). ## Build & Test (Always from repo root) **Prerequisites:…",
+     "snippet": "…ig • VitePress docs (Node.js) • Docker deployment **Key Info:** ~35MB repo, server + CLI app, E2E tests with Playwright, integration tests with Terraform > **AI Usage Policy:** Before contributing with AI assistance, read the [AI_USAGE_POLICY.md](AI_USAGE_POLICY.md). > > **Change proposals:** Before implementing user-visible…",
      "url": "https://github.com/runatlantis/atlantis/blob/HEAD/AGENTS.md"
     },
     {
@@ -8112,7 +8231,7 @@
    ]
   },
   "rustpython/rustpython": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8166,7 +8285,7 @@
    ]
   },
   "s3dfx-cyber/gsoc-org-finder-": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8202,7 +8321,7 @@
    ]
   },
   "sableclient/sable": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8250,37 +8369,37 @@
    ]
   },
   "sagemath/sage": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "saleor/saleor": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "samillion/modernz": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "samsung/one": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "samvera/hyku": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "sandeepvashishtha/eventra": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "sap/e-mobility-charging-stations-simulator": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8292,12 +8411,12 @@
    ]
   },
   "saptarshisarkar12/drifty": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "sbt/sbt": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8327,12 +8446,12 @@
    ]
   },
   "sbt/website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "scala/scala3": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8356,17 +8475,17 @@
    ]
   },
   "scalacenter/scala3-migrate": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "scalacenter/scalafix": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "scikit-learn/scikit-learn": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8390,7 +8509,7 @@
    ]
   },
   "scipy/scipy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8408,17 +8527,17 @@
    ]
   },
   "scoopinstaller/extras": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "scoopinstaller/main": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "scottcjn/rustchain": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8454,22 +8573,22 @@
    ]
   },
   "searxng/searxng": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "secondlife/viewer": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "secretlint/secretlint": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "seleniumhq/selenium": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8511,7 +8630,7 @@
    ]
   },
   "sendou-ink/sendou.ink": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8523,7 +8642,7 @@
    ]
   },
   "seraph-quest/seraph": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8535,22 +8654,22 @@
    ]
   },
   "servo/servo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-android": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-desktop": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "sgl-project/sglang": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8568,17 +8687,17 @@
    ]
   },
   "shazzar00ni/paperlyte-v2": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": "repo-missing",
    "hits": []
   },
   "shiptest-ss13/shiptest": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "shm11c3/hardwarevisualizer": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8596,7 +8715,7 @@
    ]
   },
   "sidorares/node-mysql2": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8614,12 +8733,12 @@
    ]
   },
   "siemens/element": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "silvertakana/worldwideview": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8637,7 +8756,7 @@
    ]
   },
   "simple-icons/simple-icons": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8679,22 +8798,22 @@
    ]
   },
   "skevetter/devpod": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "skiptools/skip-ui": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "skyblockermod/skyblocker": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "snapchat/gigl": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8706,7 +8825,7 @@
    ]
   },
   "solvcon/modmesh": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8718,27 +8837,27 @@
    ]
   },
   "sorbet/sorbet": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "sovereign-labs/sovereign-sdk": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "spack/spack": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "spack/spack-packages": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "spiceai/spiceai": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8762,7 +8881,7 @@
    ]
   },
   "spiffe/spire": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8786,12 +8905,12 @@
    ]
   },
   "splode/pomotroid": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "stagewise-io/stagewise": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8803,7 +8922,7 @@
    ]
   },
   "starcitizentools/mediawiki-skins-citizen": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8839,7 +8958,7 @@
    ]
   },
   "stdlib-js/stdlib": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8857,17 +8976,17 @@
    ]
   },
   "stegschreck/rats": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "stoatchat/for-web": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "stodevx/aao-react-native": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8885,17 +9004,17 @@
    ]
   },
   "stranger6667/jsonschema": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "streetwriters/notesnook": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "stumpapp/stump": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8925,7 +9044,7 @@
    ]
   },
   "sugarlabs/musicblocks": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -8985,7 +9104,7 @@
    ]
   },
   "supercollider/supercollider": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9009,47 +9128,47 @@
    ]
   },
   "suwayomi/suwayomi-server": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "sveltejs/kit": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-build": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-foundation": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-java": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-org-website": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-package-manager": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "swisspost/design-system": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9061,7 +9180,7 @@
    ]
   },
   "switchbacktech/compass": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9073,41 +9192,28 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…rk the PR ready (not draft) once local verify passes. Human approval is only for production deploy, secrets, OAuth grants, deletion, and access grants. ## Claude Code worktree specific instructions At the start of any session in a fresh worktree — before assuming a `type-check`/`dev:*` failure reflects a real code prob…",
+     "snippet": "…l`. It holds secrets; never commit it. `dev:ports` assigns free ports per worktree and fills a missing `sync:` block itself. Trust the URL it prints, not `.claude/launch.json`. - Details: `docs/development/local-development.md`. Cursor Cloud VMs: `docs/development/cursor-cloud.md`. ## Verify - `bun run verify` select…",
      "url": "https://github.com/switchbacktech/compass/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "tapestry-mud/tapestry": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "tarkovtracker-org/tarkovtracker": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
-   "hits": [
-    {
-     "path": "AGENTS.md",
-     "keyword": "copilot",
-     "snippet": "# TarkovTracker — Agent Instructions This file is the canonical agent contract for this repository. All AI coding agents (pi, Claude Code, Copilot, Codex, Windsurf, Gemini, CodeRabbit) treat this as the source of truth. ## Maintenance Contract Update this file or a scoped child `AGENTS.md` in the same P…",
-     "url": "https://github.com/tarkovtracker-org/tarkovtracker/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": "AGENTS.md",
-     "keyword": "claude",
-     "snippet": "# TarkovTracker — Agent Instructions This file is the canonical agent contract for this repository. All AI coding agents (pi, Claude Code, Copilot, Codex, Windsurf, Gemini, CodeRabbit) treat this as the source of truth. ## Maintenance Contract Update this file or a scoped child `AGENTS.md`…",
-     "url": "https://github.com/tarkovtracker-org/tarkovtracker/blob/HEAD/AGENTS.md"
-    }
-   ]
+   "hits": []
   },
   "teammates/teammates": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "teamschools/teamster": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9119,12 +9225,12 @@
    ]
   },
   "tektronix/tm_devices": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "telemt/telemt": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9166,12 +9272,12 @@
    ]
   },
   "terrapkg/packages": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "thm-health/pilos": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9183,12 +9289,12 @@
    ]
   },
   "thomaspoignant/go-feature-flag": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "tinacms/tinacms": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9212,12 +9318,12 @@
    ]
   },
   "tqec/tqec": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "tracel-ai/burn": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9265,27 +9371,27 @@
    ]
   },
   "transmission/transmission": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "trezor/trezor-firmware": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino-gateway": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "triplea-game/triplea": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9297,7 +9403,7 @@
    ]
   },
   "tryghost/ghost": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9315,12 +9421,12 @@
    ]
   },
   "ttlapp/time-to-leave": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "tuist/tuist": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9338,7 +9444,7 @@
    ]
   },
   "tum-dev/navigatum": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9356,12 +9462,12 @@
    ]
   },
   "twbs/bootstrap": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "ublue-os/bluefin": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9379,12 +9485,12 @@
    ]
   },
   "ublue-os/main": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "unikeen/sjmcl": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9402,7 +9508,7 @@
    ]
   },
   "usemoss/moss": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9432,7 +9538,7 @@
    ]
   },
   "uutils/coreutils": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9462,12 +9568,12 @@
    ]
   },
   "uxlfoundation/onednn": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "valhalla/valhalla": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9503,12 +9609,12 @@
    ]
   },
   "valkey-io/valkey-glide": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "vectordotdev/vector": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9532,7 +9638,7 @@
    ]
   },
   "versity/versitygw": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9544,12 +9650,12 @@
    ]
   },
   "vets-who-code/vets-who-code-app": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "videojs/v10": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9573,7 +9679,7 @@
    ]
   },
   "vineethwilson15/codemind": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9603,12 +9709,12 @@
    ]
   },
   "visjs/vis-network": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "vitest-dev/vitest": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9656,7 +9762,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai contributions",
-     "snippet": "…repository. Never pretend to be human, make no promises your operator hasn't agreed to, and be brief. Read CONTRIBUTING.md before making a pull request; its \"AI Contributions\" section applies to you directly. ## Project Overview Vitest is a next-generation testing framework powered by Vite. This is a monorepo using pnpm workspaces…",
+     "snippet": "…that it was. Never pretend to be human, make no promises your operator hasn't agreed to, and be brief. Read CONTRIBUTING.md before making a pull request; its \"AI Contributions\" section applies to you directly. Your goal is to help maintainers of this repository. They expect to interact with a real human, not an automated agent. ##…",
      "url": "https://github.com/vitest-dev/vitest/blob/HEAD/AGENTS.md"
     },
     {
@@ -9668,7 +9774,7 @@
    ]
   },
   "vivliostyle/vivliostyle.js": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9728,12 +9834,12 @@
    ]
   },
   "vivoblueos/kernel": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "vllm-project/aibrix": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9751,7 +9857,7 @@
    ]
   },
   "vllm-project/semantic-router": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9769,19 +9875,19 @@
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…-policy.yaml](tools/agent/maintainer-policy.yaml), and [tools/make/agent.mk](tools/make/agent.mk). vLLM Semantic Router is an Envoy ExtProc request router for LLM inference. It resolves a request-facing entrypoint to an isolated recipe, evaluates that recipe's signals and projections, applies its decision and algorithm,…",
+     "snippet": "# vLLM Semantic Router agent entry vLLM Semantic Router is an Envoy ExtProc router for LLM inference. A public entrypoint resolves to an isolated recipe; its signals and projections feed a decision and algorithm, which select a backend and recipe-sco…",
      "url": "https://github.com/vllm-project/semantic-router/blob/HEAD/AGENTS.md"
     },
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
-     "snippet": "# GitHub Copilot Instructions Use the repository harness for reviews and code suggestions. ## Start Here 1. Read [`AGENTS.md`](../AGENTS.md) and [`tools/agent/docs/README…",
+     "snippet": "# GitHub Copilot instructions Read `AGENTS.md` and the nearest local `AGENTS.md` for changed directories. Use `make impact CHANGED_FILES=\"...\"` for ownership and candidate che…",
      "url": "https://github.com/vllm-project/semantic-router/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "vllm-project/vllm": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9811,7 +9917,7 @@
    ]
   },
   "vllm-project/vllm-ascend": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9823,7 +9929,7 @@
    ]
   },
   "vllm-project/vllm-omni": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9841,7 +9947,7 @@
    ]
   },
   "vpinball/vpinball": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9907,17 +10013,17 @@
    ]
   },
   "vrc-get/vrc-get": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "vuetorrent/vuetorrent": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "web-platform-tests/wpt": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9941,7 +10047,7 @@
    ]
   },
   "web-scrobbler/web-scrobbler": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9953,22 +10059,22 @@
    ]
   },
   "webassembly/binaryen": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "weblateorg/weblate": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "weboftrust/keripy": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "wesnoth/wesnoth": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9980,12 +10086,12 @@
    ]
   },
   "wielebenwir/commonsbooking": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "wikieducationfoundation/wikiedudashboard": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -9997,7 +10103,7 @@
    ]
   },
   "woocommerce/woocommerce-ios": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10015,7 +10121,7 @@
    ]
   },
   "wordpress-mobile/wordpress-ios": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10027,7 +10133,7 @@
    ]
   },
   "wordpress/gutenberg": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10045,7 +10151,7 @@
    ]
   },
   "wordpress/plugin-check": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10093,27 +10199,27 @@
    ]
   },
   "wordpress/wordpress-playground": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "worldconvotingsystems/nomnom": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "wp-graphql/wp-graphql": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "wpilibsuite/allwpilib": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "wso2/product-is": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10125,7 +10231,7 @@
    ]
   },
   "wynntils/wynntils": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10143,17 +10249,17 @@
    ]
   },
   "xilinx/mlir-aie": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "yairm210/unciv": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "yamadashy/repomix": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10213,7 +10319,7 @@
    ]
   },
   "yoast/wordpress-seo": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10249,7 +10355,7 @@
    ]
   },
   "yoheimuta/protolint": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10267,17 +10373,17 @@
    ]
   },
   "yt-project/yt": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "zacsweers/metro": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "zarr-developers/zarr-python": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10289,58 +10395,46 @@
    ]
   },
   "zen-browser/desktop": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "zephyrproject-rtos/zephyr": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "ai-generated",
-     "snippet": "…s** may add this; AI agents should not add `Signed-off-by` tags unless explicitly requested by humans. - The human submitter is responsible for reviewing all AI-generated code, ensuring license compliance, and signing off. - Use a real legal name and real email address (no pseudonyms, no noreply addresses). Do not add a `Co-a…",
-     "url": "https://github.com/zephyrproject-rtos/zephyr/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "ai-assisted",
-     "snippet": "# Zephyr Project — Copilot Instructions These instructions are derived from `doc/contribute/` and apply to all AI-assisted contributions to the Zephyr RTOS repository. ## Prerequisites - All contributions target the `main` branch via GitHub Pull Requests. - Familiarity with CMake…",
-     "url": "https://github.com/zephyrproject-rtos/zephyr/blob/HEAD/.github/copilot-instructions.md"
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…below is the only place AI involvement is recorded. - Add exactly one `Assisted-by: <Agent>:<model-version> [tool ...]` trailer, for example `Assisted-by: Claude:claude-opus-4.6 coccinelle`, naming the tool actually used. Replace it rather than stacking when a different model amends the commit. `checkpatch.pl` validat…",
+     "url": "https://github.com/zephyrproject-rtos/zephyr/blob/HEAD/AGENTS.md"
     },
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "ai tools",
-     "snippet": "…signing off. - Use a real legal name and real email address (no pseudonyms, no noreply addresses). Do not add a `Co-authored-by` tag to commit messages. When AI tools are used, add an attribution tag in the commit message: ``` Assisted-by: [Agent Name]:[Model Version] [Tool1] [Tool2] ``` Example: ``` Assisted-by: Claude:c…",
+     "snippet": "…do not ask for tree-wide cleanups. - Check commit messages: `area:` prefix, non-empty body, `Signed-off-by` present, exactly one `Assisted-by:` trailer when AI tools were used, no `Co-authored-by`. A change that addresses an issue carries `Fixes #N` in the PR description or a commit.",
      "url": "https://github.com/zephyrproject-rtos/zephyr/blob/HEAD/.github/copilot-instructions.md"
     },
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
-     "snippet": "# Zephyr Project — Copilot Instructions These instructions are derived from `doc/contribute/` and apply to all AI-assisted contributions to the Zephyr RTOS repository. ## Prerequisites…",
-     "url": "https://github.com/zephyrproject-rtos/zephyr/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "claude",
-     "snippet": "…AI tools are used, add an attribution tag in the commit message: ``` Assisted-by: [Agent Name]:[Model Version] [Tool1] [Tool2] ``` Example: ``` Assisted-by: Claude:claude-opus-4.6 coccinelle ``` Basic tools (git, gcc, make, editors) should not be listed. --- ## C Code Style Follow the [Linux kernel coding style](https…",
+     "snippet": "<!-- SPDX-FileCopyrightText: Copyright The Zephyr Project Contributors SPDX-License-Identifier: Apache-2.0 --> # Zephyr Project — Copilot Instructions The instructions for AI coding agents working on this repository are in `AGENTS.md` at the repository root. Copilot cloud agent, Copilot code rev…",
      "url": "https://github.com/zephyrproject-rtos/zephyr/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "zio/zio-http": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "zip-rs/zip2": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": []
   },
   "zizmorcore/zizmor": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10358,7 +10452,7 @@
    ]
   },
   "zulip/zulip": {
-   "scannedAt": "2026-08-31T11:41:00.035Z",
+   "scannedAt": "2026-09-07T10:30:35.046Z",
    "error": null,
    "hits": [
     {
@@ -10402,6 +10496,24 @@
      "keyword": "ai policy",
      "snippet": "…al advances. - Sustained disruption of community events, including talks and presentations. - Advocating for, or encouraging, any of the behaviors above. ## AI policy **Do not post AI-generated messages** -- we want to read your own genuine expression of your thoughts. It's fine to use whatever tools you like for help with…",
      "url": "https://github.com/zulip/zulip/blob/HEAD/CODE_OF_CONDUCT.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai-generated",
+     "snippet": "…ip's coding philosophy is to **focus relentlessly on making the codebase easy to understand and difficult to make dangerous mistakes**. This applies equally to AI-generated contributions. Every change should make the codebase more maintainable and easier to read. ### No detail is too small Zulip holds itself to a high bar for po…",
+     "url": "https://github.com/zulip/zulip/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai contributions",
+     "snippet": "# AGENTS.md - Guidelines for AI Contributions to Zulip This file provides guidance to AI coding agents for contributing to the Zulip codebase. These guidelines are designed to produce contributions that m…",
+     "url": "https://github.com/zulip/zulip/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…ontributing to the Zulip codebase. These guidelines are designed to produce contributions that meet the same high standards we expect from human contributors. Claude Code automatically uses `.claude/rules/` and `.claude/skills/`. If you are a different agent, read the files in these folders to see the rest of the agent inst…",
+     "url": "https://github.com/zulip/zulip/blob/HEAD/AGENTS.md"
     }
    ]
   }
