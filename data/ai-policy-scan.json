@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-14T10:48:21.160Z",
+ "generatedAt": "2026-09-21T10:51:34.120Z",
  "repos": {
   "321-vegan/321vegan-api": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "5e-bits/5e-database": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "academysoftwarefoundation/materialx": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "academysoftwarefoundation/openimageio": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -53,7 +53,7 @@
    ]
   },
   "accius/openhamclock": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -65,12 +65,12 @@
    ]
   },
   "actix/actix-web": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "actualbudget/actual": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -112,7 +112,7 @@
    ]
   },
   "agenta-ai/agenta": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "ai-dynamo/dynamo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -172,7 +172,7 @@
    ]
   },
   "altinn/altinn-studio": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -184,7 +184,7 @@
    ]
   },
   "altinn/dialogporten": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -202,12 +202,12 @@
    ]
   },
   "alveusgg/alveusgg": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "amrex-codes/amrex": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -243,22 +243,22 @@
    ]
   },
   "angular/components": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "animethemes/animethemes-server": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "anomalyco/opentui": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/airflow": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -281,31 +281,19 @@
     },
     {
      "path": "AGENTS.md",
-     "keyword": "ai-generated",
-     "snippet": "…ions.md` and check your diff against every rule — architecture boundaries, database correctness, code quality, testing requirements, API correctness, and AI-generated code signals. Fix any violations before pushing. 3. Confirm the code follows the project's coding standards and architecture boundaries described in this fi…",
-     "url": "https://github.com/apache/airflow/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": "AGENTS.md",
-     "keyword": "generative ai",
-     "snippet": "…, ask the user for guidance. Then push the branch to your fork (`origin`) and open the PR creation page in the browser with the body pre-filled (including the generative AI disclosure already checked): ```bash git push -u origin <branch-name> gh pr create --web --title \"Short title (under 70 chars)\" --body \"$(cat <<'EOF' Brief de…",
-     "url": "https://github.com/apache/airflow/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…the message, separated from the body by a blank line and a horizontal rule. Use the same agent name string used in `Generated-by:` on PR bodies (for example, `Claude Code (Opus 4.7)`). - **Agent draft, posted without prior human review** (autonomous / routine work, scheduled triage, etc.): ``` --- Drafted-by: <Age…",
+     "snippet": "…-management-*` skills (triage, code-review, stats, mentor) among others. Nothing framework-related is committed here — install it in your own agent harness. In Claude Code: ```text /plugin marketplace add apache/magpie /plugin install magpie-pr-management@apache-magpie ``` `magpie@apache-magpie` installs every family at on…",
      "url": "https://github.com/apache/airflow/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "apache/amoro": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/arrow": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -329,17 +317,17 @@
    ]
   },
   "apache/arrow-adbc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/arrow-java": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/auron": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -351,12 +339,12 @@
    ]
   },
   "apache/beam": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/burr": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -374,22 +362,22 @@
    ]
   },
   "apache/cloudstack": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-ballista": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-comet": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -401,32 +389,32 @@
    ]
   },
   "apache/dolphinscheduler": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/doris": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/doris-website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/druid": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/dubbo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/fluss": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -450,12 +438,12 @@
    ]
   },
   "apache/fluss-rust": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/fory": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -479,7 +467,7 @@
    ]
   },
   "apache/gluten": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -497,7 +485,7 @@
    ]
   },
   "apache/gravitino": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -521,7 +509,7 @@
    ]
   },
   "apache/hamilton": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -533,12 +521,12 @@
    ]
   },
   "apache/hudi": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/iceberg": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -568,7 +556,7 @@
    ]
   },
   "apache/infrastructure-actions": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -586,7 +574,7 @@
    ]
   },
   "apache/lucene": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -604,7 +592,7 @@
    ]
   },
   "apache/opendal": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -658,22 +646,22 @@
    ]
   },
   "apache/paimon": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/pekko": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/pekko-connectors": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/pinot": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -703,7 +691,7 @@
    ]
   },
   "apache/polaris": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -739,7 +727,7 @@
    ]
   },
   "apache/pulsar": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -757,7 +745,7 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "…rectly, which turns a flame graph into something you can ask questions about. Register it once (it needs [JBang](https://www.jbang.dev/) and JDK 25+): ```bash claude mcp add jafar -- jbang jfr-mcp@btraceio --stdio ``` It exposes `jfr_diagnose` (automated diagnosis of a recording), `jfr_stackprofile` (structured stack profi…",
+     "snippet": "…ch the CVE id in apache/pulsar PRs/issues first, then ask via a GitHub issue or dev@pulsar.apache.org. ## AI coding agents If you use an AI coding assistant (Claude Code, Copilot, Cursor, Gemini, Codex, Aider, …), see [`AGENTS.md`](AGENTS.md) for the agent-facing guidance — a routing index into this guide, [`ARCHITECTURE.m…",
      "url": "https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -781,12 +769,12 @@
    ]
   },
   "apache/sedona": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "apache/shardingsphere": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -798,7 +786,7 @@
    ]
   },
   "apache/superset": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -834,7 +822,7 @@
    ]
   },
   "apache/trafficserver": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -846,7 +834,7 @@
    ]
   },
   "apicurio/apicurio-registry": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -858,12 +846,12 @@
    ]
   },
   "apolloconfig/apollo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ardupilot/ardupilot": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -911,7 +899,7 @@
    ]
   },
   "argoproj/argo-cd": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -923,7 +911,7 @@
    ]
   },
   "argoproj/argo-workflows": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -953,12 +941,12 @@
    ]
   },
   "asfhyp3/hyp3": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "astral-sh/uv": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -976,22 +964,22 @@
    ]
   },
   "asyncapi/cli": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "asyncapi/website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "autofixture/autofixture": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "avelino/awesome-go": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1039,7 +1027,7 @@
    ]
   },
   "azerothcore/azerothcore-wotlk": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1051,7 +1039,7 @@
    ]
   },
   "backstage/backstage": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1099,7 +1087,7 @@
    ]
   },
   "backstage/community-plugins": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1111,12 +1099,12 @@
    ]
   },
   "badges/shields": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "basedhardware/omi": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1128,33 +1116,33 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "<!-- SINGLE SOURCE OF TRUTH for all agent instructions in this repo (Claude Code, Codex, and any other agent). --> <!-- CLAUDE.md is a thin pointer to this file. Add or change rules HERE, never in CLAUDE.md. --> <!-- Format spec: https…",
+     "snippet": "# Omi agent guide Read the guide for the area you are changing. `CLAUDE.md` points here. ## Routes | Working on | Read | |---|---| | Backend | `backend/AGENTS.md` | | Flutter app | `app/AGENTS.md` | | macOS desktop | `desktop/mac…",
      "url": "https://github.com/basedhardware/omi/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "bazel-contrib/rules_foreign_cc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "bazelbuild/bazel-central-registry": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "bcgov/cas-registration": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "beetbox/beets": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "beeware/briefcase": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1184,7 +1172,7 @@
    ]
   },
   "beeware/toga": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1214,7 +1202,7 @@
    ]
   },
   "besu-eth/besu": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1226,7 +1214,7 @@
    ]
   },
   "betterlaspinas/betterlaspinas": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1238,7 +1226,7 @@
    ]
   },
   "beyond-all-reason/beyond-all-reason": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1268,32 +1256,32 @@
    ]
   },
   "bioconda/bioconda-recipes": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "bit-bots/bitbots_main": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "bloomberg/blazingmq": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "boa-dev/boa": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "boinc/boinc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "bradygaster/squad": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1323,7 +1311,7 @@
    ]
   },
   "brikev/twd": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1365,12 +1353,12 @@
    ]
   },
   "bytecodealliance/jco": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "bytecodealliance/wasmtime": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1382,12 +1370,12 @@
    ]
   },
   "bytecodealliance/wrpc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "canner/wrenai": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1417,7 +1405,7 @@
    ]
   },
   "carlos-emr/carlos": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1447,7 +1435,7 @@
    ]
   },
   "cartography-cncf/cartography": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1483,7 +1471,7 @@
    ]
   },
   "cataclysmbn/cataclysm-bn": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1495,7 +1483,7 @@
    ]
   },
   "catalyst-cooperative/pudl": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1507,7 +1495,7 @@
    ]
   },
   "celestiaorg/celestia-core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1519,17 +1507,17 @@
    ]
   },
   "cert-manager/cert-manager": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "chapel-lang/chapel": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "chaterm/chaterm": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1541,12 +1529,12 @@
    ]
   },
   "checkstyle/checkstyle": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "cherryhq/cherry-studio": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1582,12 +1570,12 @@
    ]
   },
   "chipsalliance/caliptra-sw": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "chipsalliance/chisel": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1599,17 +1587,17 @@
    ]
   },
   "cilium/cilium": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "civiform/civiform": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "cleverraven/cataclysm-dda": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1639,7 +1627,7 @@
    ]
   },
   "cline/cline": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1675,12 +1663,12 @@
    ]
   },
   "cocotb/cocotb": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "code-yeongyu/oh-my-openagent": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1704,19 +1692,19 @@
     {
      "path": "README.md",
      "keyword": "llm",
-     "snippet": "…omo-ai` fails by design. Do not install plain `omo` from npm: it is an unrelated package by a different author. ### For Humans **Strongly recommended: let an LLM agent install this for you.** The Ultimate edition setup involves subscription detection, model selection across 11 agents, and per-provider authentication — h…",
+     "snippet": "…beta` tag is required. Do not install plain `omo` from npm; that is an unrelated package by a different author. ### For Humans **Strongly recommended: let an LLM agent install this for you.** The Ultimate edition setup involves subscription detection, model selection across 11 agents, and per-provider authentication, an…",
      "url": "https://github.com/code-yeongyu/oh-my-openagent/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "chatgpt",
-     "snippet": "…it. It just works. Even with only the following subscriptions, `ultrawork` works well (this project is not affiliated; these are personal recommendations): - [ChatGPT Subscription ($20)](https://chatgpt.com/) - [Kimi Code Subscription ($19)](https://www.kimi.com/code) - [GLM Coding Plan ($10)](https://z.ai/subscribe) - If yo…",
+     "snippet": "…l. Type `ultrawork` (or `ulw`). Done. Everything below, every feature, every optimization: you don't need to know any of it. It just works. Even with only a [ChatGPT subscription ($20)](https://chatgpt.com/), a [Kimi Code subscription ($19)](https://www.kimi.com/code) or the [GLM Coding Plan ($10)](https://z.ai/subscribe),…",
      "url": "https://github.com/code-yeongyu/oh-my-openagent/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "copilot",
-     "snippet": "…/refs/heads/dev/docs/guide/installation.md ``` The guide covers: platform selection, the subscription interview, provider authentication (Anthropic / Gemini / Copilot / Z.ai / OpenCode Zen), the agent-to-model matching matrix, modes (`ultrawork`, `team`, `hyperplan`), slash commands, the Light edition's Codex components, Tea…",
+     "snippet": "…/refs/heads/dev/docs/guide/installation.md ``` The guide covers: platform selection, the subscription interview, provider authentication (Anthropic / Google / Copilot / Z.ai / OpenCode Zen), the agent-to-model matching matrix, modes (`ultrawork`, `team`, `hyperplan`), slash commands, the Light edition's Codex components, Tea…",
      "url": "https://github.com/code-yeongyu/oh-my-openagent/blob/HEAD/README.md"
     },
     {
@@ -1752,7 +1740,7 @@
    ]
   },
   "codeforpdx/tenantfirstaid": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1776,7 +1764,7 @@
    ]
   },
   "comfy-org/comfyui_frontend": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1794,17 +1782,17 @@
    ]
   },
   "common-voice/common-voice": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "complianceascode/content": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "conda/conda": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1852,18 +1840,18 @@
    ]
   },
   "confidential-containers/guest-components": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "containers/kubernetes-mcp-server": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
      "path": "README.md",
      "keyword": "ai tools",
-     "snippet": "…n) via the `--toolsets` command-line flag or `toolsets` configuration option. This allows you to control which Kubernetes functionalities are available to your AI tools. Enabling only the toolsets you need can help reduce the context size and improve the LLM's tool selection accuracy. ### Validated Kubernetes Ecosystem Projec…",
+     "snippet": "…ools, resources, prompts, and so on) via the `toolsets` configuration option. This allows you to control which Kubernetes functionalities are available to your AI tools. Enabling only the toolsets you need can help reduce the context size and improve the LLM's tool selection accuracy. ### Validated Kubernetes Ecosystem Projec…",
      "url": "https://github.com/containers/kubernetes-mcp-server/blob/HEAD/README.md"
     },
     {
@@ -1893,7 +1881,7 @@
    ]
   },
   "containers/podman-desktop-extension-ai-lab": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1911,12 +1899,12 @@
    ]
   },
   "cookiecutter/cookiecutter-django": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "copier-org/copier": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1934,12 +1922,12 @@
    ]
   },
   "coredns/coredns": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "cortexproject/cortex": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1969,7 +1957,7 @@
    ]
   },
   "cozystack/cozystack": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -1993,12 +1981,12 @@
    ]
   },
   "cpinitiative/usaco-guide": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "crate/crate": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2022,17 +2010,17 @@
    ]
   },
   "crypto-org-chain/chain-main": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "cube-js/cube": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "cuthbertlab/music21": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2080,12 +2068,12 @@
    ]
   },
   "daggerhashimoto/openclaw-nerve": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "dapr/dapr": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2109,22 +2097,22 @@
    ]
   },
   "dapr/dotnet-sdk": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "dapr/js-sdk": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "defold/defold": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "democratizedspace/dspace": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2142,7 +2130,7 @@
    ]
   },
   "desktop/desktop": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2154,12 +2142,12 @@
    ]
   },
   "dexidp/dex": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "diegosouzapw/omniroute": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2171,7 +2159,7 @@
     {
      "path": "README.md",
      "keyword": "ai tool",
-     "snippet": "…h=\"820\"/> <br/> <br/> # 🚀 OmniRoute — The Free AI Gateway <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 356 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback…",
+     "snippet": "…h=\"820\"/> <br/> <br/> # 🚀 OmniRoute — The Free AI Gateway <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 359 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
@@ -2183,13 +2171,13 @@
     {
      "path": "README.md",
      "keyword": "copilot",
-     "snippet": "…hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 356 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 356 AI p…",
+     "snippet": "…hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 359 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 359 AI p…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 356 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
+     "snippet": "…<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 359 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
@@ -2201,7 +2189,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…re, see the Repository map and Reference Documentation sections below. --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 356 LLM providers, auto-fallback. | Layer | Location | Purpose…",
+     "snippet": "…re, see the Repository map and Reference Documentation sections below. --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 359 LLM providers, auto-fallback. | Layer | Location | Purpose…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/AGENTS.md"
     },
     {
@@ -2225,7 +2213,7 @@
    ]
   },
   "digi-uw/openelis-global-2": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2273,7 +2261,7 @@
    ]
   },
   "dimagi/open-chat-studio": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2303,7 +2291,7 @@
    ]
   },
   "dimensionalos/dimos": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2351,17 +2339,17 @@
    ]
   },
   "diverse-cognitive-systems-group/dcs-simulation-engine": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "diygod/rsshub": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "documentdb/functional-tests": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2379,7 +2367,7 @@
    ]
   },
   "doenet/doenetml": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2403,7 +2391,7 @@
    ]
   },
   "dollhousemcp/mcp-server": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2427,7 +2415,7 @@
    ]
   },
   "doocs/md": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2457,7 +2445,7 @@
    ]
   },
   "dosbox-staging/dosbox-staging": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2493,22 +2481,22 @@
    ]
   },
   "dotansimha/graphql-code-generator": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "dspace/dspace": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "eclipse-jdt/eclipse.jdt.core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "eclipse-m2e/m2e-core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2544,12 +2532,12 @@
    ]
   },
   "eclipse-platform/eclipse.platform.releng.aggregator": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "eclipse-platform/eclipse.platform.swt": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2567,7 +2555,7 @@
    ]
   },
   "eclipse-sw360/sw360": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2579,22 +2567,22 @@
    ]
   },
   "eclipse-windowbuilder/windowbuilder": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "eclipse-zenoh/zenoh": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "edgetx/edgetx": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "edwardkim/rhwp": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2654,7 +2642,7 @@
    ]
   },
   "effortlessmetrics/bitnet-rs-swarm": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2684,12 +2672,12 @@
    ]
   },
   "effortlessmetrics/hl7v2-rs": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "effortlessmetrics/perl-lsp-swarm": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2713,17 +2701,17 @@
    ]
   },
   "eic/eicrecon": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "eisop/checker-framework": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "elementor/elementor": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2735,7 +2723,7 @@
    ]
   },
   "eljojo/rememory": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2783,22 +2771,22 @@
    ]
   },
   "emacs-lsp/lsp-mode": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "emberjs/ember.js": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "emfcamp/website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "entireio/cli": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2822,7 +2810,7 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "…rect Go version) mise install # Download Go modules go mod download # Build the CLI mise run build # Verify setup by running tests mise run test ``` > See [CLAUDE.md](CLAUDE.md) for detailed architecture and development reference. --- ## Making Changes 1. **Create a branch** for your changes: ```bash git checkou…",
+     "snippet": "…se install # Download Go modules go mod download # Build the CLI mise run build # Verify setup by running tests mise run test ``` > See the [reference map](CLAUDE.md#read-when-relevant) for architecture and development documentation. --- ## Making Changes 1. **Create a branch** for your changes: ```bash git chec…",
      "url": "https://github.com/entireio/cli/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -2858,7 +2846,7 @@
    ]
   },
   "envoyproxy/envoy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2930,7 +2918,7 @@
    ]
   },
   "envoyproxy/gateway": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -2942,7 +2930,7 @@
    ]
   },
   "equinor/neqsim": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3038,7 +3026,7 @@
    ]
   },
   "esbmc/esbmc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3062,17 +3050,17 @@
    ]
   },
   "escomp/ctsm": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "esphome/esphome": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ethereum/ethereum-org-website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3084,7 +3072,7 @@
    ]
   },
   "eventual-inc/daft": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3096,7 +3084,7 @@
    ]
   },
   "exist-db/exist": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3108,7 +3096,7 @@
    ]
   },
   "farion1231/cc-switch": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3162,13 +3150,13 @@
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "<div align=\"center\"> # CC Switch ### The All-in-One Manager for Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build, OpenCode, OpenClaw & Hermes Agent [![Version](https://img.shields.io/github/v/release/farion1231/cc-switc…",
+     "snippet": "<div align=\"center\"> # CC Switch ### The All-in-One Manager for Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build, OpenCode, OpenClaw, Hermes Agent, MiniMax Code [![Version](https://img.shields.io/github/v/release/farion…",
      "url": "https://github.com/farion1231/cc-switch/blob/HEAD/README.md"
     }
    ]
   },
   "feast-dev/feast": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3186,22 +3174,22 @@
    ]
   },
   "finos/legend-studio": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-ios-sdk": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-tools": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "firstcontributions/first-contributions": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3219,12 +3207,12 @@
    ]
   },
   "fork-commit-merge/fork-commit-merge": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "fossasia/visdom": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3260,7 +3248,7 @@
    ]
   },
   "fossbilling/fossbilling": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3284,12 +3272,12 @@
    ]
   },
   "frappe/lms": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "freecodecamp/freecodecamp": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3301,37 +3289,37 @@
    ]
   },
   "g00fy2/quickie": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "galaxyproject/galaxy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "gaul/s3proxy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-gui": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-sim": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "genericmappingtools/pygmt": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "gepa-ai/gepa": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3385,18 +3373,18 @@
    ]
   },
   "getporter/porter": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "gfx-rs/wgpu": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
      "keyword": "llm",
-     "snippet": "…the PR must fully adhere to [Change Ownership](#change-ownership) rules. The author is responsible for the code, regardless of how it was created. Do not use \"LLM generated\" as a justification for low quality code. #### Designing new features As an open source project, wgpu wants to serve a broad audience. This helps u…",
+     "snippet": "…the PR must fully adhere to [Change Ownership](#change-ownership) rules. The author is responsible for the code, regardless of how it was created. Do not use \"LLM generated\" as a justification for low quality code. Additionally, please write Issue and PR descriptions and large explanatory comment blocks yourself. These…",
      "url": "https://github.com/gfx-rs/wgpu/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -3408,19 +3396,19 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "slop",
-     "snippet": "…close any PRs that cause an undue burden on the maintainership. This could include, but is not limited to, [massive PRs](#large-pull-requests-are-risky), [LLM slop](#llms-ai), or contributions not in good faith. #### Large pull requests are risky Contributors should anticipate that the larger and more complex a pull req…",
+     "snippet": "…close any PRs that cause an undue burden on the maintainership. This could include, but is not limited to, [massive PRs](#large-pull-requests-are-risky), [LLM slop](#llms-ai), or contributions not in good faith. #### Designing new features As an open source project, wgpu wants to serve a broad audience. This helps us ca…",
      "url": "https://github.com/gfx-rs/wgpu/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…: - Getting source type's scalar - Updating the `kind` to target kind - Keeping the same `width` for bitcast (no conversion) # Other This is stuff that Claude wrote for itself. It can probably be improved. ## Naga Tests **Test Structure:** 1. **Unit Tests**: In the same file as the code being tested - Example:…",
+     "snippet": "…feature works and it errors when its supposed to. ## Repository Files `AGENTS.md` and `.agents/` are the source of truth for agent instructions and skills. `CLAUDE.md` and `.claude/` are generated copies. Do not edit the generated copies directly. After you edit any source-of-truth agent file or a root license file, run `…",
      "url": "https://github.com/gfx-rs/wgpu/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "ggml-org/llama.cpp": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3474,12 +3462,12 @@
    ]
   },
   "ghostfolio/ghostfolio": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "gitoxidelabs/gitoxide": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3491,39 +3479,39 @@
    ]
   },
   "gleam-lang/gleam": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "godotengine/godot": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
      "path": ".github/PULL_REQUEST_TEMPLATE.md",
      "keyword": "use of ai",
-     "snippet": "…submitting, please read our checklist for contributors: https://contributing.godotengine.org/en/latest/engine/introduction.html#checklist-for-new-contributors Use of AI must be disclosed and should include a description of how it was used. --> ## What problem(s) does this PR solve? - Closes # ## Additional information <!--…",
+     "snippet": "…please read our checklist for contributors: https://contributing.godotengine.org/en/latest/development/engine/introduction.html#checklist-for-new-contributors Use of AI must be disclosed and should include a description of how it was used. --> ## What problem(s) does this PR solve? - Closes # ## Additional information <!--…",
      "url": "https://github.com/godotengine/godot/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
     }
    ]
   },
   "godotengine/godot-docs": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "gramps-project/gramps-web": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "graphql-hive/console": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "grcengclub/claude-grc-engineering": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3547,7 +3535,7 @@
    ]
   },
   "greenshot/greenshot": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3559,30 +3547,24 @@
    ]
   },
   "gyrinx-app/gyrinx": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
-     "keyword": "copilot",
-     "snippet": "…is file exists only so tools that look for `AGENTS.md` find their way there — deliberately a pointer rather than a copy, so the two cannot drift apart. GitHub Copilot additionally reads [.github/copilot-instructions.md](.github/copilot-instructions.md) and the path-scoped files under [.github/instructions/](.github/instructi…",
-     "url": "https://github.com/gyrinx-app/gyrinx/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "# Agent instructions This repository keeps its agent instructions in **[CLAUDE.md](CLAUDE.md)**, with directory-specific notes in nested `CLAUDE.md` files (notably [n23/core/templates/CLAUDE.md](n23/core/templates/CLAUDE.md) for template…",
+     "snippet": "…tes, scratch analysis and handover notes outside the repository under `~/.local/share/gyrinx/agent-notes/<task>/`. Do not add private notes to the legacy `.claude/notes/` directory. - Put requested project documentation in the relevant versioned `docs/`, `design/`, or script path. - Look up model definitions before usi…",
      "url": "https://github.com/gyrinx-app/gyrinx/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "hacf-fr/renault-api": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "hackclub/sprig": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3600,22 +3582,22 @@
    ]
   },
   "hackforla/tdm-calculator": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "haikuports/haikuports": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "hashgraph/hedera-transaction-tool": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "hhs/simpler-grants-gov": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3627,12 +3609,12 @@
    ]
   },
   "hibernate/hibernate-reactive": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "homarr-labs/homarr": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3650,7 +3632,7 @@
    ]
   },
   "home-assistant/android": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3662,7 +3644,7 @@
    ]
   },
   "home-assistant/core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3734,7 +3716,7 @@
    ]
   },
   "home-assistant/frontend": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3752,7 +3734,7 @@
    ]
   },
   "home-assistant/home-assistant.io": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3764,7 +3746,7 @@
    ]
   },
   "homebrew/homebrew-cask": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3818,7 +3800,7 @@
    ]
   },
   "homebrew/homebrew-core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3878,37 +3860,50 @@
    ]
   },
   "htmlhint/htmlhint": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "hyperledger/fabric-gateway": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ictu/quality-time": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "iiab/iiab": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "im-anishraj/arnio": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "imas/mastodon": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…uidance and the [DEVELOPMENT] guide for environment-specific details. You should also read the project's [AI Contribution Policy] to understand how we approach AI-assisted contributions. ## API Changes and Additions Any changes or additions made to the API should have an accompanying pull request on our [documentation repositor…",
+     "url": "https://github.com/imas/mastodon/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai contribution",
+     "snippet": "…ution guidelines] for high-level acceptance criteria guidance and the [DEVELOPMENT] guide for environment-specific details. You should also read the project's [AI Contribution Policy] to understand how we approach AI-assisted contributions. ## API Changes and Additions Any changes or additions made to the API should have an accompa…",
+     "url": "https://github.com/imas/mastodon/blob/HEAD/CONTRIBUTING.md"
+    }
+   ]
   },
   "infinispan/infinispan": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3938,12 +3933,12 @@
    ]
   },
   "innerwarden/innerwarden": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": "repo-missing",
    "hits": []
   },
   "intel/intel-xpu-backend-for-triton": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3955,12 +3950,12 @@
    ]
   },
   "intel/llvm": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "internetarchive/openlibrary": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3972,13 +3967,13 @@
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
-     "snippet": "# Copilot Instructions > **Canonical guide:** [`docs/ai/README.md`](../docs/ai/README.md) — read that file for full architecture, templates, data-model, and file-locati…",
+     "snippet": "# Copilot Instructions > **Canonical guides:** [`AGENTS.md`](../AGENTS.md) for stack, commands, and conventions; [`docs/ai/README.md`](../docs/ai/README.md) for archite…",
      "url": "https://github.com/internetarchive/openlibrary/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "inventree/inventree": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -3990,7 +3985,7 @@
    ]
   },
   "istio-ecosystem/sail-operator": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4008,12 +4003,12 @@
    ]
   },
   "it-at-m/dbs": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "jacquescarette/drasil": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4025,7 +4020,7 @@
    ]
   },
   "jaegertracing/jaeger": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4055,7 +4050,7 @@
    ]
   },
   "jaywcjlove/awesome-mac": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4103,27 +4098,27 @@
    ]
   },
   "jellyfin/jellyfin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "jenkins-infra/plugin-modernizer-tool": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "jetty/jetty.project": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "jhasourav07/commitpulse": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
-   "error": null,
+   "scannedAt": "2026-09-21T10:51:34.120Z",
+   "error": "repo-missing",
    "hits": []
   },
   "joshuakgoldberg/all-contributors-for-repository": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4135,52 +4130,52 @@
    ]
   },
   "joshuakgoldberg/formatly": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/refined-saved-replies": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/sentences-per-line": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/ts-api-utils": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "jscad/openjscad.org": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "jupyterhub/mybinder.org-deploy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "jxn-30/better-moodle": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "k0sproject/k0s": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "karmada-io/karmada": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kata-containers/kata-containers": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4234,12 +4229,12 @@
    ]
   },
   "kedacore/http-add-on": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kiali/kiali": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4287,7 +4282,7 @@
    ]
   },
   "koala73/worldmonitor": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4329,7 +4324,7 @@
    ]
   },
   "koizuka/echonet-list": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4353,17 +4348,17 @@
    ]
   },
   "konflux-ci/konflux-ci": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kserve/website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubedoio/rustchat": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4375,7 +4370,7 @@
    ]
   },
   "kubeflow/pipelines": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4399,18 +4394,18 @@
    ]
   },
   "kubernetes-client/javascript": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/agent-sandbox": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai-assisted",
-     "snippet": "…ment:** All contributors must sign the [Contributor License Agreement](https://git.k8s.io/community/CLA.md). PRs without a signed CLA will not be reviewed. - **AI-Assisted Code Reviews:** We use GitHub Copilot and CodeRabbit to provide automated, first-pass code reviews to help identify low-hanging fruit and improve review veloci…",
+     "snippet": "…ment:** All contributors must sign the [Contributor License Agreement](https://git.k8s.io/community/CLA.md). PRs without a signed CLA will not be reviewed. - **AI-Assisted Code Reviews:** We use CodeRabbit to provide automated, first-pass code reviews to help identify low-hanging fruit and improve review velocity. - **⚠️ Import…",
      "url": "https://github.com/kubernetes-sigs/agent-sandbox/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -4420,38 +4415,26 @@
      "url": "https://github.com/kubernetes-sigs/agent-sandbox/blob/HEAD/CONTRIBUTING.md"
     },
     {
-     "path": "CONTRIBUTING.md",
-     "keyword": "copilot",
-     "snippet": "…ntributor License Agreement](https://git.k8s.io/community/CLA.md). PRs without a signed CLA will not be reviewed. - **AI-Assisted Code Reviews:** We use GitHub Copilot and CodeRabbit to provide automated, first-pass code reviews to help identify low-hanging fruit and improve review velocity. - **⚠️ Important Contribution No…",
-     "url": "https://github.com/kubernetes-sigs/agent-sandbox/blob/HEAD/CONTRIBUTING.md"
-    },
-    {
      "path": "README.md",
      "keyword": "ai-assisted",
-     "snippet": "…rs to fast-track or take over approved community PRs. Please read our [Contributing Guidelines](CONTRIBUTING.md) for our full code review and PR policies. ### AI-Assisted Code Reviews (Experimental) To help improve our review velocity, we are currently experimenting with AI-assisted code reviews using GitHub Copilot and CodeRab…",
-     "url": "https://github.com/kubernetes-sigs/agent-sandbox/blob/HEAD/README.md"
-    },
-    {
-     "path": "README.md",
-     "keyword": "copilot",
-     "snippet": "…s. ### AI-Assisted Code Reviews (Experimental) To help improve our review velocity, we are currently experimenting with AI-assisted code reviews using GitHub Copilot and CodeRabbit as our automated first-pass reviewers. Here is the workflow: 1. Copilot and CodeRabbit will automatically review open PRs (skipping draft PRs a…",
+     "snippet": "…rs to fast-track or take over approved community PRs. Please read our [Contributing Guidelines](CONTRIBUTING.md) for our full code review and PR policies. ### AI-Assisted Code Reviews (Experimental) To help improve our review velocity, we are currently experimenting with AI-assisted code reviews using CodeRabbit as our automate…",
      "url": "https://github.com/kubernetes-sigs/agent-sandbox/blob/HEAD/README.md"
     },
     {
      "path": "AGENTS.md",
-     "keyword": "copilot",
-     "snippet": "…ove` and presubmits pass. Default merge mode is squash; use `/label tide/merge-method-rebase` only when distinct commits matter. - A bot may auto-assign GitHub Copilot as a first-pass reviewer. **Never click \"Commit suggestion\" in the GitHub UI** — that adds Copilot as a co-author, and Copilot cannot sign the Kubernetes CLA,…",
+     "keyword": "claude",
+     "snippet": "…/), following the Agent Skills specification (`dev-rules`, `k8s-api-conventions`, `bump-go-version`, `fix-flakes`, `test-pyramid`, `triage-issues`). Note that [CLAUDE.md](CLAUDE.md) imports this file via `@AGENTS.md`. ## Build, test, lint All standard tasks go through the [Makefile](Makefile). Prefer `make` targets over in…",
      "url": "https://github.com/kubernetes-sigs/agent-sandbox/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "kubernetes-sigs/cloud-provider-azure": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/cluster-api": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4469,17 +4452,17 @@
    ]
   },
   "kubernetes-sigs/cluster-api-provider-azure": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/external-dns": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/gateway-api": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4509,12 +4492,12 @@
    ]
   },
   "kubernetes-sigs/kro": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/kube-agentic-networking": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4526,7 +4509,7 @@
    ]
   },
   "kubernetes-sigs/kueue": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4568,22 +4551,22 @@
    ]
   },
   "kubernetes/community": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes/k8s.io": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kops": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kubernetes": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4595,22 +4578,22 @@
    ]
   },
   "kubernetes/perf-tests": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes/test-infra": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubernetes/website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kubestellar/console": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4694,7 +4677,7 @@
    ]
   },
   "kubevirt/kubevirt": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4712,17 +4695,17 @@
    ]
   },
   "kubevirt/project-infra": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kumahq/kuma": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "kyverno/kyverno": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4740,59 +4723,71 @@
    ]
   },
   "labwc/labwc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai-generated",
-     "snippet": "…l Requests where the submitter clearly did not understand the code, could not reason about it, and would be unable to maintain it. This is not acceptable. Any AI-generated code contribution must be compatible with the GPL-2.0-only license. While LLMs can be useful for triage, review, clean-up, API refactoring and similar tasks,…",
+     "snippet": "…t-messages) - [6. Unit Tests](#unit-tests) - [7. Submitting Patches](#submitting-patches) - [8. Native Language Support](#native-language-support) - [9. Use of AI-generated content](#use-of-ai-generated-content) - [10. Upversion](#upversion) # How to Contribute 1. Report bugs as GitHub issues. We use a template prompting you to…",
      "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai-assisted",
-     "snippet": "…` 3. Copy the header from the original `labwc.pot` to the new one, keeping the newly generated dates, check for sanity and commit. # Tools We permit LLM and AI-assisted tooling, but only on the basis that humans remain fully accountable. Contributors must use an `Assisted-by:` tag in the commit logs if AI tools generated or si…",
+     "snippet": "…ical at a high level, or because the sense of ownership diminishes when one's fingerprints are not all over a patch. 3. **Community**: With the emergence of AI-assisted development we have observed that Pull Requests (PRs) have become more transactional with contributors asking an AI system to produce an implementation a…",
      "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai tools",
-     "snippet": "…rmit LLM and AI-assisted tooling, but only on the basis that humans remain fully accountable. Contributors must use an `Assisted-by:` tag in the commit logs if AI tools generated or significantly assisted with any part of the code or documentation. Humans retain full legal and technical responsibility for the resulting work, i…",
+     "snippet": "…r for us to be comfortable incorporating it into a GPL-2.0-only project. 2. **Quality**: Whilst some maintainers and contributors make significant use of AI tools in their professional lives, there is - with labwc - a sense that PRs generated by AI are annoying and that code created by AI is hard to follow. Further…",
      "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
-     "keyword": "llm",
-     "snippet": "…abwc.pot` 3. Copy the header from the original `labwc.pot` to the new one, keeping the newly generated dates, check for sanity and commit. # Tools We permit LLM and AI-assisted tooling, but only on the basis that humans remain fully accountable. Contributors must use an `Assisted-by:` tag in the commit logs if AI tools…",
+     "keyword": "generative ai",
+     "snippet": "…lso issues, discussions and PR descriptions. If you are not a native English speaker and need assistance with translations, please use a tool which doesn't use generative AI. Generative AI often expands and twists the original message, altering its meaning. The term AI is used here to include the field of Natural Language Processi…",
      "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "llms",
-     "snippet": "…ut it, and would be unable to maintain it. This is not acceptable. Any AI-generated code contribution must be compatible with the GPL-2.0-only license. While LLMs can be useful for triage, review, clean-up, API refactoring and similar tasks, we strongly discourage AI slop. Code review effort is usually the project's prim…",
+     "snippet": "…essage, altering its meaning. The term AI is used here to include the field of Natural Language Processing (NLP) which in turn includes Large Language Models (LLMs). Associated tools include ChatGPT, Claude, Copilot, and so on. The reason for this position relates to the following conerns: 1. **Copyright and provenance*…",
      "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
-     "keyword": "slop",
-     "snippet": "…compatible with the GPL-2.0-only license. While LLMs can be useful for triage, review, clean-up, API refactoring and similar tasks, we strongly discourage AI slop. Code review effort is usually the project's primary bottleneck, and submitting unreviewed, AI-generated garbage wastes reviewer time, slows development, and h…",
+     "keyword": "chatgpt",
+     "snippet": "…he term AI is used here to include the field of Natural Language Processing (NLP) which in turn includes Large Language Models (LLMs). Associated tools include ChatGPT, Claude, Copilot, and so on. The reason for this position relates to the following conerns: 1. **Copyright and provenance**: The legal status and provenance…",
+     "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "copilot",
+     "snippet": "…d here to include the field of Natural Language Processing (NLP) which in turn includes Large Language Models (LLMs). Associated tools include ChatGPT, Claude, Copilot, and so on. The reason for this position relates to the following conerns: 1. **Copyright and provenance**: The legal status and provenance of AI-generated…",
+     "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "claude",
+     "snippet": "…I is used here to include the field of Natural Language Processing (NLP) which in turn includes Large Language Models (LLMs). Associated tools include ChatGPT, Claude, Copilot, and so on. The reason for this position relates to the following conerns: 1. **Copyright and provenance**: The legal status and provenance of AI-ge…",
      "url": "https://github.com/labwc/labwc/blob/HEAD/CONTRIBUTING.md"
     }
    ]
   },
   "lakekeeper/lakekeeper": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "lance-format/lance": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "landsandboat/server": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4810,12 +4805,12 @@
    ]
   },
   "lanrhyme/micyou": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "leanprover/cslib": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4827,7 +4822,7 @@
    ]
   },
   "learningcircuit/local-deep-research": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4863,7 +4858,7 @@
    ]
   },
   "ledgersmb/ledgersmb": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4875,7 +4870,7 @@
    ]
   },
   "lfortran/lfortran": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4899,7 +4894,7 @@
    ]
   },
   "liberatedpixelcup/universal-lpc-spritesheet-character-generator": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4923,7 +4918,7 @@
    ]
   },
   "libresign/libresign": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4947,12 +4942,12 @@
    ]
   },
   "licensee/licensee": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "lichess-org/lila": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -4976,7 +4971,7 @@
    ]
   },
   "lichess-org/mobile": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5000,7 +4995,7 @@
    ]
   },
   "lingdojo/kana-dojo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5018,32 +5013,32 @@
    ]
   },
   "linkerd/linkerd2": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "lizardbyte/sunshine": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "llvm/llvm-project": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "longhorn/longhorn": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "lostartefacts/trx": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ls1intum/artemis": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5061,12 +5056,12 @@
    ]
   },
   "lunarg/gfxreconstruct": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "lxc/incus-os": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5096,12 +5091,12 @@
    ]
   },
   "lycheeverse/lychee": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "lynx-family/lynx-website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5113,7 +5108,7 @@
    ]
   },
   "madq/roslynmcp": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5149,7 +5144,7 @@
    ]
   },
   "mampfes/hacs_waste_collection_schedule": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5191,7 +5186,7 @@
    ]
   },
   "manyfold3d/manyfold": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5239,7 +5234,7 @@
    ]
   },
   "marcoroth/herb": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5251,7 +5246,7 @@
    ]
   },
   "marimo-team/marimo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5281,12 +5276,12 @@
    ]
   },
   "marimo-team/marimo-lsp": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "marin-community/marin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5310,7 +5305,7 @@
    ]
   },
   "marketcalls/openalgo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5334,32 +5329,32 @@
    ]
   },
   "marketsquare/robotframework-browser": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "materialious/materialious": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mcgill-courses/mcgill.courses": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mdn/content": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mdn/translated-content": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "medic/cht-core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5371,17 +5366,17 @@
    ]
   },
   "medusajs/medusa": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "meltano/sdk": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mflowcode/mfc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5399,7 +5394,7 @@
    ]
   },
   "michaelchessall/ss14-persistence": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5417,32 +5412,32 @@
    ]
   },
   "micrometer-metrics/micrometer": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mikefarah/yq": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "misp/misp": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "misp/misp-galaxy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mitre/heimdall2": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mixxxdj/mixxx": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5460,17 +5455,36 @@
    ]
   },
   "moby/buildkit": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "moby/moby": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…member, you're telling part of the story with the commit message. Don't make your chapter weird. Contributors are responsible for their commits, including any AI-assisted work. Do not credit LLMs or AI agents with `Co-Authored-By` trailers; reserve those for human contributors. Credit agents in the pull request body or with an `…",
+     "url": "https://github.com/moby/moby/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "llms",
+     "snippet": "…he story with the commit message. Don't make your chapter weird. Contributors are responsible for their commits, including any AI-assisted work. Do not credit LLMs or AI agents with `Co-Authored-By` trailers; reserve those for human contributors. Credit agents in the pull request body or with an `Assisted-By: <agent name>…",
+     "url": "https://github.com/moby/moby/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "llms",
+     "snippet": "…ests When opening a pull request: - Follow `.github/PULL_REQUEST_TEMPLATE.md` and fill in the applicable sections. - Do not add `Co-Authored-By` trailers for LLMs or AI agents; reserve them for human contributors. - Add \"Created with: <AGENT NAME>\" note at the end of the PR body. ## Release note section If the change…",
+     "url": "https://github.com/moby/moby/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "modernuo/modernuo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5482,31 +5496,19 @@
    ]
   },
   "modsetter/surfsense": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
-     "path": "README.md",
-     "keyword": "llm",
-     "snippet": "…rthy to look. Official platform APIs are rate-limited, priced for enterprises, or missing entirely; scraping plumbing is brittle; and driving a browser with an LLM burns minutes and tokens per page. SurfSense gives agents the primitives instead: - **One typed surface for wherever the data lives.** Every connector is a RE…",
-     "url": "https://github.com/modsetter/surfsense/blob/HEAD/README.md"
-    },
-    {
-     "path": "README.md",
-     "keyword": "llms",
-     "snippet": "…searchable. <p align=\"center\"><img src=\"surfsense_web/public/homepage/hero_tutorial/quick_assist.gif\" alt=\"Quick Assist\" /></p> **No vendor lock-in** - 100+ LLMs via the OpenAI spec and LiteLLM, including GPT-5.5, Claude Sonnet 5, and Gemini 3.1 Pro. - 6,000+ embedding models and all major rerankers. - Full local and pr…",
-     "url": "https://github.com/modsetter/surfsense/blob/HEAD/README.md"
-    },
-    {
-     "path": "README.md",
+     "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…built SurfSense as the best general research agent for your own knowledge, and that chapter earned us a community we are genuinely proud of. Agentic tools like Claude, OpenCode, Hermes, and OpenClaw have now proven that agents are the future, and reasoning over a static index is becoming something every capable agent does ou…",
-     "url": "https://github.com/modsetter/surfsense/blob/HEAD/README.md"
+     "snippet": "# AGENTS.md Nearest `AGENTS.md` wins. Edit this file, not `CLAUDE.md` (`CLAUDE.md` is a symlink). ## Overview Desktop app plus scraper API. Four trees: | Tree | Role | |------|------| | `surfsense_backend` | FastAPI API |…",
+     "url": "https://github.com/modsetter/surfsense/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "moganlab/mogan": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5524,12 +5526,12 @@
    ]
   },
   "moldytaint/cinephage": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "monarch-initiative/dismech": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5577,7 +5579,7 @@
    ]
   },
   "mozilla-mobile/firefox-ios": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5589,12 +5591,12 @@
    ]
   },
   "mozilla/rhino": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "mudlet/mudlet": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5624,7 +5626,7 @@
    ]
   },
   "munich-quantum-toolkit/bench": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5648,7 +5650,7 @@
    ]
   },
   "munich-quantum-toolkit/debugger": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5672,7 +5674,7 @@
    ]
   },
   "munich-quantum-toolkit/predictor": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5696,7 +5698,7 @@
    ]
   },
   "munich-quantum-toolkit/qcec": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5720,7 +5722,7 @@
    ]
   },
   "munich-quantum-toolkit/yaqs": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5744,7 +5746,7 @@
    ]
   },
   "nanotaboada/dotnet.samples.aspnetcore.webapi": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5762,12 +5764,12 @@
    ]
   },
   "nasa-ammos/3dtilesrendererjs": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nasa/fprime": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5785,12 +5787,12 @@
    ]
   },
   "navidrome/navidrome": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "near/mpc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5802,7 +5804,7 @@
    ]
   },
   "newton-physics/newton": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5814,12 +5816,12 @@
    ]
   },
   "nextcommunity/nextcommunity.github.io": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nextest-rs/nextest": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5837,7 +5839,7 @@
    ]
   },
   "nickelsh1ts/streamarr": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5861,7 +5863,7 @@
    ]
   },
   "nicklockwood/swiftformat": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5873,17 +5875,17 @@
    ]
   },
   "nicolastakashi/prom-analytics-proxy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nightscout/cgm-remote-monitor": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nisshchayarathi/gitverse-nextjs": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5901,7 +5903,7 @@
    ]
   },
   "nixos/nix": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5931,12 +5933,12 @@
    ]
   },
   "nixos/nixos-search": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nodejs/node": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5960,12 +5962,12 @@
    ]
   },
   "nodejs/undici": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nodepa/seedlingo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -5989,27 +5991,27 @@
    ]
   },
   "nodesecure/cli": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nodesecure/js-x-ray": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nodesecure/scanner": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "notashelf/nvf": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "npmx-dev/npmx.dev": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6051,22 +6053,22 @@
    ]
   },
   "nushell/nushell": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nusmodifications/nusmods": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "nvaccess/nvda": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "o2sa/devimpact": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6084,13 +6086,13 @@
    ]
   },
   "ocaml/dune": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "# AGENTS.md This file provides guidance to AI agents (Claude Code, Codex, etc) when working with the Dune codebase. ## General Rules - Every commit must be pass the following check `$ dune build @check @fmt @runtest`.…",
+     "snippet": "# AGENTS.md This file provides guidance to AI agents (Claude Code, Codex, etc) when working with the Dune codebase. ## General Rules - Every commit must pass the following check `$ dune build @check @fmt @runtest`. F…",
      "url": "https://github.com/ocaml/dune/blob/HEAD/AGENTS.md"
     },
     {
@@ -6102,42 +6104,42 @@
    ]
   },
   "ocaml/ocaml.org": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ocaml/opam-repository": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ocelot-social-community/ocelot-social": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "omegaup/omegaup": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "oopsio/jen.js": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-cybernauts/open-range": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": "archived",
    "hits": []
   },
   "open-policy-agent/gatekeeper": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-collector": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6197,7 +6199,7 @@
    ]
   },
   "open-telemetry/opentelemetry-collector-contrib": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6227,13 +6229,13 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai tools",
-     "snippet": "…henever applicable, all code changes should have tests that actually validate the changes. ## Commit formatting We appreciate it if users disclose the use of AI tools when the significant part of a commit is taken from a tool without changes. When making a commit this should be disclosed through an Assisted-by: commit messag…",
+     "snippet": "…ain \"why\" a general bug fix or feature was added. Verbose subtext overloads the changelog. ## Commit formatting We appreciate it if users disclose the use of AI tools when the significant part of a commit is taken from a tool without changes. When making a commit this should be disclosed through an Assisted-by: commit messag…",
      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "use of ai",
-     "snippet": "…e: * Whenever applicable, all code changes should have tests that actually validate the changes. ## Commit formatting We appreciate it if users disclose the use of AI tools when the significant part of a commit is taken from a tool without changes. When making a commit this should be disclosed through an Assisted-by: commit…",
+     "snippet": "…to explain \"why\" a general bug fix or feature was added. Verbose subtext overloads the changelog. ## Commit formatting We appreciate it if users disclose the use of AI tools when the significant part of a commit is taken from a tool without changes. When making a commit this should be disclosed through an Assisted-by: commit…",
      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/blob/HEAD/AGENTS.md"
     },
     {
@@ -6251,12 +6253,12 @@
    ]
   },
   "open-telemetry/opentelemetry-cpp": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-dotnet": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6268,12 +6270,12 @@
    ]
   },
   "open-telemetry/opentelemetry-dotnet-contrib": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-ebpf-instrumentation": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6345,7 +6347,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ecosystem-explorer": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6393,7 +6395,7 @@
    ]
   },
   "open-telemetry/opentelemetry-go": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6405,22 +6407,22 @@
    ]
   },
   "open-telemetry/opentelemetry-go-build-tools": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-go-contrib": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-java": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-kotlin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6438,7 +6440,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ruby-contrib": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6474,12 +6476,12 @@
    ]
   },
   "open-telemetry/opentelemetry-specification": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry.io": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6497,7 +6499,7 @@
    ]
   },
   "open-telemetry/otel-arrow": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6515,7 +6517,7 @@
    ]
   },
   "open-telemetry/semantic-conventions": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6545,7 +6547,7 @@
    ]
   },
   "open-telemetry/weaver": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6557,17 +6559,17 @@
    ]
   },
   "openapi-ts/openapi-typescript": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "openapitools/openapi-generator": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "openchemistry/avogadrolibs": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6615,22 +6617,22 @@
    ]
   },
   "opencontainers/runc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-authoring": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-learner-record": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "openemr/openemr": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6696,12 +6698,12 @@
    ]
   },
   "openfoodfacts/open-prices": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "openfoodfacts/openfoodfacts-server": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6713,12 +6715,12 @@
    ]
   },
   "openfoodfoundation/openfoodnetwork": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "opengovsg/formsg": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6730,42 +6732,42 @@
    ]
   },
   "openmage/magento-lts": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/flow-framework": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/k-nn": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch-dashboards": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/query-insights": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "openthread/openthread": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "opentiny/tiny-vue": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6801,7 +6803,7 @@
    ]
   },
   "openvdb/fvdb-core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6825,7 +6827,7 @@
    ]
   },
   "operaton/operaton": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6867,7 +6869,7 @@
    ]
   },
   "orcasound/orcahello": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6891,7 +6893,7 @@
    ]
   },
   "organicmaps/organicmaps": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6909,7 +6911,7 @@
    ]
   },
   "orthogonalhq/nous-core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6927,7 +6929,7 @@
    ]
   },
   "osgeo/grass": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6957,7 +6959,7 @@
    ]
   },
   "osgeo/proj": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -6987,12 +6989,12 @@
    ]
   },
   "ossf/cve-bin-tool": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "owasp-noir/noir": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7022,7 +7024,7 @@
    ]
   },
   "owasp/cornucopia": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7070,12 +7072,12 @@
    ]
   },
   "owasp/cve-lite-cli": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "owasp/wrongsecrets": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7087,22 +7089,22 @@
    ]
   },
   "owasp/wstg": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pact-foundation/pact-js": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "paketo-buildpacks/samples": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "parabolinc/parabol": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7120,17 +7122,17 @@
    ]
   },
   "paradisess13/paradise": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "parca-dev/parca": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pass-agent/loomkin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7172,12 +7174,12 @@
    ]
   },
   "pbh-btn/peerbanhelper": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "perryts/perry": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7195,7 +7197,7 @@
    ]
   },
   "pertrai1/eslint-plugin-llm-core": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7237,7 +7239,7 @@
    ]
   },
   "pgmpy/pgmpy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7321,22 +7323,22 @@
    ]
   },
   "pgrwl/pgrwl": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "phasehq/console": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "phpmyadmin/phpmyadmin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "physicshub/physicshub.github.io": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7360,7 +7362,7 @@
    ]
   },
   "pipecat-ai/pipecat": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7414,12 +7416,12 @@
    ]
   },
   "platform9/vjailbreak": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ponylang/ponyc": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7449,17 +7451,17 @@
    ]
   },
   "portabase/portabase": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "prefix-dev/rattler-build": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "prestodb/presto": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7471,7 +7473,7 @@
    ]
   },
   "prettier/prettier": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7489,7 +7491,7 @@
    ]
   },
   "prismlauncher/prismlauncher": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7543,47 +7545,47 @@
    ]
   },
   "priyanshu-byte-coder/devtrack": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "processing/p5.js-website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "project-blurple/canvas-web": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "project-chip/connectedhomeip": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "project-robius/robrix": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "projectnessie/nessie": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "projectx-vjti/xplore-workshop": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "prometheus/prometheus": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "promptfoo/promptfoo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7607,17 +7609,17 @@
    ]
   },
   "prowlengine/prowl": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "psi-probe/psi-probe": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pulumi/pulumi-awsx": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7635,27 +7637,27 @@
    ]
   },
   "pwndbg/pwndbg": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pylabrobot/pylabrobot": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pylint-dev/astroid": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pyo3/maturin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pypa/cibuildwheel": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7667,12 +7669,12 @@
    ]
   },
   "python-poetry/poetry": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "python/cpython": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7690,12 +7692,12 @@
    ]
   },
   "python/pythondotorg": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pytorch/ao": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7707,7 +7709,7 @@
    ]
   },
   "pytorch/executorch": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7719,13 +7721,13 @@
     {
      "path": "README.md",
      "keyword": "llm",
-     "snippet": "…art](#quick-start) - [Installation](#installation) - [Export and Deploy in 3 Steps](#export-and-deploy-in-3-steps) - [Run on Device](#run-on-device) - [LLM Example: Llama](#llm-example-llama) - [Platform & Hardware Support](#platform--hardware-support) - [Production Deployments](#production-deployments) - [Example…",
+     "snippet": "…ith a source checkout or nightly package. ## Built for current edge workloads | Workload | Representative capabilities | Start here | |---|---|---| | **Local LLM and agent building blocks** | Quantized text models, long context, tool calling, speculative decoding, multi-session execution, and an experimental OpenAI-comp…",
      "url": "https://github.com/pytorch/executorch/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "llms",
-     "snippet": "…ce AI across **Instagram, WhatsApp, Quest 3, Ray-Ban Meta Smart Glasses**, and [more](https://docs.pytorch.org/executorch/main/success-stories.html). Deploy **LLMs, vision, speech, and multimodal models** with the same PyTorch APIs you already know—accelerating research to production with seamless model export, optimizati…",
+     "snippet": "…ch.org/executorch/main/backends-overview.html) - [Export and lower a model](https://docs.pytorch.org/executorch/main/using-executorch-export.html) - [Work with LLMs](https://docs.pytorch.org/executorch/main/llm/working-with-llms.html) - [Profile and debug](https://docs.pytorch.org/executorch/main/tools-section.html) - [Run…",
      "url": "https://github.com/pytorch/executorch/blob/HEAD/README.md"
     },
     {
@@ -7737,17 +7739,17 @@
    ]
   },
   "pytorch/ignite": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pytorch/test-infra": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "pyvista/pyvista": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7771,7 +7773,7 @@
    ]
   },
   "qiskit/qiskit": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7825,7 +7827,7 @@
    ]
   },
   "qmk/qmk_firmware": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7837,17 +7839,17 @@
    ]
   },
   "qualcomm/eld": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "r-dbi/dbi": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "radius-project/radius": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7889,7 +7891,7 @@
    ]
   },
   "radixark/miles": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7901,7 +7903,7 @@
    ]
   },
   "raftersecurity/rafter-cli": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7967,27 +7969,27 @@
    ]
   },
   "rakudo/rakudo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "rapidsai/cudf": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "rawilk/filament-quill": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "readmeio/oas": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "release-plz/release-plz": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -7999,7 +8001,7 @@
    ]
   },
   "retroachievements/raweb": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8029,12 +8031,12 @@
    ]
   },
   "reviewdog/reviewdog": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "rickcedwhat/playwright-smart-table": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8046,7 +8048,7 @@
    ]
   },
   "rimsort/rimsort": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8058,7 +8060,7 @@
    ]
   },
   "rizinorg/rizin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8088,12 +8090,12 @@
    ]
   },
   "rmc-14/rmc-14": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "rocm/iris": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8105,7 +8107,7 @@
    ]
   },
   "rocm/therock": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8147,7 +8149,7 @@
    ]
   },
   "rogersuperbuilderalpha/cursor-boston": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8177,12 +8179,12 @@
    ]
   },
   "romcal/romcal": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "rt-thread/rt-thread": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8200,12 +8202,12 @@
    ]
   },
   "ruby/rubygems": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "rubyforgood/awbw": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8235,12 +8237,12 @@
    ]
   },
   "rubyforgood/casa": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ruffle-rs/ruffle": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8270,7 +8272,7 @@
    ]
   },
   "runatlantis/atlantis": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8306,7 +8308,7 @@
    ]
   },
   "rustpython/rustpython": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8360,7 +8362,7 @@
    ]
   },
   "s3dfx-cyber/gsoc-org-finder-": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8396,7 +8398,7 @@
    ]
   },
   "sableclient/sable": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8456,37 +8458,37 @@
    ]
   },
   "sagemath/sage": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "saleor/saleor": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "samillion/modernz": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "samsung/one": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "samvera/hyku": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "sandeepvashishtha/eventra": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "sap/e-mobility-charging-stations-simulator": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8498,12 +8500,12 @@
    ]
   },
   "saptarshisarkar12/drifty": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "sbt/sbt": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8533,12 +8535,12 @@
    ]
   },
   "sbt/website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "scala/scala3": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8562,17 +8564,17 @@
    ]
   },
   "scalacenter/scala3-migrate": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "scalacenter/scalafix": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "scikit-learn/scikit-learn": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8596,7 +8598,7 @@
    ]
   },
   "scipy/scipy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8614,17 +8616,17 @@
    ]
   },
   "scoopinstaller/extras": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "scoopinstaller/main": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "scottcjn/rustchain": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8660,22 +8662,22 @@
    ]
   },
   "searxng/searxng": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "secondlife/viewer": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "secretlint/secretlint": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "seleniumhq/selenium": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8717,7 +8719,7 @@
    ]
   },
   "sendou-ink/sendou.ink": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8729,7 +8731,7 @@
    ]
   },
   "seraph-quest/seraph": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8741,22 +8743,22 @@
    ]
   },
   "servo/servo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-android": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-desktop": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "sgl-project/sglang": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8774,17 +8776,17 @@
    ]
   },
   "shazzar00ni/paperlyte-v2": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": "repo-missing",
    "hits": []
   },
   "shiptest-ss13/shiptest": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "shm11c3/hardwarevisualizer": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8802,7 +8804,7 @@
    ]
   },
   "sidorares/node-mysql2": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8820,12 +8822,12 @@
    ]
   },
   "siemens/element": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "silvertakana/worldwideview": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8843,7 +8845,7 @@
    ]
   },
   "simple-icons/simple-icons": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8885,22 +8887,22 @@
    ]
   },
   "skevetter/devpod": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "skiptools/skip-ui": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "skyblockermod/skyblocker": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "snapchat/gigl": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8912,7 +8914,7 @@
    ]
   },
   "solvcon/modmesh": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8924,27 +8926,27 @@
    ]
   },
   "sorbet/sorbet": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "sovereign-labs/sovereign-sdk": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "spack/spack": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "spack/spack-packages": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "spiceai/spiceai": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8968,7 +8970,7 @@
    ]
   },
   "spiffe/spire": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -8992,12 +8994,12 @@
    ]
   },
   "splode/pomotroid": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "stagewise-io/stagewise": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9009,7 +9011,7 @@
    ]
   },
   "starcitizentools/mediawiki-skins-citizen": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9045,7 +9047,7 @@
    ]
   },
   "stdlib-js/stdlib": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9063,17 +9065,17 @@
    ]
   },
   "stegschreck/rats": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "stoatchat/for-web": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "stodevx/aao-react-native": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9091,17 +9093,17 @@
    ]
   },
   "stranger6667/jsonschema": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "streetwriters/notesnook": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "stumpapp/stump": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9131,7 +9133,7 @@
    ]
   },
   "sugarlabs/musicblocks": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9191,7 +9193,7 @@
    ]
   },
   "supercollider/supercollider": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9215,47 +9217,47 @@
    ]
   },
   "suwayomi/suwayomi-server": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "sveltejs/kit": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-build": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-foundation": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-java": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-org-website": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-package-manager": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "swisspost/design-system": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9267,7 +9269,7 @@
    ]
   },
   "switchbacktech/compass": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9285,22 +9287,22 @@
    ]
   },
   "tapestry-mud/tapestry": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "tarkovtracker-org/tarkovtracker": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "teammates/teammates": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "teamschools/teamster": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9312,12 +9314,12 @@
    ]
   },
   "tektronix/tm_devices": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "telemt/telemt": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9359,12 +9361,12 @@
    ]
   },
   "terrapkg/packages": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "thm-health/pilos": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9376,12 +9378,12 @@
    ]
   },
   "thomaspoignant/go-feature-flag": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "tinacms/tinacms": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9399,18 +9401,18 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…` - **TypeScript:** Base config at `base.tsconfig.json`. Examples extend it. Strict mode enabled. - **Package manager:** pnpm only. Never use npm or yarn. - **`CLAUDE.md` files** are git symlinks to the sibling `AGENTS.md`. On Windows without Developer Mode, if `git status` shows `TT` typechanges on them, run `git config --l…",
+     "snippet": "…`) shells out to real `npm`, because npm's nested-duplicate hoisting is exactly the regression it measures — pnpm's content-addressed store would hide it. - **`CLAUDE.md` files** are git symlinks to the sibling `AGENTS.md`. On Windows without Developer Mode, if `git status` shows `TT` typechanges on them, run `git config --l…",
      "url": "https://github.com/tinacms/tinacms/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "tqec/tqec": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "tracel-ai/burn": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9458,27 +9460,27 @@
    ]
   },
   "transmission/transmission": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "trezor/trezor-firmware": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino-gateway": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "triplea-game/triplea": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9490,7 +9492,7 @@
    ]
   },
   "tryghost/ghost": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9508,12 +9510,12 @@
    ]
   },
   "ttlapp/time-to-leave": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "tuist/tuist": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9531,7 +9533,7 @@
    ]
   },
   "tum-dev/navigatum": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9549,12 +9551,12 @@
    ]
   },
   "twbs/bootstrap": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "ublue-os/bluefin": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9572,12 +9574,12 @@
    ]
   },
   "ublue-os/main": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "unikeen/sjmcl": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9595,7 +9597,7 @@
    ]
   },
   "usemoss/moss": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9625,7 +9627,7 @@
    ]
   },
   "uutils/coreutils": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9655,12 +9657,12 @@
    ]
   },
   "uxlfoundation/onednn": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "valhalla/valhalla": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9678,13 +9680,13 @@
     {
      "path": "README.md",
      "keyword": "ai usage",
-     "snippet": "…ezone_db](https://img.shields.io/badge/tzdb%20version-2025c-blue.svg)](https://github.com/valhalla/valhalla/actions/workflows/publish_tz_db.yml) ## Generative AI usage While we absolutely accept AI usage for Valhalla (and its related projects), we require the following guidelines to be followed: 1. The human developer under…",
+     "snippet": "…one_db](https://img.shields.io/badge/tzdb%20version-2025c-blue.svg)](https://github.com/valhalla/valhalla/actions/workflows/publish_tz_db.yml) | ## Generative AI usage While we absolutely accept AI usage for Valhalla (and its related projects), we require the following guidelines to be followed: 1. The human developer under…",
      "url": "https://github.com/valhalla/valhalla/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "generative ai",
-     "snippet": "…a) | [![timezone_db](https://img.shields.io/badge/tzdb%20version-2025c-blue.svg)](https://github.com/valhalla/valhalla/actions/workflows/publish_tz_db.yml) ## Generative AI usage While we absolutely accept AI usage for Valhalla (and its related projects), we require the following guidelines to be followed: 1. The human developer…",
+     "snippet": "…| [![timezone_db](https://img.shields.io/badge/tzdb%20version-2025c-blue.svg)](https://github.com/valhalla/valhalla/actions/workflows/publish_tz_db.yml) | ## Generative AI usage While we absolutely accept AI usage for Valhalla (and its related projects), we require the following guidelines to be followed: 1. The human developer…",
      "url": "https://github.com/valhalla/valhalla/blob/HEAD/README.md"
     },
     {
@@ -9696,12 +9698,12 @@
    ]
   },
   "valkey-io/valkey-glide": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "vectordotdev/vector": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9725,7 +9727,7 @@
    ]
   },
   "versity/versitygw": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9737,12 +9739,12 @@
    ]
   },
   "vets-who-code/vets-who-code-app": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "videojs/v10": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9754,7 +9756,7 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "…o/installation) (≥ 12.3.4) - [Volta](https://docs.volta.sh/guide) or [NVM](https://github.com/nvm-sh/nvm) (we recommend Volta for automatic Node management) - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (optional, for AI-assisted development) > [!TIP] > PNPM will automatically use the correct Node version…",
+     "snippet": "…it](https://git-scm.com/downloads) - [PNPM](https://pnpm.io/installation) (≥ 12.3.4) - [mise](https://mise.jdx.dev), or [NVM](https://github.com/nvm-sh/nvm) - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (optional, for AI-assisted development) > [!TIP] > PNPM will automatically use the correct Node version…",
      "url": "https://github.com/videojs/v10/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -9766,7 +9768,7 @@
    ]
   },
   "vineethwilson15/codemind": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9796,12 +9798,12 @@
    ]
   },
   "visjs/vis-network": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "vitest-dev/vitest": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9861,7 +9863,7 @@
    ]
   },
   "vivliostyle/vivliostyle.js": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9921,12 +9923,12 @@
    ]
   },
   "vivoblueos/kernel": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "vllm-project/aibrix": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9950,7 +9952,7 @@
    ]
   },
   "vllm-project/semantic-router": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -9980,7 +9982,7 @@
    ]
   },
   "vllm-project/vllm": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10010,7 +10012,7 @@
    ]
   },
   "vllm-project/vllm-ascend": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10022,7 +10024,7 @@
    ]
   },
   "vllm-project/vllm-omni": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10052,7 +10054,7 @@
    ]
   },
   "vpinball/vpinball": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10118,17 +10120,17 @@
    ]
   },
   "vrc-get/vrc-get": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "vuetorrent/vuetorrent": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "web-platform-tests/wpt": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10152,7 +10154,7 @@
    ]
   },
   "web-scrobbler/web-scrobbler": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10164,22 +10166,22 @@
    ]
   },
   "webassembly/binaryen": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "weblateorg/weblate": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "weboftrust/keripy": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "wesnoth/wesnoth": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10191,12 +10193,12 @@
    ]
   },
   "wielebenwir/commonsbooking": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "wikieducationfoundation/wikiedudashboard": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10214,7 +10216,7 @@
    ]
   },
   "woocommerce/woocommerce-ios": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10232,7 +10234,7 @@
    ]
   },
   "wordpress-mobile/wordpress-ios": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10244,7 +10246,7 @@
    ]
   },
   "wordpress/gutenberg": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10262,7 +10264,7 @@
    ]
   },
   "wordpress/plugin-check": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10310,17 +10312,17 @@
    ]
   },
   "wordpress/wordpress-playground": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "worldconvotingsystems/nomnom": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "wp-graphql/wp-graphql": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10338,12 +10340,12 @@
    ]
   },
   "wpilibsuite/allwpilib": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "wso2/product-is": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10355,7 +10357,7 @@
    ]
   },
   "wynntils/wynntils": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10373,17 +10375,17 @@
    ]
   },
   "xilinx/mlir-aie": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "yairm210/unciv": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "yamadashy/repomix": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10443,7 +10445,7 @@
    ]
   },
   "yoast/wordpress-seo": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10479,7 +10481,7 @@
    ]
   },
   "yoheimuta/protolint": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10497,17 +10499,17 @@
    ]
   },
   "yt-project/yt": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "zacsweers/metro": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "zarr-developers/zarr-python": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10519,12 +10521,12 @@
    ]
   },
   "zen-browser/desktop": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "zephyrproject-rtos/zephyr": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10548,17 +10550,17 @@
    ]
   },
   "zio/zio-http": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "zip-rs/zip2": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": []
   },
   "zizmorcore/zizmor": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10576,7 +10578,7 @@
    ]
   },
   "zulip/zulip": {
-   "scannedAt": "2026-09-14T10:48:21.160Z",
+   "scannedAt": "2026-09-21T10:51:34.120Z",
    "error": null,
    "hits": [
     {
@@ -10624,7 +10626,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai-generated",
-     "snippet": "…ip's coding philosophy is to **focus relentlessly on making the codebase easy to understand and difficult to make dangerous mistakes**. This applies equally to AI-generated contributions. Every change should make the codebase more maintainable and easier to read. ### No detail is too small Zulip holds itself to a high bar for po…",
+     "snippet": "…t is crucial to follow our AI use policy and guidelines (the \"AI use policy and guidelines\" section in `CONTRIBUTING.md`). In particular: > **Do not submit an AI-generated PR you haven't personally > understood and tested**, as this wastes maintainers' time. PRs that > appear to violate this guideline will be closed without revie…",
      "url": "https://github.com/zulip/zulip/blob/HEAD/AGENTS.md"
     },
     {
@@ -10636,7 +10638,7 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…ontributing to the Zulip codebase. These guidelines are designed to produce contributions that meet the same high standards we expect from human contributors. Claude Code automatically uses `.claude/rules/` and `.claude/skills/`. If you are a different agent, read the files in these folders to see the rest of the agent inst…",
+     "snippet": "…messages** in the [Zulip development > community](https://zulip.com/development-community/) -- we want to > read your own genuine expression of your thoughts. Claude Code automatically uses `.claude/rules/` and `.claude/skills/`. If you are a different agent, read the files in these folders to see the rest of the agent inst…",
      "url": "https://github.com/zulip/zulip/blob/HEAD/AGENTS.md"
     }
    ]
