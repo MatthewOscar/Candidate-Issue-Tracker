@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T12:44:40.070Z",
+ "generatedAt": "2026-09-22T11:35:01.424Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "closed",
@@ -575,7 +575,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-01-22T08:26:08Z"
+   "updatedAt": "2026-09-21T23:17:25Z"
   },
   "https://github.com/home-assistant/android/issues/6300": {
    "state": "open",
@@ -605,7 +605,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2025-11-10T11:58:29Z"
+   "updatedAt": "2026-09-21T23:18:23Z"
   },
   "https://github.com/home-assistant/android/issues/5624": {
    "state": "open",
@@ -1196,10 +1196,10 @@
    "updatedAt": "2025-10-19T07:29:56Z"
   },
   "https://github.com/open-telemetry/opentelemetry-cpp/issues/2072": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2026-09-19T16:28:57Z"
+   "updatedAt": "2026-09-21T21:03:33Z"
   },
   "https://github.com/open-telemetry/opentelemetry-cpp/issues/2053": {
    "state": "open",
@@ -1802,10 +1802,10 @@
    "updatedAt": "2026-08-29T17:04:42Z"
   },
   "https://github.com/apache/airflow/issues/65475": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-13T15:39:40Z"
+   "updatedAt": "2026-09-21T14:29:32Z"
   },
   "https://github.com/apache/airflow/issues/64921": {
    "state": "closed",
@@ -2393,13 +2393,13 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-30T02:38:05Z"
+   "updatedAt": "2026-09-22T08:47:07Z"
   },
   "https://github.com/mdn/translated-content/issues/34956": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-30T02:38:10Z"
+   "updatedAt": "2026-09-22T08:47:01Z"
   },
   "https://github.com/mdn/translated-content/issues/28897": {
    "state": "closed",
@@ -3665,7 +3665,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-06T17:29:23Z"
+   "updatedAt": "2026-09-21T21:12:27Z"
   },
   "https://github.com/nodejs/undici/issues/1666": {
    "state": "open",
@@ -3773,13 +3773,13 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-04T15:37:36Z"
+   "updatedAt": "2026-09-21T22:35:11Z"
   },
   "https://github.com/vllm-project/vllm/issues/23957": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-30T01:42:09Z"
+   "updatedAt": "2026-09-22T08:02:40Z"
   },
   "https://github.com/vllm-project/vllm/issues/21014": {
    "state": "closed",
@@ -3797,7 +3797,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-31T08:45:24Z"
+   "updatedAt": "2026-09-22T09:54:09Z"
   },
   "https://github.com/cortexproject/cortex/issues/7064": {
    "state": "open",
@@ -4301,7 +4301,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-21T04:15:14Z"
+   "updatedAt": "2026-09-22T02:16:46Z"
   },
   "https://github.com/organicmaps/organicmaps/issues/12976": {
    "state": "closed",
@@ -4546,8 +4546,8 @@
   "https://github.com/intel/llvm/issues/15081": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2024-08-14T17:51:59Z"
+   "assigned": true,
+   "updatedAt": "2026-09-21T13:30:21Z"
   },
   "https://github.com/intel/llvm/issues/11335": {
    "state": "closed",
@@ -6323,7 +6323,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-17T17:51:03Z"
+   "updatedAt": "2026-09-22T04:21:40Z"
   },
   "https://github.com/llvm/llvm-project/issues/184672": {
    "state": "open",
@@ -9635,7 +9635,7 @@
    "state": "closed",
    "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-09-18T21:08:58Z"
+   "updatedAt": "2026-09-21T14:31:46Z"
   },
   "https://github.com/pytorch/executorch/issues/11562": {
    "state": "closed",
@@ -12017,7 +12017,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-04T12:32:52Z"
+   "updatedAt": "2026-09-21T18:22:07Z"
   },
   "https://github.com/swiftlang/swift-package-manager/issues/9685": {
    "state": "open",
@@ -14228,10 +14228,10 @@
    "updatedAt": "2021-11-26T07:54:00Z"
   },
   "https://github.com/chipsalliance/chisel/issues/1170": {
-   "state": "open",
-   "stateReason": "reopened",
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2022-06-28T05:05:58Z"
+   "updatedAt": "2026-09-21T18:43:38Z"
   },
   "https://github.com/istio-ecosystem/sail-operator/issues/265": {
    "state": "open",
@@ -16492,8 +16492,8 @@
   "https://github.com/vllm-project/semantic-router/issues/2467": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2026-09-13T09:39:28Z"
+   "assigned": true,
+   "updatedAt": "2026-09-22T02:53:31Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2465": {
    "state": "closed",
@@ -17810,10 +17810,10 @@
    "updatedAt": "2024-04-29T01:46:45Z"
   },
   "https://github.com/open-telemetry/opentelemetry-cpp/issues/2539": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2024-12-22T02:04:31Z"
+   "updatedAt": "2026-09-21T16:15:08Z"
   },
   "https://github.com/open-telemetry/opentelemetry-cpp/issues/2489": {
    "state": "open",
@@ -20957,7 +20957,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2025-03-03T17:18:23Z"
+   "updatedAt": "2026-09-22T00:14:51Z"
   },
   "https://github.com/mdn/content/issues/38034": {
    "state": "open",
@@ -23411,7 +23411,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-06-30T03:30:40Z"
+   "updatedAt": "2026-09-22T02:14:42Z"
   },
   "https://github.com/marin-community/marin/issues/6236": {
    "state": "open",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-09-21T06:17:26Z"
+   "updatedAt": "2026-09-22T06:13:04Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -24239,7 +24239,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-03-30T02:14:10Z"
+   "updatedAt": "2026-09-22T06:20:17Z"
   },
   "https://github.com/cline/cline/issues/8087": {
    "state": "open",
@@ -26132,10 +26132,10 @@
    "updatedAt": "2026-08-25T13:08:38Z"
   },
   "https://github.com/mixxxdj/mixxx/issues/16536": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-06-01T11:51:02Z"
+   "updatedAt": "2026-09-21T22:03:53Z"
   },
   "https://github.com/mixxxdj/mixxx/issues/16174": {
    "state": "open",
@@ -26435,7 +26435,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-20T23:37:00Z"
+   "updatedAt": "2026-09-21T15:02:10Z"
   },
   "https://github.com/opencontainers/runc/issues/2519": {
    "state": "open",
@@ -32174,10 +32174,10 @@
    "updatedAt": "2026-07-28T19:51:26Z"
   },
   "https://github.com/lance-format/lance/issues/2775": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": true,
-   "updatedAt": "2026-09-18T16:29:25Z"
+   "updatedAt": "2026-09-21T18:43:42Z"
   },
   "https://github.com/lance-format/lance/issues/2682": {
    "state": "open",
@@ -37391,7 +37391,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-21T07:52:30Z"
+   "updatedAt": "2026-09-22T08:01:28Z"
   },
   "https://github.com/kubestellar/console/issues/4072": {
    "state": "open",
@@ -37439,7 +37439,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-23T16:24:56Z"
+   "updatedAt": "2026-09-21T18:14:38Z"
   },
   "https://github.com/backstage/community-plugins/issues/7646": {
    "state": "closed",
@@ -37460,10 +37460,10 @@
    "updatedAt": "2026-08-25T13:30:18Z"
   },
   "https://github.com/backstage/community-plugins/issues/7533": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-09-08T12:21:16Z"
+   "updatedAt": "2026-09-22T08:13:57Z"
   },
   "https://github.com/backstage/community-plugins/issues/7435": {
    "state": "open",
