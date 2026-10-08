@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T13:18:13.192Z",
+ "generatedAt": "2026-10-08T13:25:02.006Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "closed",
@@ -1553,7 +1553,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-08T08:18:49Z"
+   "updatedAt": "2026-10-08T08:22:09Z"
   },
   "https://github.com/wp-graphql/wp-graphql/issues/3180": {
    "state": "closed",
@@ -3650,10 +3650,10 @@
    "updatedAt": "2026-04-24T10:35:18Z"
   },
   "https://github.com/nodejs/undici/issues/2675": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-09-28T06:35:52Z"
+   "updatedAt": "2026-10-08T08:58:54Z"
   },
   "https://github.com/nodejs/undici/issues/2164": {
    "state": "open",
@@ -5465,7 +5465,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-03-29T04:56:50Z"
+   "updatedAt": "2026-10-07T22:57:49Z"
   },
   "https://github.com/wpilibsuite/allwpilib/issues/7123": {
    "state": "open",
@@ -5843,7 +5843,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-02T15:38:38Z"
+   "updatedAt": "2026-10-07T20:05:49Z"
   },
   "https://github.com/open-telemetry/opentelemetry.io/issues/7545": {
    "state": "open",
@@ -6419,7 +6419,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-05T12:25:54Z"
+   "updatedAt": "2026-10-07T16:50:30Z"
   },
   "https://github.com/llvm/llvm-project/issues/148938": {
    "state": "open",
@@ -6737,7 +6737,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-30T01:13:06Z"
+   "updatedAt": "2026-10-08T03:03:47Z"
   },
   "https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/46116": {
    "state": "open",
@@ -7412,10 +7412,10 @@
    "updatedAt": null
   },
   "https://github.com/jellyfin/jellyfin/issues/16258": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-06-20T05:21:30Z"
+   "updatedAt": "2026-10-07T16:48:01Z"
   },
   "https://github.com/jellyfin/jellyfin/issues/8971": {
    "state": "open",
@@ -8543,7 +8543,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2025-10-21T00:49:00Z"
+   "updatedAt": "2026-10-07T23:45:11Z"
   },
   "https://github.com/monarch-initiative/dismech/issues/4800": {
    "state": "closed",
@@ -9503,7 +9503,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-24T06:17:56Z"
+   "updatedAt": "2026-10-08T04:37:43Z"
   },
   "https://github.com/feast-dev/feast/issues/5360": {
    "state": "closed",
@@ -9773,7 +9773,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-09T00:30:31Z"
+   "updatedAt": "2026-10-07T19:36:06Z"
   },
   "https://github.com/boa-dev/boa/issues/4240": {
    "state": "open",
@@ -10634,10 +10634,10 @@
    "updatedAt": "2026-06-20T19:42:52Z"
   },
   "https://github.com/vectordotdev/vector/issues/10980": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-02-21T20:36:31Z"
+   "updatedAt": "2026-10-07T20:24:29Z"
   },
   "https://github.com/vectordotdev/vector/issues/9766": {
    "state": "open",
@@ -11501,7 +11501,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-31T14:40:46Z"
+   "updatedAt": "2026-10-08T02:02:00Z"
   },
   "https://github.com/ardupilot/ardupilot/issues/33399": {
    "state": "missing",
@@ -14698,8 +14698,8 @@
   "https://github.com/apache/fluss/issues/144": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2026-10-03T15:45:10Z"
+   "assigned": true,
+   "updatedAt": "2026-10-08T03:04:27Z"
   },
   "https://github.com/project-blurple/canvas-web/issues/658": {
    "state": "open",
@@ -14741,7 +14741,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-06T15:22:29Z"
+   "updatedAt": "2026-10-07T15:25:28Z"
   },
   "https://github.com/eclipse-sw360/sw360/issues/309": {
    "state": "open",
@@ -15101,7 +15101,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-05T04:48:07Z"
+   "updatedAt": "2026-10-08T08:25:19Z"
   },
   "https://github.com/teamschools/teamster/issues/4293": {
    "state": "missing",
@@ -15509,7 +15509,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-10T21:51:36Z"
+   "updatedAt": "2026-10-08T06:56:12Z"
   },
   "https://github.com/zulip/zulip/issues/37425": {
    "state": "open",
@@ -15592,8 +15592,8 @@
   "https://github.com/zulip/zulip/issues/35976": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2026-10-05T21:07:42Z"
+   "assigned": true,
+   "updatedAt": "2026-10-07T16:27:34Z"
   },
   "https://github.com/zulip/zulip/issues/35426": {
    "state": "closed",
@@ -16262,10 +16262,10 @@
    "updatedAt": "2026-08-24T02:41:09Z"
   },
   "https://github.com/kubernetes/website/issues/56048": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": true,
-   "updatedAt": "2026-09-23T08:27:32Z"
+   "updatedAt": "2026-10-07T16:04:00Z"
   },
   "https://github.com/kubernetes/website/issues/56047": {
    "state": "open",
@@ -16367,7 +16367,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-07T16:13:36Z"
+   "updatedAt": "2026-10-08T08:56:06Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2551": {
    "state": "closed",
@@ -16493,7 +16493,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-10-07T11:08:26Z"
+   "updatedAt": "2026-10-07T14:42:24Z"
   },
   "https://github.com/vllm-project/semantic-router/issues/2465": {
    "state": "closed",
@@ -19145,7 +19145,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-12T01:44:13Z"
+   "updatedAt": "2026-10-07T17:11:28Z"
   },
   "https://github.com/prettier/prettier/issues/10518": {
    "state": "open",
@@ -22013,7 +22013,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-06T14:37:21Z"
+   "updatedAt": "2026-10-08T06:01:23Z"
   },
   "https://github.com/vllm-project/vllm/issues/37141": {
    "state": "closed",
@@ -23237,7 +23237,7 @@
    "state": "closed",
    "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-09-07T18:10:31Z"
+   "updatedAt": "2026-10-07T19:04:50Z"
   },
   "https://github.com/home-assistant/home-assistant.io/issues/13207": {
    "state": "closed",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-10-07T06:18:24Z"
+   "updatedAt": "2026-10-08T06:20:41Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -26435,7 +26435,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-05T09:11:11Z"
+   "updatedAt": "2026-10-08T10:09:29Z"
   },
   "https://github.com/opencontainers/runc/issues/2519": {
    "state": "open",
@@ -27572,10 +27572,10 @@
    "updatedAt": "2026-03-20T01:05:15Z"
   },
   "https://github.com/python/pythondotorg/issues/2611": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2025-01-12T22:52:07Z"
+   "updatedAt": "2026-10-08T04:29:46Z"
   },
   "https://github.com/python/pythondotorg/issues/2453": {
    "state": "open",
@@ -27584,16 +27584,16 @@
    "updatedAt": "2026-06-08T06:37:31Z"
   },
   "https://github.com/python/pythondotorg/issues/2411": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2024-09-13T17:28:04Z"
+   "updatedAt": "2026-10-08T01:40:19Z"
   },
   "https://github.com/python/pythondotorg/issues/2349": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-03-18T12:16:51Z"
+   "updatedAt": "2026-10-08T04:51:19Z"
   },
   "https://github.com/webassembly/binaryen/issues/6506": {
    "state": "missing",
@@ -29468,10 +29468,10 @@
    "updatedAt": null
   },
   "https://github.com/eclipse-platform/eclipse.platform.swt/issues/2749": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2025-11-10T15:55:24Z"
+   "updatedAt": "2026-10-07T14:48:38Z"
   },
   "https://github.com/eclipse-platform/eclipse.platform.swt/issues/2037": {
    "state": "open",
@@ -34076,10 +34076,10 @@
    "updatedAt": "2026-09-17T18:50:28Z"
   },
   "https://github.com/carlos-emr/carlos/issues/2865": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": true,
-   "updatedAt": "2026-10-04T17:20:49Z"
+   "updatedAt": "2026-10-08T00:43:26Z"
   },
   "https://github.com/carlos-emr/carlos/issues/2864": {
    "state": "closed",
@@ -34895,7 +34895,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-09-01T11:16:20Z"
+   "updatedAt": "2026-10-07T17:56:41Z"
   },
   "https://github.com/ggml-org/llama.cpp/issues/17634": {
    "state": "closed",
@@ -37361,7 +37361,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-02T15:53:44Z"
+   "updatedAt": "2026-10-08T09:30:49Z"
   },
   "https://github.com/kubestellar/console/issues/20769": {
    "state": "closed",
@@ -37391,7 +37391,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-07T07:26:32Z"
+   "updatedAt": "2026-10-08T08:03:55Z"
   },
   "https://github.com/kubestellar/console/issues/4072": {
    "state": "closed",
