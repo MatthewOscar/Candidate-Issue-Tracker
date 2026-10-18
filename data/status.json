@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T10:39:11.688Z",
+ "generatedAt": "2026-10-18T11:01:01.183Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "closed",
@@ -1019,7 +1019,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-12T19:15:05Z"
+   "updatedAt": "2026-10-18T08:57:16Z"
   },
   "https://github.com/rizinorg/rizin/issues/5248": {
    "state": "open",
@@ -1823,7 +1823,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-10-01T07:16:33Z"
+   "updatedAt": "2026-10-17T13:56:52Z"
   },
   "https://github.com/apache/airflow/issues/63503": {
    "state": "closed",
@@ -2554,8 +2554,8 @@
   "https://github.com/dosbox-staging/dosbox-staging/issues/2183": {
    "state": "open",
    "stateReason": null,
-   "assigned": false,
-   "updatedAt": "2026-10-13T02:45:14Z"
+   "assigned": true,
+   "updatedAt": "2026-10-17T13:50:44Z"
   },
   "https://github.com/dosbox-staging/dosbox-staging/issues/2051": {
    "state": "closed",
@@ -6347,7 +6347,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-31T04:30:07Z"
+   "updatedAt": "2026-10-17T20:53:36Z"
   },
   "https://github.com/llvm/llvm-project/issues/169374": {
    "state": "closed",
@@ -15881,7 +15881,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-09T22:54:24Z"
+   "updatedAt": "2026-10-17T18:42:56Z"
   },
   "https://github.com/open-telemetry/opentelemetry-dotnet-contrib/issues/1452": {
    "state": "open",
@@ -19049,7 +19049,7 @@
    "state": "closed",
    "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-19T10:48:42Z"
+   "updatedAt": "2026-10-18T00:06:46Z"
   },
   "https://github.com/prettier/prettier/issues/19588": {
    "state": "closed",
@@ -21671,7 +21671,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2024-12-13T22:00:31Z"
+   "updatedAt": "2026-10-18T00:04:20Z"
   },
   "https://github.com/uxlfoundation/onednn/issues/2081": {
    "state": "open",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-10-17T06:16:55Z"
+   "updatedAt": "2026-10-18T06:16:00Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -24119,7 +24119,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-10T00:23:01Z"
+   "updatedAt": "2026-10-18T08:02:58Z"
   },
   "https://github.com/checkstyle/checkstyle/issues/7911": {
    "state": "open",
@@ -24143,7 +24143,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-23T12:54:02Z"
+   "updatedAt": "2026-10-18T07:59:27Z"
   },
   "https://github.com/checkstyle/checkstyle/issues/2939": {
    "state": "open",
@@ -25541,7 +25541,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-01T11:13:54Z"
+   "updatedAt": "2026-10-18T01:27:06Z"
   },
   "https://github.com/nodejs/node/issues/28632": {
    "state": "closed",
@@ -30197,7 +30197,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2022-10-30T10:56:25Z"
+   "updatedAt": "2026-10-17T18:37:30Z"
   },
   "https://github.com/runatlantis/atlantis/issues/2606": {
    "state": "open",
@@ -30671,7 +30671,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2020-01-13T10:27:34Z"
+   "updatedAt": "2026-10-18T00:02:11Z"
   },
   "https://github.com/sbt/website/issues/518": {
    "state": "open",
@@ -31583,7 +31583,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-05T12:05:25Z"
+   "updatedAt": "2026-10-17T19:08:40Z"
   },
   "https://github.com/leanprover/cslib/issues/711": {
    "state": "open",
@@ -33182,10 +33182,10 @@
    "updatedAt": null
   },
   "https://github.com/beetbox/beets/issues/5780": {
-   "state": "open",
+   "state": "missing",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-06-27T04:45:07Z"
+   "updatedAt": null
   },
   "https://github.com/beetbox/beets/issues/2806": {
    "state": "closed",
