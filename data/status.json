@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T11:34:40.221Z",
+ "generatedAt": "2026-10-24T10:54:54.805Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "closed",
@@ -1007,7 +1007,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-24T06:53:20Z"
+   "updatedAt": "2026-10-23T15:30:59Z"
   },
   "https://github.com/rizinorg/rizin/issues/5826": {
    "state": "open",
@@ -1067,7 +1067,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-03-25T09:19:44Z"
+   "updatedAt": "2026-10-24T09:39:08Z"
   },
   "https://github.com/rizinorg/rizin/issues/4699": {
    "state": "open",
@@ -4007,7 +4007,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2019-11-03T20:07:37Z"
+   "updatedAt": "2026-10-23T14:19:33Z"
   },
   "https://github.com/badges/shields/issues/1693": {
    "state": "open",
@@ -6155,13 +6155,13 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-18T09:14:33Z"
+   "updatedAt": "2026-10-23T12:37:49Z"
   },
   "https://github.com/godotengine/godot/issues/43440": {
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-10-15T02:11:51Z"
+   "updatedAt": "2026-10-23T12:37:50Z"
   },
   "https://github.com/azerothcore/azerothcore-wotlk/issues/26372": {
    "state": "closed",
@@ -6389,7 +6389,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-14T00:23:37Z"
+   "updatedAt": "2026-10-24T07:37:57Z"
   },
   "https://github.com/llvm/llvm-project/issues/160682": {
    "state": "closed",
@@ -6563,7 +6563,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2023-02-28T10:11:14Z"
+   "updatedAt": "2026-10-23T18:22:03Z"
   },
   "https://github.com/gfx-rs/wgpu/issues/1441": {
    "state": "open",
@@ -7229,7 +7229,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-02-05T15:04:55Z"
+   "updatedAt": "2026-10-23T12:38:22Z"
   },
   "https://github.com/s3dfx-cyber/gsoc-org-finder-/issues/835": {
    "state": "missing",
@@ -9989,7 +9989,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-06-09T15:26:18Z"
+   "updatedAt": "2026-10-23T14:30:14Z"
   },
   "https://github.com/jaegertracing/jaeger/issues/6813": {
    "state": "open",
@@ -10301,7 +10301,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2022-04-25T11:14:16Z"
+   "updatedAt": "2026-10-23T12:26:30Z"
   },
   "https://github.com/swiftlang/swift/issues/56009": {
    "state": "open",
@@ -12860,16 +12860,16 @@
    "updatedAt": "2026-10-14T05:27:32Z"
   },
   "https://github.com/apache/pulsar/issues/23836": {
-   "state": "open",
+   "state": "missing",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-10T15:43:46Z"
+   "updatedAt": null
   },
   "https://github.com/apache/pulsar/issues/20973": {
-   "state": "open",
+   "state": "missing",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-04-17T16:29:40Z"
+   "updatedAt": null
   },
   "https://github.com/apache/pulsar/issues/19429": {
    "state": "open",
@@ -15485,7 +15485,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-10-13T20:57:53Z"
+   "updatedAt": "2026-10-23T21:00:07Z"
   },
   "https://github.com/zulip/zulip/issues/38264": {
    "state": "closed",
@@ -17759,7 +17759,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-11T15:39:44Z"
+   "updatedAt": "2026-10-24T09:53:38Z"
   },
   "https://github.com/rizinorg/rizin/issues/6317": {
    "state": "open",
@@ -18719,7 +18719,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-11T00:18:07Z"
+   "updatedAt": "2026-10-24T05:47:40Z"
   },
   "https://github.com/mampfes/hacs_waste_collection_schedule/issues/6171": {
    "state": "closed",
@@ -18740,16 +18740,16 @@
    "updatedAt": "2026-10-10T22:51:53Z"
   },
   "https://github.com/mampfes/hacs_waste_collection_schedule/issues/4893": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-10-10T15:51:17Z"
+   "updatedAt": "2026-10-24T06:49:25Z"
   },
   "https://github.com/mampfes/hacs_waste_collection_schedule/issues/3092": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-10-11T00:12:58Z"
+   "updatedAt": "2026-10-23T23:06:50Z"
   },
   "https://github.com/mampfes/hacs_waste_collection_schedule/issues/419": {
    "state": "open",
@@ -21905,13 +21905,13 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-23T09:30:58Z"
+   "updatedAt": "2026-10-24T06:08:19Z"
   },
   "https://github.com/vllm-project/vllm-ascend/issues/10679": {
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-23T09:02:52Z"
+   "updatedAt": "2026-10-24T06:08:39Z"
   },
   "https://github.com/rubyforgood/awbw/issues/742": {
    "state": "open",
@@ -21989,7 +21989,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-04T06:28:28Z"
+   "updatedAt": "2026-10-24T02:15:23Z"
   },
   "https://github.com/vllm-project/vllm/issues/39428": {
    "state": "open",
@@ -22013,7 +22013,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-22T10:02:27Z"
+   "updatedAt": "2026-10-23T17:29:07Z"
   },
   "https://github.com/vllm-project/vllm/issues/37141": {
    "state": "closed",
@@ -23066,10 +23066,10 @@
    "updatedAt": "2026-10-02T21:02:45Z"
   },
   "https://github.com/python/cpython/issues/148268": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-06-20T23:17:05Z"
+   "updatedAt": "2026-10-23T13:10:31Z"
   },
   "https://github.com/python/cpython/issues/141412": {
    "state": "closed",
@@ -23180,10 +23180,10 @@
    "updatedAt": "2024-10-08T05:50:09Z"
   },
   "https://github.com/python/cpython/issues/80334": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-02T05:30:16Z"
+   "updatedAt": "2026-10-23T13:20:04Z"
   },
   "https://github.com/python/cpython/issues/77321": {
    "state": "closed",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-10-23T06:15:18Z"
+   "updatedAt": "2026-10-24T06:18:30Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -25865,7 +25865,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-04-24T13:55:05Z"
+   "updatedAt": "2026-10-23T11:47:34Z"
   },
   "https://github.com/operaton/operaton/issues/447": {
    "state": "open",
@@ -25961,7 +25961,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-09-01T11:55:33Z"
+   "updatedAt": "2026-10-23T19:32:29Z"
   },
   "https://github.com/scikit-learn/scikit-learn/issues/31542": {
    "state": "open",
@@ -26393,7 +26393,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-06-12T10:06:56Z"
+   "updatedAt": "2026-10-23T14:24:56Z"
   },
   "https://github.com/kubevirt/project-infra/issues/3879": {
    "state": "open",
@@ -29306,10 +29306,10 @@
    "updatedAt": "2024-04-23T06:59:36Z"
   },
   "https://github.com/apache/pulsar/issues/21196": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "not_planned",
    "assigned": false,
-   "updatedAt": "2023-10-21T01:46:41Z"
+   "updatedAt": "2026-10-24T07:59:05Z"
   },
   "https://github.com/apache/pulsar/issues/21194": {
    "state": "open",
@@ -29318,16 +29318,16 @@
    "updatedAt": "2024-01-07T20:33:42Z"
   },
   "https://github.com/apache/pulsar/issues/21046": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-09-23T01:46:11Z"
+   "updatedAt": "2026-10-24T02:06:13Z"
   },
   "https://github.com/apache/pulsar/issues/19489": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-03-14T01:51:45Z"
+   "updatedAt": "2026-10-24T02:06:51Z"
   },
   "https://github.com/apache/pulsar/issues/18253": {
    "state": "closed",
@@ -29336,40 +29336,40 @@
    "updatedAt": "2026-09-11T20:38:17Z"
   },
   "https://github.com/apache/pulsar/issues/16929": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2022-09-11T02:17:14Z"
+   "updatedAt": "2026-10-24T02:07:43Z"
   },
   "https://github.com/apache/pulsar/issues/16874": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2022-09-11T02:17:22Z"
+   "updatedAt": "2026-10-24T02:07:47Z"
   },
   "https://github.com/apache/pulsar/issues/16864": {
-   "state": "open",
-   "stateReason": "reopened",
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-08-17T08:14:24Z"
+   "updatedAt": "2026-10-24T02:07:51Z"
   },
   "https://github.com/apache/pulsar/issues/16786": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-11-07T12:53:18Z"
+   "updatedAt": "2026-10-24T02:07:55Z"
   },
   "https://github.com/apache/pulsar/issues/16749": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-03-17T02:00:58Z"
+   "updatedAt": "2026-10-24T02:07:59Z"
   },
   "https://github.com/apache/pulsar/issues/16578": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-01-14T01:59:18Z"
+   "updatedAt": "2026-10-24T02:08:07Z"
   },
   "https://github.com/apache/pulsar/issues/14698": {
    "state": "open",
@@ -29426,10 +29426,10 @@
    "updatedAt": "2023-09-27T20:41:44Z"
   },
   "https://github.com/apache/pulsar/issues/14434": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2022-11-21T14:40:13Z"
+   "updatedAt": "2026-10-23T23:56:15Z"
   },
   "https://github.com/apache/pulsar/issues/14386": {
    "state": "open",
@@ -36029,7 +36029,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-21T03:21:26Z"
+   "updatedAt": "2026-10-24T10:24:29Z"
   },
   "https://github.com/open-telemetry/opentelemetry-collector/issues/5675": {
    "state": "closed",
@@ -37431,9 +37431,9 @@
   },
   "https://github.com/backstage/community-plugins/issues/7851": {
    "state": "closed",
-   "stateReason": "not_planned",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-08-02T00:39:47Z"
+   "updatedAt": "2026-10-23T19:12:22Z"
   },
   "https://github.com/backstage/community-plugins/issues/7816": {
    "state": "closed",
