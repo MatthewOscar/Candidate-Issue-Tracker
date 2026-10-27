@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T12:55:47.140Z",
+ "generatedAt": "2026-10-27T12:06:37.991Z",
  "statuses": {
   "https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924": {
    "state": "closed",
@@ -2240,10 +2240,10 @@
    "updatedAt": "2025-02-05T08:44:57Z"
   },
   "https://github.com/ls1intum/artemis/issues/12453": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": true,
-   "updatedAt": "2026-09-03T13:53:52Z"
+   "updatedAt": "2026-10-26T15:37:48Z"
   },
   "https://github.com/ls1intum/artemis/issues/12451": {
    "state": "closed",
@@ -6707,7 +6707,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-25T05:22:47Z"
+   "updatedAt": "2026-10-26T19:08:48Z"
   },
   "https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/48419": {
    "state": "closed",
@@ -7937,7 +7937,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-07-28T09:26:17Z"
+   "updatedAt": "2026-10-27T01:31:27Z"
   },
   "https://github.com/nodejs/node/issues/45761": {
    "state": "closed",
@@ -8336,10 +8336,10 @@
    "updatedAt": "2026-10-23T02:44:04Z"
   },
   "https://github.com/zen-browser/desktop/issues/14492": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-25T00:35:03Z"
+   "updatedAt": "2026-10-26T22:13:30Z"
   },
   "https://github.com/zen-browser/desktop/issues/13020": {
    "state": "open",
@@ -9620,10 +9620,10 @@
    "updatedAt": "2026-09-01T02:49:16Z"
   },
   "https://github.com/pytorch/executorch/issues/12812": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-10-23T10:50:34Z"
+   "updatedAt": "2026-10-26T15:42:28Z"
   },
   "https://github.com/pytorch/executorch/issues/11921": {
    "state": "closed",
@@ -9773,7 +9773,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-07T19:36:06Z"
+   "updatedAt": "2026-10-26T15:07:36Z"
   },
   "https://github.com/boa-dev/boa/issues/4240": {
    "state": "open",
@@ -9887,7 +9887,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-20T08:53:47Z"
+   "updatedAt": "2026-10-27T07:35:16Z"
   },
   "https://github.com/asyncapi/website/issues/5572": {
    "state": "closed",
@@ -11360,10 +11360,10 @@
    "updatedAt": "2026-07-29T23:15:53Z"
   },
   "https://github.com/emfcamp/website/issues/1779": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2024-09-08T17:12:35Z"
+   "updatedAt": "2026-10-27T09:25:58Z"
   },
   "https://github.com/emfcamp/website/issues/1766": {
    "state": "open",
@@ -13247,7 +13247,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-26T04:03:56Z"
+   "updatedAt": "2026-10-26T16:46:13Z"
   },
   "https://github.com/openedx/frontend-app-authoring/issues/319": {
    "state": "open",
@@ -14855,7 +14855,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2024-09-17T10:32:20Z"
+   "updatedAt": "2026-10-26T17:03:22Z"
   },
   "https://github.com/eclipse-windowbuilder/windowbuilder/issues/927": {
    "state": "open",
@@ -15935,7 +15935,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": true,
-   "updatedAt": "2026-09-30T12:07:42Z"
+   "updatedAt": "2026-10-26T17:51:56Z"
   },
   "https://github.com/kubernetes-sigs/cluster-api/issues/11900": {
    "state": "open",
@@ -20513,7 +20513,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-08-05T00:12:37Z"
+   "updatedAt": "2026-10-27T03:04:08Z"
   },
   "https://github.com/processing/p5.js-website/issues/1335": {
    "state": "open",
@@ -20600,10 +20600,10 @@
    "updatedAt": "2023-10-19T17:55:05Z"
   },
   "https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/2979": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2023-08-03T16:56:55Z"
+   "updatedAt": "2026-10-26T18:39:21Z"
   },
   "https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/2951": {
    "state": "open",
@@ -20864,10 +20864,10 @@
    "updatedAt": "2026-10-05T23:06:45Z"
   },
   "https://github.com/mdn/content/issues/42516": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-10-18T16:12:24Z"
+   "updatedAt": "2026-10-27T08:56:53Z"
   },
   "https://github.com/mdn/content/issues/42499": {
    "state": "closed",
@@ -22013,7 +22013,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-25T03:07:02Z"
+   "updatedAt": "2026-10-26T17:42:02Z"
   },
   "https://github.com/vllm-project/vllm/issues/37141": {
    "state": "closed",
@@ -23855,7 +23855,7 @@
    "state": "open",
    "stateReason": "reopened",
    "assigned": false,
-   "updatedAt": "2026-10-26T06:18:42Z"
+   "updatedAt": "2026-10-27T06:15:29Z"
   },
   "https://github.com/open-telemetry/otel-arrow/issues/2673": {
    "state": "closed",
@@ -26435,7 +26435,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-22T20:29:50Z"
+   "updatedAt": "2026-10-27T00:19:40Z"
   },
   "https://github.com/opencontainers/runc/issues/2519": {
    "state": "closed",
@@ -28814,10 +28814,10 @@
    "updatedAt": null
   },
   "https://github.com/zarr-developers/zarr-python/issues/4159": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-20T13:28:19Z"
+   "updatedAt": "2026-10-26T18:01:00Z"
   },
   "https://github.com/zarr-developers/zarr-python/issues/2956": {
    "state": "open",
@@ -29450,16 +29450,16 @@
    "updatedAt": "2026-10-24T16:42:15Z"
   },
   "https://github.com/imas/mastodon/issues/230": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2019-06-19T06:03:09Z"
+   "updatedAt": "2026-10-27T00:08:52Z"
   },
   "https://github.com/imas/mastodon/issues/187": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2018-08-28T03:35:04Z"
+   "updatedAt": "2026-10-27T00:11:06Z"
   },
   "https://github.com/weboftrust/keripy/issues/96": {
    "state": "missing",
@@ -29783,7 +29783,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-11T18:56:46Z"
+   "updatedAt": "2026-10-26T15:47:58Z"
   },
   "https://github.com/thm-health/pilos/issues/1522": {
    "state": "missing",
@@ -31814,10 +31814,10 @@
    "updatedAt": "2026-09-16T20:32:30Z"
   },
   "https://github.com/ls1intum/artemis/issues/12187": {
-   "state": "open",
-   "stateReason": null,
+   "state": "closed",
+   "stateReason": "completed",
    "assigned": false,
-   "updatedAt": "2026-07-13T22:51:52Z"
+   "updatedAt": "2026-10-26T15:37:48Z"
   },
   "https://github.com/manyfold3d/manyfold/issues/6440": {
    "state": "open",
@@ -33821,7 +33821,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-28T03:30:17Z"
+   "updatedAt": "2026-10-27T06:31:59Z"
   },
   "https://github.com/wso2/product-is/issues/27883": {
    "state": "open",
@@ -35579,7 +35579,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-15T05:19:39Z"
+   "updatedAt": "2026-10-27T06:12:49Z"
   },
   "https://github.com/wso2/product-is/issues/27877": {
    "state": "open",
@@ -37511,7 +37511,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-05-10T06:43:08Z"
+   "updatedAt": "2026-10-27T08:13:03Z"
   },
   "https://github.com/apache/gravitino/issues/9836": {
    "state": "open",
@@ -38369,7 +38369,7 @@
    "state": "open",
    "stateReason": null,
    "assigned": false,
-   "updatedAt": "2026-10-20T04:51:22Z"
+   "updatedAt": "2026-10-27T00:18:28Z"
   },
   "https://github.com/carlos-emr/carlos/issues/2252": {
    "state": "open",
