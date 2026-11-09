@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-10-26T11:17:55.965Z",
+ "generatedAt": "2026-11-09T14:05:24.503Z",
  "repos": {
   "321-vegan/321vegan-api": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "5e-bits/5e-database": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": "archived",
    "hits": []
   },
   "academysoftwarefoundation/materialx": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "academysoftwarefoundation/openimageio": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -53,7 +53,7 @@
    ]
   },
   "accius/openhamclock": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -65,12 +65,12 @@
    ]
   },
   "actix/actix-web": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "actualbudget/actual": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -112,7 +112,7 @@
    ]
   },
   "agenta-ai/agenta": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "ai-dynamo/dynamo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -160,31 +160,24 @@
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…for deployment. The stack is deliberately layered and large. A **Rust core** (a Cargo workspace of twenty-plus crates, mostly under `lib/`) holds the runtime, LLM, routing, and KV-block-manager engines. A **Python extensibility layer** (the `ai-dynamo` wheel, bound to the Rust core through PyO3/maturin) holds the fronten…",
+     "snippet": "…DME.md) explains what Dynamo is and what it supports. ## Repository Map | Path | Contents | |------|----------| | `lib/` | Rust crates, including `runtime`, `llm`, `kv-router`, `kvbm-*`, `mocker`, `sidecar/*` (engine gRPC sidecars), and `bindings/python` (the PyO3 extension, built with maturin, outside the Cargo workspa…",
      "url": "https://github.com/ai-dynamo/dynamo/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…t Instruction Files - `AGENTS.md` is the canonical and only source of agent instructions at every repository scope. - Every `AGENTS.md` must have a sibling `CLAUDE.md` containing exactly `@AGENTS.md` so Claude loads the same instructions. - Do not put independent instructions in `CLAUDE.md`, and do not make `AGENTS.md…",
+     "snippet": "…aming), and [Grove](https://github.com/ai-dynamo/grove) (Kubernetes gang scheduling). ## Skills Skills live canonically in `.agents/skills/`; `skills/` and `.claude/skills/` are symlinks to it — edit only the canonical copy. **Build, debug, and measure:** - `debug-session` — investigate a bug with a persistent worklog: c…",
      "url": "https://github.com/ai-dynamo/dynamo/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "altinn/altinn-studio": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": [
-    {
-     "path": "AGENTS.md",
-     "keyword": "claude",
-     "snippet": "…so after renaming a directory you must also `git grep` the old segment. - **Docs:** `AGENTS.md` is the only agent-guidance file in a directory; never add a `CLAUDE.md`. These invariants (no `CLAUDE.md`, resolvable links, root-map coverage of tracked directories) are enforced by `yarn docs:validate` in CI. - **Language…",
-     "url": "https://github.com/altinn/altinn-studio/blob/HEAD/AGENTS.md"
-    }
-   ]
+   "hits": []
   },
   "altinn/dialogporten": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -202,12 +195,12 @@
    ]
   },
   "alveusgg/alveusgg": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "amrex-codes/amrex": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -243,22 +236,22 @@
    ]
   },
   "angular/components": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "animethemes/animethemes-server": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "anomalyco/opentui": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/airflow": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -288,12 +281,12 @@
    ]
   },
   "apache/amoro": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/arrow": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -317,7 +310,7 @@
    ]
   },
   "apache/arrow-adbc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -325,11 +318,17 @@
      "keyword": "ai usage",
      "snippet": "…roject. ```shell $ pushd rust # Build and run tests $ cargo test ``` ## Opening a Pull Request Please see general guidance about commits, pull requests, and AI usage for the Apache Arrow project: https://arrow.apache.org/docs/dev/developers/overview.html Before opening a pull request: 1. Please check if there is a corresp…",
      "url": "https://github.com/apache/arrow-adbc/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai usage",
+     "snippet": "…tc. do not count as proper tests. Do not talk about running or checking those, but make sure that they pass before committing or submitting. You must disclose AI usage via the `Generated-by` or `Assisted-by` Git trailer (because the description will be used as the commit message). The motivation/problem should be documented…",
+     "url": "https://github.com/apache/arrow-adbc/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "apache/arrow-java": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -341,7 +340,7 @@
    ]
   },
   "apache/auron": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -353,12 +352,12 @@
    ]
   },
   "apache/beam": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/burr": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -376,22 +375,22 @@
    ]
   },
   "apache/cloudstack": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-ballista": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/datafusion-comet": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -403,32 +402,39 @@
    ]
   },
   "apache/dolphinscheduler": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/doris": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai tools",
+     "snippet": "…ne. Generated: the parts it wrote (code, tests, this description), or None. Human review: what you reviewed of the generated parts, or \"Not applicable\" without AI tools. You may add \"- Prompts:\" to summarize how you directed the agent. --> - Tool: - Generated: - Human review:",
+     "url": "https://github.com/apache/doris/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    }
+   ]
   },
   "apache/doris-website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/druid": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/dubbo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/fluss": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -458,12 +464,12 @@
    ]
   },
   "apache/fluss-rust": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/fory": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -487,7 +493,7 @@
    ]
   },
   "apache/gluten": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -505,7 +511,7 @@
    ]
   },
   "apache/gravitino": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -529,7 +535,7 @@
    ]
   },
   "apache/hamilton": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -541,12 +547,12 @@
    ]
   },
   "apache/hudi": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/iceberg": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -576,7 +582,7 @@
    ]
   },
   "apache/infrastructure-actions": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -600,7 +606,7 @@
    ]
   },
   "apache/lucene": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -618,7 +624,7 @@
    ]
   },
   "apache/opendal": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -672,22 +678,22 @@
    ]
   },
   "apache/paimon": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/pekko": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/pekko-connectors": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/pinot": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -717,7 +723,7 @@
    ]
   },
   "apache/polaris": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -753,7 +759,7 @@
    ]
   },
   "apache/pulsar": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -801,12 +807,12 @@
    ]
   },
   "apache/sedona": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "apache/shardingsphere": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -824,7 +830,7 @@
    ]
   },
   "apache/superset": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -860,7 +866,7 @@
    ]
   },
   "apache/trafficserver": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -872,7 +878,7 @@
    ]
   },
   "apicurio/apicurio-registry": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -884,12 +890,12 @@
    ]
   },
   "apolloconfig/apollo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "ardupilot/ardupilot": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -937,7 +943,7 @@
    ]
   },
   "argoproj/argo-cd": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -949,7 +955,7 @@
    ]
   },
   "argoproj/argo-workflows": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -979,12 +985,12 @@
    ]
   },
   "asfhyp3/hyp3": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "astral-sh/uv": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1002,22 +1008,22 @@
    ]
   },
   "asyncapi/cli": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "asyncapi/website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "autofixture/autofixture": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "avelino/awesome-go": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1065,7 +1071,7 @@
    ]
   },
   "azerothcore/azerothcore-wotlk": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1077,7 +1083,7 @@
    ]
   },
   "backstage/backstage": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1117,6 +1123,12 @@
      "url": "https://github.com/backstage/backstage/blob/HEAD/CONTRIBUTING.md"
     },
     {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…/contribute/project-structure.md` for a detailed description of the repository structure. ## Skills Agent skills live in `/.agents/skills` (also linked as `/.claude/skills`), each in a `<name>/SKILL.md` file. Only the skills listed in `/.agents/skills/index.json` are published to adopters. See `/docs/ai/skills.md` before a…",
+     "url": "https://github.com/backstage/backstage/blob/HEAD/AGENTS.md"
+    },
+    {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
      "snippet": "…`backstage-goalie[bot]` (automated Backstage service account) These PRs are managed through their own automated workflows and do not require code review from Copilot. ### Review Guidelines When reviewing human-authored pull requests: - Check that a changeset is included for any changes to published (non-private) packages…",
@@ -1125,7 +1137,7 @@
    ]
   },
   "backstage/community-plugins": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1137,18 +1149,18 @@
    ]
   },
   "badges/shields": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "basedhardware/omi": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": "README.md",
      "keyword": "llms",
-     "snippet": "…│ │ ┌─────────┐ ┌──────────┐ ┌─────────┐ ┌──────────┐ │ │ │ Soniox │ │ Firestore│ │ Redis │ │ LLMs │ │ │ │ (STT) │ │ (DB) │ │ (Cache) │ │ (AI) │ │ │ └─────────┘ └──────────┘ └─────────┘ └──────────┘ │ └───────────────────────────────…",
+     "snippet": "…└─────────┘ └──────────┘ └─────────┘ └──────────┘ │ │ ┌─────────┐ ┌──────────┐ ┌─────────┐ ┌──────────┐ │ │ │ STT │ │ Firestore│ │ Redis │ │ LLMs │ │ │ │ │ │ (DB) │ │ (Cache) │ │ (AI) │ │ │ └─────────┘ └──────────┘ └─────────┘ └──────────┘ │ └───────────────────────────────…",
      "url": "https://github.com/basedhardware/omi/blob/HEAD/README.md"
     },
     {
@@ -1160,27 +1172,27 @@
    ]
   },
   "bazel-contrib/rules_foreign_cc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "bazelbuild/bazel-central-registry": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "bcgov/cas-registration": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "beetbox/beets": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "beeware/briefcase": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1210,7 +1222,7 @@
    ]
   },
   "beeware/toga": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1240,7 +1252,7 @@
    ]
   },
   "besu-eth/besu": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1252,7 +1264,7 @@
    ]
   },
   "betterlaspinas/betterlaspinas": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1264,7 +1276,7 @@
    ]
   },
   "beyond-all-reason/beyond-all-reason": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1294,27 +1306,27 @@
    ]
   },
   "bioconda/bioconda-recipes": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "bit-bots/bitbots_main": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "bloomberg/blazingmq": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "boa-dev/boa": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "boinc/boinc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1326,7 +1338,7 @@
    ]
   },
   "bradygaster/squad": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1362,7 +1374,7 @@
    ]
   },
   "brikev/twd": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1410,12 +1422,12 @@
    ]
   },
   "bytecodealliance/jco": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "bytecodealliance/wasmtime": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1427,12 +1439,12 @@
    ]
   },
   "bytecodealliance/wrpc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "canner/wrenai": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1462,7 +1474,7 @@
    ]
   },
   "carlos-emr/carlos": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1492,7 +1504,7 @@
    ]
   },
   "cartography-cncf/cartography": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1528,7 +1540,7 @@
    ]
   },
   "cataclysmbn/cataclysm-bn": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1540,7 +1552,7 @@
    ]
   },
   "catalyst-cooperative/pudl": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1552,7 +1564,7 @@
    ]
   },
   "celestiaorg/celestia-core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1564,17 +1576,17 @@
    ]
   },
   "cert-manager/cert-manager": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "chapel-lang/chapel": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "chaterm/chaterm": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1586,12 +1598,12 @@
    ]
   },
   "checkstyle/checkstyle": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "cherryhq/cherry-studio": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1621,12 +1633,12 @@
    ]
   },
   "chipsalliance/caliptra-sw": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "chipsalliance/chisel": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1638,17 +1650,30 @@
    ]
   },
   "cilium/cilium": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai policy",
+     "snippet": "…nielmiessler.com/blog/ai-influence-level-ail) score. AIL is 'viral', meaning if any part of the patch is AIL:4, _all_ of it is AIL:4. ## Key Documentation * [AI Policy](https://github.com/cilium/community/blob/main/AI-POLICY.md): The Cilium project AI Policy applies at all times and, where conflicts arise, supersedes this doc…",
+     "url": "https://github.com/cilium/cilium/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "llm",
+     "snippet": "# Cilium AGENTS.md This file provides guidance to LLM tools and AI coding agents when working with this repository. ## General Principles * The key words \"MUST\", \"MUST NOT\", \"REQUIRED\", \"SHALL\", \"SHALL NOT\", \"SHO…",
+     "url": "https://github.com/cilium/cilium/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "civiform/civiform": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "cleverraven/cataclysm-dda": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1678,7 +1703,7 @@
    ]
   },
   "cline/cline": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1714,12 +1739,12 @@
    ]
   },
   "cocotb/cocotb": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "code-yeongyu/oh-my-openagent": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1773,7 +1798,7 @@
    ]
   },
   "codeforpdx/tenantfirstaid": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1797,7 +1822,7 @@
    ]
   },
   "comfy-org/comfyui_frontend": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1815,17 +1840,17 @@
    ]
   },
   "common-voice/common-voice": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "complianceascode/content": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "conda/conda": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1873,12 +1898,12 @@
    ]
   },
   "confidential-containers/guest-components": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "containers/kubernetes-mcp-server": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1914,7 +1939,7 @@
    ]
   },
   "containers/podman-desktop-extension-ai-lab": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1932,12 +1957,12 @@
    ]
   },
   "cookiecutter/cookiecutter-django": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "copier-org/copier": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1955,12 +1980,12 @@
    ]
   },
   "coredns/coredns": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "cortexproject/cortex": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -1990,7 +2015,7 @@
    ]
   },
   "cozystack/cozystack": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2014,12 +2039,12 @@
    ]
   },
   "cpinitiative/usaco-guide": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "crate/crate": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2043,17 +2068,17 @@
    ]
   },
   "crypto-org-chain/chain-main": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "cube-js/cube": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "cuthbertlab/music21": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2101,12 +2126,12 @@
    ]
   },
   "daggerhashimoto/openclaw-nerve": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "dapr/dapr": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2130,22 +2155,29 @@
    ]
   },
   "dapr/dotnet-sdk": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "dapr/js-sdk": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "README.md",
+     "keyword": "llm",
+     "snippet": "…*: schedule jobs that the Dapr runtime triggers. [Docs](https://docs.dapr.io/developing-applications/building-blocks/jobs/) - **Conversation**: send prompts to LLM providers through a common API. [Docs](https://docs.dapr.io/developing-applications/building-blocks/conversation/) - **Binary store (Alpha, Dapr 1.19+)**: uplo…",
+     "url": "https://github.com/dapr/js-sdk/blob/HEAD/README.md"
+    }
+   ]
   },
   "defold/defold": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "democratizedspace/dspace": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2156,6 +2188,12 @@
     },
     {
      "path": "AGENTS.md",
+     "keyword": "llm",
+     "snippet": "…urrent release checklist (for v3.1.0, [docs/qa/v3.1.md](docs/qa/v3.1.md)) during authorized project work. Do not leave a verifiable item open solely because an LLM performed the verification. Deliver small, evidence-backed milestone PRs rather than waiting for the entire release. - Read each item's exact acceptance crite…",
+     "url": "https://github.com/democratizedspace/dspace/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
      "keyword": "llms",
      "snippet": "# DSPACE Agents Guide > Instructions for automation, Codex agents and other LLMs interacting with this repository. ## Commit identity (required) Follow the canonical [agent commit identity contract](CONTRIBUTING.md#agent-commit-identity-c…",
      "url": "https://github.com/democratizedspace/dspace/blob/HEAD/AGENTS.md"
@@ -2163,24 +2201,24 @@
    ]
   },
   "desktop/desktop": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
-     "snippet": "# GitHub Desktop - Copilot Instructions This repository contains GitHub Desktop, an open-source Electron-based GitHub application written in TypeScript and React. ## Technology Stack…",
+     "snippet": "# GitHub Desktop - Copilot Instructions This repository contains GitHub Desktop, an open-source Electron-based GitHub application written in TypeScript and React. ## Agent workflow Al…",
      "url": "https://github.com/desktop/desktop/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "dexidp/dex": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "diegosouzapw/omniroute": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2192,7 +2230,7 @@
     {
      "path": "README.md",
      "keyword": "ai tool",
-     "snippet": "…h=\"820\"/> <br/> <br/> # 🚀 OmniRoute — The Free AI Gateway <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 375 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback…",
+     "snippet": "…*Created by [Diego Souza](https://github.com/diegosouzapw)** <img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 382 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
@@ -2204,19 +2242,19 @@
     {
      "path": "README.md",
      "keyword": "copilot",
-     "snippet": "…hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 375 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 375 AI p…",
+     "snippet": "…hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 382 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 382 AI p…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 375 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
+     "snippet": "…<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 382 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~8…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/README.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…g](#testing) below (run the most focused test for changed code first). --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 375 LLM providers, auto-fallback. - API Routes — `src/app/api/v1/` (Next.js App Router entry points) - Handlers — `open-sse/handlers/` (request processing: chat, embe…",
+     "snippet": "…g](#testing) below (run the most focused test for changed code first). --- ## Project at a Glance **OmniRoute** — unified AI proxy/router. One endpoint, 382 LLM providers, auto-fallback. - API Routes — `src/app/api/v1/` (Next.js App Router entry points) - Handlers — `open-sse/handlers/` (request processing: chat, embe…",
      "url": "https://github.com/diegosouzapw/omniroute/blob/HEAD/AGENTS.md"
     },
     {
@@ -2234,7 +2272,7 @@
    ]
   },
   "digi-uw/openelis-global-2": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2282,7 +2320,7 @@
    ]
   },
   "dimagi/open-chat-studio": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2312,7 +2350,7 @@
    ]
   },
   "dimensionalos/dimos": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2360,17 +2398,17 @@
    ]
   },
   "diverse-cognitive-systems-group/dcs-simulation-engine": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "diygod/rsshub": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "documentdb/functional-tests": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2388,7 +2426,7 @@
    ]
   },
   "doenet/doenetml": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2412,7 +2450,7 @@
    ]
   },
   "dollhousemcp/mcp-server": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2436,7 +2474,7 @@
    ]
   },
   "doocs/md": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2466,7 +2504,7 @@
    ]
   },
   "dosbox-staging/dosbox-staging": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2502,12 +2540,12 @@
    ]
   },
   "dotansimha/graphql-code-generator": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "dspace/dspace": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2531,18 +2569,18 @@
    ]
   },
   "eclipse-jdt/eclipse.jdt.core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "eclipse-m2e/m2e-core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": ".github/PULL_REQUEST_TEMPLATE.md",
      "keyword": "ai-assisted",
-     "snippet": "…every change, per the [Eclipse GenAI contribution guidelines](https://www.eclipse.org/projects/handbook/#genai). - [ ] I will personally review and confirm any AI-assisted follow-up changes made in response to review comments before pushing them (see [AGENTS.md](../AGENTS.md) rule on reading full thread history). ## Checkl…",
+     "snippet": "…every change, per the [Eclipse GenAI contribution guidelines](https://www.eclipse.org/projects/handbook/#genai). - [ ] I will personally review and confirm any AI-assisted follow-up changes made in response to review comments before pushing them (see [AGENTS.md](https://github.com/eclipse-m2e/m2e-core/blob/main/AGENTS.md) r…",
      "url": "https://github.com/eclipse-m2e/m2e-core/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
     },
     {
@@ -2572,12 +2610,12 @@
    ]
   },
   "eclipse-platform/eclipse.platform.releng.aggregator": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "eclipse-platform/eclipse.platform.swt": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2595,7 +2633,7 @@
    ]
   },
   "eclipse-sw360/sw360": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2607,22 +2645,22 @@
    ]
   },
   "eclipse-windowbuilder/windowbuilder": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "eclipse-zenoh/zenoh": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "edgetx/edgetx": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "edwardkim/rhwp": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2682,7 +2720,7 @@
    ]
   },
   "effortlessmetrics/bitnet-rs-swarm": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2712,12 +2750,12 @@
    ]
   },
   "effortlessmetrics/hl7v2-rs": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "effortlessmetrics/perl-lsp-swarm": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2725,6 +2763,12 @@
      "keyword": "claude",
      "snippet": "…nerators, policy, and proof routing | | VS Code extension | `vscode-extension/` | Installed editor experience | Read the nearest package-local `AGENTS.md` or `CLAUDE.md` before changing an owning crate. The root [`AGENTS.md`](AGENTS.md) and [`CLAUDE.md`](CLAUDE.md) contain the current repository route maps. ## Development…",
      "url": "https://github.com/effortlessmetrics/perl-lsp-swarm/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…ore choosing work. Preserve unrelated changes and establish the candidate's mutation owner before editing. Read applicable `AGENTS.md` files and package-local `CLAUDE.md` where present; package ownership and architecture guidance apply to both providers. An absent package-local `AGENTS.md` does not mean there is no owner gui…",
+     "url": "https://github.com/effortlessmetrics/perl-lsp-swarm/blob/HEAD/AGENTS.md"
     },
     {
      "path": ".github/copilot-instructions.md",
@@ -2741,17 +2785,17 @@
    ]
   },
   "eic/eicrecon": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "eisop/checker-framework": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "elementor/elementor": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2763,7 +2807,7 @@
    ]
   },
   "eljojo/rememory": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2811,22 +2855,22 @@
    ]
   },
   "emacs-lsp/lsp-mode": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "emberjs/ember.js": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "emfcamp/website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "entireio/cli": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2850,19 +2894,19 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "…se install # Download Go modules go mod download # Build the CLI mise run build # Verify setup by running tests mise run test ``` > See the [reference map](CLAUDE.md#read-when-relevant) for architecture and development documentation. --- ## Making Changes 1. **Create a branch** for your changes: ```bash git chec…",
+     "snippet": "…th --device # Focused integration coverage for login go test -tags=integration ./cmd/entire/cli/integration_test -run TestLogin ``` > See the [reference map](CLAUDE.md#read-when-relevant) for architecture and development documentation. --- ## Making Changes 1. **Create a branch** for your changes: ```bash git chec…",
      "url": "https://github.com/entireio/cli/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "README.md",
      "keyword": "copilot",
-     "snippet": "…ks config | | Claude Code | `.claude/settings.json` | JSON hooks config | | Codex | `.codex/hooks.json` | JSON hooks config | | Copilot CLI | `.github/hooks/entire.json` | JSON hooks config | | Cursor | `.cursor/hooks.json` | JSON hooks config | | Factory AI Droid | `.…",
+     "snippet": "…aph](https://docs.entire.com/guides/graph/overview)'s code map into project memory. → [Agent Sessions](#agent-sessions) Works with Claude Code, Codex, Cursor, Copilot CLI, OpenCode, Antigravity, Factory AI Droid, Pi, and [more](https://docs.entire.com/agents/agent-integration-protocol/overview), and extends through [plugins]…",
      "url": "https://github.com/entireio/cli/blob/HEAD/README.md"
     },
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…— A versioned record of every AI interaction tied to your git history, with nothing lost. - **Zero context switching** — Git-native, two-step setup, works with Claude Code, Codex, Cursor, Antigravity, Pi, and more. ## Table of Contents - [Why Entire](#why-entire) - [Requirements](#requirements) - [Quick Start](#quick-start…",
+     "snippet": "…ombines them with [entire-graph](https://docs.entire.com/guides/graph/overview)'s code map into project memory. → [Agent Sessions](#agent-sessions) Works with Claude Code, Codex, Cursor, Copilot CLI, OpenCode, Antigravity, Factory AI Droid, Pi, and [more](https://docs.entire.com/agents/agent-integration-protocol/overview),…",
      "url": "https://github.com/entireio/cli/blob/HEAD/README.md"
     },
     {
@@ -2886,7 +2930,7 @@
    ]
   },
   "envoyproxy/envoy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2933,32 +2977,38 @@
     },
     {
      "path": "AGENTS.md",
-     "keyword": "ai usage",
-     "snippet": "…PR that is under review.** Use `git merge main` instead to pull in recent changes. The project squash-merges, so commit count does not matter. 5. **Disclose AI usage.** When submitting PRs, include a note about AI assistance in the PR description. The submitter must fully understand all code being submitted. 6. **Never c…",
+     "keyword": "ai policy",
+     "snippet": "…h origin main && git merge origin/main` to pull in recent changes. The project squash-merges, so commit count does not matter. 4. **Follow the generative AI policy.** See the \"Use of generative AI policy\" section of `CONTRIBUTING.md`. Disclose AI assistance in the PR description; the submitter must fully understand…",
+     "url": "https://github.com/envoyproxy/envoy/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "generative ai",
+     "snippet": "…e `git fetch origin main && git merge origin/main` to pull in recent changes. The project squash-merges, so commit count does not matter. 4. **Follow the generative AI policy.** See the \"Use of generative AI policy\" section of `CONTRIBUTING.md`. Disclose AI assistance in the PR description; the submitter must fully unde…",
      "url": "https://github.com/envoyproxy/envoy/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "copilot",
-     "snippet": "# AGENTS.md Instructions for AI coding agents (Claude Code, Copilot, Cursor, etc.) working in this repository. ## Critical rules 1. **Always sign off commits.** The human user must sign off commits via `git commit -s` — never…",
+     "snippet": "# AGENTS.md Instructions for AI coding agents (Claude Code, Copilot, Cursor, etc.) working in this repository. Some subdirectories have their own, more specific guides. Read them before working in (or debugging failures that i…",
      "url": "https://github.com/envoyproxy/envoy/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "# AGENTS.md Instructions for AI coding agents (Claude Code, Copilot, Cursor, etc.) working in this repository. ## Critical rules 1. **Always sign off commits.** The human user must sign off commits via `git comm…",
+     "snippet": "# AGENTS.md Instructions for AI coding agents (Claude Code, Copilot, Cursor, etc.) working in this repository. Some subdirectories have their own, more specific guides. Read them before working in (or debugging f…",
      "url": "https://github.com/envoyproxy/envoy/blob/HEAD/AGENTS.md"
     },
     {
      "path": ".github/copilot-instructions.md",
      "keyword": "copilot",
-     "snippet": "# GitHub Copilot instructions for envoyproxy/envoy **Note:** These instructions are specifically for GitHub Copilot's agent/workspace environment, not for developers using Cop…",
+     "snippet": "# GitHub Copilot instructions for envoyproxy/envoy **Note:** These instructions are specifically for GitHub Copilot's cloud agent environment, not for developers using Copilot…",
      "url": "https://github.com/envoyproxy/envoy/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "envoyproxy/gateway": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -2970,7 +3020,7 @@
    ]
   },
   "equinor/neqsim": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3054,7 +3104,7 @@
    ]
   },
   "esbmc/esbmc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3078,17 +3128,24 @@
    ]
   },
   "escomp/ctsm": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "esphome/esphome": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…ting/code/ - contribution rules, public API and breaking changes. * **Skills:** detailed recipes live in skills under `.agents/skills/` (also reachable as `.claude/skills/` and `.github/skills/`). Load the matching skill before doing that kind of work; agents without skill support should read the `SKILL.md` file d…",
+     "url": "https://github.com/esphome/esphome/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "ethereum/ethereum-org-website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3100,7 +3157,7 @@
    ]
   },
   "eventual-inc/daft": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3112,7 +3169,7 @@
    ]
   },
   "exist-db/exist": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3124,7 +3181,7 @@
    ]
   },
   "farion1231/cc-switch": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3154,7 +3211,7 @@
     {
      "path": "README.md",
      "keyword": "ai tools",
-     "snippet": "…kup lives and how much space it takes in \"Settings → Data\"), i18n (zh/zh-TW/en/ja, plus community-translated Turkish) ## FAQ <details> <summary><strong>Which AI tools does CC Switch support?</strong></summary> CC Switch supports twelve tools: **Claude Code**, **Claude Desktop**, **Codex**, **Gemini CLI**, **Grok Build**, **…",
+     "snippet": "…, GLM, Kimi, Qwen, DeepSeek, and Tencent Hunyuan. The platform is compatible with OpenAI, Anthropic, and other mainstream API protocols, and works with popular AI tools such as Claude Code, Codex, OpenCode, Pi, and Hermes. International models cost 20–40% less than official prices, and Chinese models 30–50% less. Unified top-u…",
      "url": "https://github.com/farion1231/cc-switch/blob/HEAD/README.md"
     },
     {
@@ -3190,7 +3247,7 @@
    ]
   },
   "feast-dev/feast": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3208,22 +3265,22 @@
    ]
   },
   "finos/legend-studio": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-ios-sdk": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "firebase/firebase-tools": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "firstcontributions/first-contributions": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3241,12 +3298,12 @@
    ]
   },
   "fork-commit-merge/fork-commit-merge": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "fossasia/visdom": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3282,7 +3339,7 @@
    ]
   },
   "fossbilling/fossbilling": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3306,12 +3363,12 @@
    ]
   },
   "frappe/lms": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "freecodecamp/freecodecamp": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3323,37 +3380,37 @@
    ]
   },
   "g00fy2/quickie": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "galaxyproject/galaxy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gaul/s3proxy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-gui": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gazebosim/gz-sim": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "genericmappingtools/pygmt": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gepa-ai/gepa": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3407,12 +3464,12 @@
    ]
   },
   "getporter/porter": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gfx-rs/wgpu": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3442,7 +3499,7 @@
    ]
   },
   "ggml-org/llama.cpp": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3496,22 +3553,22 @@
    ]
   },
   "ghostfolio/ghostfolio": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gitoxidelabs/gitoxide": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gleam-lang/gleam": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "godotengine/godot": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3523,22 +3580,22 @@
    ]
   },
   "godotengine/godot-docs": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "gramps-project/gramps-web": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "graphql-hive/console": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "grcengclub/claude-grc-engineering": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3550,7 +3607,7 @@
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…g/actions/workflows/osv-scanner.yml) https://github.com/user-attachments/assets/a83aa297-9fba-4a7d-b56c-06f962d1ec6b Open-source GRC Engineering resource for Claude. `claude-grc-engineering` turns technical evidence from cloud, SaaS, code, and security tools into framework-aligned findings, gap reports, remediation guidan…",
+     "snippet": "…m_campaign=greptile_for_open_source) https://github.com/user-attachments/assets/a83aa297-9fba-4a7d-b56c-06f962d1ec6b Open-source GRC Engineering resource for Claude. `claude-grc-engineering` turns technical evidence from cloud, SaaS, code, and security tools into framework-aligned findings, gap reports, remediation guidan…",
      "url": "https://github.com/grcengclub/claude-grc-engineering/blob/HEAD/README.md"
     },
     {
@@ -3562,7 +3619,7 @@
    ]
   },
   "greenshot/greenshot": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3610,7 +3667,7 @@
    ]
   },
   "gyrinx-app/gyrinx": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3628,7 +3685,7 @@
    ]
   },
   "hacf-fr/renault-api": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3640,7 +3697,7 @@
    ]
   },
   "hackclub/sprig": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3658,22 +3715,22 @@
    ]
   },
   "hackforla/tdm-calculator": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "haikuports/haikuports": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "hashgraph/hedera-transaction-tool": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "hhs/simpler-grants-gov": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3685,12 +3742,19 @@
    ]
   },
   "hibernate/hibernate-reactive": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "# Guidelines for AI coding agents These guidelines apply to any change made with an AI coding agent (Claude Code, Codex, ...), and to the contributors who review it. They complement [CONTRIBUTING.md](CONTRIBUTING.md), which still applies. These are guidelines rather…",
+     "url": "https://github.com/hibernate/hibernate-reactive/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "homarr-labs/homarr": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3702,25 +3766,25 @@
     {
      "path": "AGENTS.md",
      "keyword": "llm",
-     "snippet": "…line. ## MCP servers `.mcp.json` declares project-scoped MCP servers. Keep only keyless definitions there; credentials belong in local dotfiles. See [Mantine LLM tooling](https://mantine.dev/guides/llms/) for client-specific setup. ## Agent Skills Portable skills live in `.agents/skills/`. Read the relevant `SKILL.md`…",
+     "snippet": "…m the repository root, then `codex plugin add homarr-mantine@homarr-local`. Keep shared definitions keyless; credentials belong in local dotfiles. See [Mantine LLM tooling](https://mantine.dev/guides/llms/) for documentation sources. ## Agent Skills Portable skills live in `.agents/skills/`. Read the relevant `SKILL.md`…",
      "url": "https://github.com/homarr-labs/homarr/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "llms",
-     "snippet": "…res project-scoped MCP servers. Keep only keyless definitions there; credentials belong in local dotfiles. See [Mantine LLM tooling](https://mantine.dev/guides/llms/) for client-specific setup. ## Agent Skills Portable skills live in `.agents/skills/`. Read the relevant `SKILL.md` before working in that domain; detailed…",
+     "snippet": "…n add homarr-mantine@homarr-local`. Keep shared definitions keyless; credentials belong in local dotfiles. See [Mantine LLM tooling](https://mantine.dev/guides/llms/) for documentation sources. ## Agent Skills Portable skills live in `.agents/skills/`. Read the relevant `SKILL.md` before working in that domain; detailed…",
      "url": "https://github.com/homarr-labs/homarr/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…Read the relevant `SKILL.md` before working in that domain; detailed references are loaded only when needed. Claude-compatible discovery is provided through `.claude/skills`. - `codebase-context` — architecture, package boundaries, and shared utilities - `documentation-sync` — user-critical documentation only - `mcp-integr…",
+     "snippet": "…Read the relevant `SKILL.md` before working in that domain; detailed references are loaded only when needed. Claude-compatible discovery is provided through `.claude/skills`. - `codebase-context` — architecture, package boundaries, and shared utilities - `homarr-mantine:mantine-ui` — project plugin for Mantine component di…",
      "url": "https://github.com/homarr-labs/homarr/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "home-assistant/android": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3732,7 +3796,7 @@
    ]
   },
   "home-assistant/core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3762,55 +3826,25 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai policy",
-     "snippet": "…have security implications, should require an admin user. Register them with the `async_register_admin_service` service helper, which checks this for you. ## AI policy This project follows the [Open Home Foundation AI Policy](AI_POLICY.md). Autonomous contributions are not accepted: a human must review, understand, and be ab…",
+     "snippet": "…constant from one platform module into another; move it to `const.py` instead. Pre-existing constants that a change does not touch can stay where they are. ## AI policy This project follows the [Open Home Foundation AI Policy](AI_POLICY.md). Autonomous contributions are not accepted: a human must review, understand, and be ab…",
      "url": "https://github.com/home-assistant/core/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": "AGENTS.md",
-     "keyword": "copilot",
-     "snippet": "# GitHub Copilot & Claude Code Instructions This repository contains the core of Home Assistant, a Python 3 based home automation application. ## Git Commit Guidelines - **D…",
-     "url": "https://github.com/home-assistant/core/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": "AGENTS.md",
-     "keyword": "claude",
-     "snippet": "# GitHub Copilot & Claude Code Instructions This repository contains the core of Home Assistant, a Python 3 based home automation application. ## Git Commit Guidelines - **Do NOT ame…",
-     "url": "https://github.com/home-assistant/core/blob/HEAD/AGENTS.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "ai policy",
-     "snippet": "…ore merging your code. AI tools are welcome, but contributors are responsible for *fully* understanding the code before submitting a PR. Please follow our AI policy: https://contributors.home-assistant.io/start/ai-policy/ --> - [ ] I understand the code I am submitting and can explain how it works. - [ ] The code change…",
-     "url": "https://github.com/home-assistant/core/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "ai tools",
-     "snippet": "…nsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code. AI tools are welcome, but contributors are responsible for *fully* understanding the code before submitting a PR. Please follow our AI policy: https://contributors.…",
-     "url": "https://github.com/home-assistant/core/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "copilot",
-     "snippet": "<!-- Automatically generated by gen_copilot_instructions.py, do not edit --> # Copilot code review instructions - Start review comments with a short, one-sentence summary of the suggested fix. - Do not comment on code style, formatting or lintin…",
-     "url": "https://github.com/home-assistant/core/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "claude",
-     "snippet": "…ithub.com/home-assistant/home-assistant.io [perfect-pr]: https://contributors.home-assistant.io/start/pull-requests/#before-you-open-it ``` # GitHub Copilot & Claude Code Instructions This repository contains the core of Home Assistant, a Python 3 based home automation application. ## Git Commit Guidelines - **Do NOT ame…",
-     "url": "https://github.com/home-assistant/core/blob/HEAD/.github/copilot-instructions.md"
     }
    ]
   },
   "home-assistant/frontend": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai policy",
+     "snippet": "…ore merging your code. AI tools are welcome, but contributors are responsible for *fully* understanding the code before submitting a PR. Please follow our AI policy: https://contributors.home-assistant.io/start/ai-policy/ --> - [ ] I understand the code I am submitting and can explain how it works. - [ ] The code change…",
+     "url": "https://github.com/home-assistant/frontend/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
      "keyword": "ai tools",
-     "snippet": "…nsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code. AI tools are welcome, but contributors are responsible for *fully* understanding the code before submitting a PR. --> - [ ] I understand the code I am submitting and…",
+     "snippet": "…nsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code. AI tools are welcome, but contributors are responsible for *fully* understanding the code before submitting a PR. Please follow our AI policy: https://contributors.…",
      "url": "https://github.com/home-assistant/frontend/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
     },
     {
@@ -3822,7 +3856,7 @@
    ]
   },
   "home-assistant/home-assistant.io": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3834,7 +3868,7 @@
    ]
   },
   "homebrew/homebrew-cask": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3881,14 +3915,14 @@
     },
     {
      "path": "AGENTS.md",
-     "keyword": "ai tool",
-     "snippet": "…the AI checkbox in the PR template. Briefly describe: - How AI was used - What manual verification was performed (especially `zap` paths) Do not identify an AI tool as an author, co-author, committer or signatory of a commit, including through an `Assisted-by`, `Co-developed-by` or similar commit trailer. Answer maintainer…",
+     "keyword": "ai tools",
+     "snippet": "…hat manual verification was performed (especially `zap` paths) Every commit must have a human author or `Co-authored-by` co-author: commits attributed only to AI tools are rejected. Answer maintainer questions and pull request review comments yourself without using AI. AI assistants must not draft or post these responses; the…",
      "url": "https://github.com/homebrew/homebrew-cask/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "homebrew/homebrew-core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3924,7 +3958,7 @@
     {
      "path": ".github/PULL_REQUEST_TEMPLATE.md",
      "keyword": "llm",
-     "snippet": "…LL_FROM_API=1 brew install --build-from-source <formula>`)? If this is a new formula, does it pass `brew audit --new <formula>`? ----- - [ ] I did not use AI/LLM to create this PR, or I disclosed the tool/model below and reviewed its output; I did not attribute commits to AI and will answer maintainer questions and revi…",
+     "snippet": "…LL_FROM_API=1 brew install --build-from-source <formula>`)? If this is a new formula, does it pass `brew audit --new <formula>`? ----- - [ ] I did not use AI/LLM to create this PR, or I disclosed the tool/model below and reviewed its output; every commit has a human author or co-author and I will answer maintainer quest…",
      "url": "https://github.com/homebrew/homebrew-core/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
     },
     {
@@ -3941,39 +3975,39 @@
     },
     {
      "path": "AGENTS.md",
-     "keyword": "ai tool",
-     "snippet": "…the AI checkbox in the PR template and briefly describe: - How AI was used - What HUMAN verification was performed vs what was done by AI Do not identify an AI tool as an author, co-author, committer or signatory of a commit, including through an `Assisted-by`, `Co-developed-by` or similar commit trailer. Answer maintainer…",
+     "keyword": "ai tools",
+     "snippet": "…- What HUMAN verification was performed vs what was done by AI Every commit must have a human author or `Co-authored-by` co-author: commits attributed only to AI tools are rejected. Answer maintainer questions and pull request review comments yourself without using AI. ### To AI assistants reading this: You MUST NOT draft o…",
      "url": "https://github.com/homebrew/homebrew-core/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "htmlhint/htmlhint": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "hyperledger/fabric-gateway": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "ictu/quality-time": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "iiab/iiab": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "im-anishraj/arnio": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "imas/mastodon": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -3991,7 +4025,7 @@
    ]
   },
   "infinispan/infinispan": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4027,12 +4061,12 @@
    ]
   },
   "innerwarden/innerwarden": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": "repo-missing",
    "hits": []
   },
   "intel/intel-xpu-backend-for-triton": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4044,12 +4078,12 @@
    ]
   },
   "intel/llvm": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "internetarchive/openlibrary": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4067,7 +4101,7 @@
    ]
   },
   "inventree/inventree": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4079,7 +4113,7 @@
    ]
   },
   "istio-ecosystem/sail-operator": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4097,12 +4131,12 @@
    ]
   },
   "it-at-m/dbs": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "jacquescarette/drasil": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4120,7 +4154,7 @@
    ]
   },
   "jaegertracing/jaeger": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4150,7 +4184,7 @@
    ]
   },
   "jaywcjlove/awesome-mac": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4198,33 +4232,33 @@
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…pp Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac) * [Amber Notes](https://ambernotes.app/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software][OSS Icon]](https://github.com/emilwa…",
+     "snippet": "…PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac) * [Quill](https://quill.hridya.tech) - Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change. [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) !…",
      "url": "https://github.com/jaywcjlove/awesome-mac/blob/HEAD/README.md"
     }
    ]
   },
   "jellyfin/jellyfin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "jenkins-infra/plugin-modernizer-tool": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "jetty/jetty.project": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "jhasourav07/commitpulse": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
-   "error": "repo-missing",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
+   "error": null,
    "hits": []
   },
   "joshuakgoldberg/all-contributors-for-repository": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4236,52 +4270,52 @@
    ]
   },
   "joshuakgoldberg/formatly": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/refined-saved-replies": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/sentences-per-line": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "joshuakgoldberg/ts-api-utils": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "jscad/openjscad.org": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "jupyterhub/mybinder.org-deploy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "jxn-30/better-moodle": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "k0sproject/k0s": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "karmada-io/karmada": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kata-containers/kata-containers": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4331,22 +4365,28 @@
      "keyword": "generative ai",
      "snippet": "…-By:` for predictive auto-complete or minor generative assistance. * `Generated-By:` when substantial portions of the change were produced by a generative AI tool. * Stay \"in the loop\" and be able to fully understand, explain, and debug any AI-produced code they submit. * Configure AI tools to respect open source…",
      "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…ll reject it, though anything inside backticks is ignored. And new pages under `docs/` must be registered in `docs/.nav.yml`; the repository ships a skill at `.claude/skills/mkdocs-docs/SKILL.md` describing the documentation conventions. ### Rung 3: build the artefacts Every commit must build. For a shim change that means,…",
+     "url": "https://github.com/kata-containers/kata-containers/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "kedacore/http-add-on": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kiali/kiali": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai-assisted",
-     "snippet": "…GENTS.md) for Spanish and Chinese glossary/style rules. ### Code Style Guide See the [Style Guide](./STYLE_GUIDE.adoc) about getting your code in style. ### AI-Assisted Contributions If you use AI tools (such as GitHub Copilot, ChatGPT, Claude, Cursor, or similar) to assist with your contributions, please review the [AI Polic…",
+     "snippet": "…locale and any language-specific glossary/style rules. ### Code Style Guide See the [Style Guide](./STYLE_GUIDE.adoc) about getting your code in style. ### AI-Assisted Contributions If you use AI tools (such as GitHub Copilot, ChatGPT, Claude, Cursor, or similar) to assist with your contributions, please review the [AI Polic…",
      "url": "https://github.com/kiali/kiali/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -4388,7 +4428,7 @@
    ]
   },
   "koala73/worldmonitor": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4442,7 +4482,7 @@
    ]
   },
   "koizuka/echonet-list": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4466,17 +4506,17 @@
    ]
   },
   "konflux-ci/konflux-ci": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kserve/website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubedoio/rustchat": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4488,7 +4528,7 @@
    ]
   },
   "kubeflow/pipelines": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4512,12 +4552,12 @@
    ]
   },
   "kubernetes-client/javascript": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/agent-sandbox": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4547,12 +4587,12 @@
    ]
   },
   "kubernetes-sigs/cloud-provider-azure": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/cluster-api": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4576,17 +4616,17 @@
    ]
   },
   "kubernetes-sigs/cluster-api-provider-azure": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/external-dns": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/gateway-api": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4616,12 +4656,12 @@
    ]
   },
   "kubernetes-sigs/kro": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes-sigs/kube-agentic-networking": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4633,7 +4673,7 @@
    ]
   },
   "kubernetes-sigs/kueue": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4675,22 +4715,22 @@
    ]
   },
   "kubernetes/community": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes/k8s.io": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kops": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes/kubernetes": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4702,22 +4742,22 @@
    ]
   },
   "kubernetes/perf-tests": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes/test-infra": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubernetes/website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kubestellar/console": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4801,7 +4841,7 @@
    ]
   },
   "kubevirt/kubevirt": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4819,12 +4859,12 @@
    ]
   },
   "kubevirt/project-infra": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "kumahq/kuma": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4836,7 +4876,7 @@
    ]
   },
   "kyverno/kyverno": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4860,7 +4900,7 @@
    ]
   },
   "labwc/labwc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4926,17 +4966,17 @@
    ]
   },
   "lakekeeper/lakekeeper": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "lance-format/lance": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "landsandboat/server": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4954,12 +4994,12 @@
    ]
   },
   "lanrhyme/micyou": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "leanprover/cslib": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -4971,7 +5011,7 @@
    ]
   },
   "learningcircuit/local-deep-research": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5009,13 +5049,61 @@
      "keyword": "claude",
      "snippet": "…, Pinecone, Weaviate, Elasticsearch, and any LangChain-compatible retriever. [Integration Guide →](docs/LANGCHAIN_RETRIEVER_INTEGRATION.md) ## 🔌 MCP Server (Claude Integration) LDR provides an MCP (Model Context Protocol) server that allows AI assistants like Claude Desktop and Claude Code to perform deep research. Full…",
      "url": "https://github.com/learningcircuit/local-deep-research/blob/HEAD/README.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "llm",
+     "snippet": "…l_deep_research/security/module_whitelist.py`; new strategies require wiring in `create_strategy()` (`src/local_deep_research/search_system_factory.py`) — only LLM providers are auto-discovered. See `docs/architecture.md` for the full thread lifecycle, QueuePool/FD budget, and cleanup model. ## Where to look | Task | Pa…",
+     "url": "https://github.com/learningcircuit/local-deep-research/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "llms",
+     "snippet": "…New network paths must also respect the egress policy (`src/local_deep_research/security/egress/README.md`): engines are created via `create_search_engine()`, LLMs via `get_llm()`, agent URL fetches call `evaluate_url()`. Operator-configurable LLM and embedding base URLs are checked with `assert_base_url_safe()`. - In `sr…",
+     "url": "https://github.com/learningcircuit/local-deep-research/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "claude",
+     "snippet": "…h characters as `\\uXXXX` escapes in code, or character references such as `&#x200d;` in Markdown. - Tracked paths must be printable ASCII, and `AGENT(S).md` / `CLAUDE.md` / `GEMINI.md` may exist only as the exact root files (any other case or depth is rejected). The root `CLAUDE.md` and `GEMINI.md` must contain exactly `@AGE…",
+     "url": "https://github.com/learningcircuit/local-deep-research/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "ledgersmb/ledgersmb": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai generated",
+     "snippet": "…tent generated in whole or in part using AI tools can be > contributed to Linux Foundation projects. However, there are some unique > considerations related to AI generated content that developers should > factor into their contributions. > > 1. Contributors should ensure that the terms and conditions of the generative > AI too…",
+     "url": "https://github.com/ledgersmb/ledgersmb/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tool",
+     "snippet": "…erated content that developers should > factor into their contributions. > > 1. Contributors should ensure that the terms and conditions of the generative > AI tool do not place any contractual restrictions on how the tool’s output > can be used that are inconsistent with the project’s open source software > license,…",
+     "url": "https://github.com/ledgersmb/ledgersmb/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tools",
+     "snippet": "…sed on the merits of each > technical contribution that is openly contributed to and reviewed by > community peers. Development and review of code generated by AI tools > should be treated no differently. > > Code or other content generated in whole or in part using AI tools can be > contributed to Linux Foundation projects. H…",
+     "url": "https://github.com/ledgersmb/ledgersmb/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "use of ai",
+     "snippet": "…andards** - An index of project's important architecture and coding decisions is located in the [Architecture Design Records index](doc/adr/index.md). ### Use of AI The project allows the use of AI (Artificial Intelligence) and LLMs (Large Language Models). It has adopted [the Linux Foundation policy](https://www.linuxfou…",
+     "url": "https://github.com/ledgersmb/ledgersmb/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "llms",
+     "snippet": "…ons is located in the [Architecture Design Records index](doc/adr/index.md). ### Use of AI The project allows the use of AI (Artificial Intelligence) and LLMs (Large Language Models). It has adopted [the Linux Foundation policy](https://www.linuxfoundation.org/legal/generative-ai) guiding the use of this class of too…",
+     "url": "https://github.com/ledgersmb/ledgersmb/blob/HEAD/CONTRIBUTING.md"
+    },
     {
      "path": "README.md",
      "keyword": "ai-generated",
@@ -5025,7 +5113,7 @@
    ]
   },
   "lfortran/lfortran": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5055,7 +5143,7 @@
    ]
   },
   "liberatedpixelcup/universal-lpc-spritesheet-character-generator": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5079,7 +5167,7 @@
    ]
   },
   "libresign/libresign": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5091,12 +5179,12 @@
    ]
   },
   "licensee/licensee": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "lichess-org/lila": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5120,7 +5208,7 @@
    ]
   },
   "lichess-org/mobile": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5144,7 +5232,7 @@
    ]
   },
   "lingdojo/kana-dojo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5162,7 +5250,7 @@
    ]
   },
   "linkerd/linkerd2": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5210,7 +5298,7 @@
    ]
   },
   "lizardbyte/sunshine": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5222,22 +5310,22 @@
    ]
   },
   "llvm/llvm-project": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "longhorn/longhorn": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "lostartefacts/trx": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "ls1intum/artemis": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5245,16 +5333,22 @@
      "keyword": "ai-assisted",
      "snippet": "…uides students with hints and leading questions, and **Athena** suggests feedback for text, modeling, and programming exercises. **Hyperion** is Artemis-native AI-assisted exercise authoring built on Spring AI. All of them are optional and gated by configuration. EduTelligence maintains a [compatibility matrix](https://github.co…",
      "url": "https://github.com/ls1intum/artemis/blob/HEAD/README.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai-generated",
+     "snippet": "…documentation and PRs must be captured from a running Artemis instance with realistic data and the actual theme and background colours. Never use synthetic, AI-generated, mocked or isolated-component screenshots, or override theme colours or recolour a capture. Automated browser capture of the real application is allowed. - D…",
+     "url": "https://github.com/ls1intum/artemis/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "lunarg/gfxreconstruct": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "lxc/incus-os": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5284,12 +5378,12 @@
    ]
   },
   "lycheeverse/lychee": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "lynx-family/lynx-website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5301,7 +5395,7 @@
    ]
   },
   "madq/roslynmcp": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5337,7 +5431,7 @@
    ]
   },
   "mampfes/hacs_waste_collection_schedule": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5379,7 +5473,7 @@
    ]
   },
   "manyfold3d/manyfold": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5433,12 +5527,12 @@
    ]
   },
   "marcoroth/herb": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "marimo-team/marimo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5456,7 +5550,7 @@
     {
      "path": ".github/PULL_REQUEST_TEMPLATE.md",
      "keyword": "ai generated",
-     "snippet": "…//marimo.io/discord?ref=pr), or the community [discussions](https://github.com/marimo-team/marimo/discussions) (Please provide a link if applicable). - [ ] Any AI generated code has been reviewed line-by-line by the human PR author, who stands by it. - [ ] Video or media evidence is provided for any visual changes (optional). <!--…",
+     "snippet": "…//marimo.io/discord?ref=pr), or the community [discussions](https://github.com/marimo-team/marimo/discussions) (Please provide a link if applicable). - [ ] Any AI generated code has been reviewed line-by-line by the human PR author, who stands by it. - [ ] Video or media evidence is provided for any visual changes. <!-- PR is more…",
      "url": "https://github.com/marimo-team/marimo/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
     },
     {
@@ -5468,12 +5562,12 @@
    ]
   },
   "marimo-team/marimo-lsp": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "marin-community/marin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5497,7 +5591,7 @@
    ]
   },
   "marketcalls/openalgo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5509,7 +5603,7 @@
     {
      "path": "README.md",
      "keyword": "chatgpt",
-     "snippet": "…chart from a right-side panel, and can place orders only with your explicit approval on every single one. Bring your own model from any LiteLLM provider, or a ChatGPT Plus or Pro subscription, or run it locally against Ollama. | | **Options Trading Suite** | `/tools` | Options traders: twelve built-in analytical tools (Strat…",
+     "snippet": "…chart from a right-side panel, and can place orders only with your explicit approval on every single one. Bring your own model from any LiteLLM provider, or a ChatGPT Plus or Pro subscription, or run it locally against Ollama. | | **Options & Portfolio Suite** | `/tools` | Options traders and investors: twenty built-in analy…",
      "url": "https://github.com/marketcalls/openalgo/blob/HEAD/README.md"
     },
     {
@@ -5521,7 +5615,7 @@
    ]
   },
   "marketsquare/robotframework-browser": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5539,33 +5633,33 @@
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…rsion.py` is the source; `inv version <VERSION>` writes it to every other file. The release steps are in `CONTRIBUTING.md`. ## Skills Project skills are in `.claude/skills/`, one folder each with a `SKILL.md`. Load the one whose description matches the task.",
+     "snippet": "…. Its Issues section says which issue type a change needs: only Bug and Feature issues reach the release notes, never Task. ## Skills Project skills are in `.claude/skills/`, one folder each with a `SKILL.md`. Load the one whose description matches the task.",
      "url": "https://github.com/marketsquare/robotframework-browser/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "materialious/materialious": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mcgill-courses/mcgill.courses": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mdn/content": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mdn/translated-content": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "medic/cht-core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5577,7 +5671,7 @@
    ]
   },
   "medusajs/medusa": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5613,12 +5707,12 @@
    ]
   },
   "meltano/sdk": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mflowcode/mfc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5636,7 +5730,7 @@
    ]
   },
   "michaelchessall/ss14-persistence": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5654,12 +5748,12 @@
    ]
   },
   "micrometer-metrics/micrometer": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mikefarah/yq": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5667,26 +5761,32 @@
      "keyword": "ai tools",
      "snippet": "…to put in other community maintained methods in the README for visibility :heart: ## How PRs are triaged Due to the overwhelming number of PRs being opened by AI tools, open PRs are now triaged by impact. A weekly workflow counts the distinct users (excluding the PR author, the maintainer and bots) who have commented on or re…",
      "url": "https://github.com/mikefarah/yq/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "copilot",
+     "snippet": "…ct and migration path are explained, and a verdict is still given. - In reviews, finish with **Compatibility risk: None / Low / Medium / High** and reasoning. Copilot code review reads the equivalent rules in `.github/copilot-instructions.md` and `.github/instructions/`; keep them in sync with this section. # General rules…",
+     "url": "https://github.com/mikefarah/yq/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "misp/misp": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "misp/misp-galaxy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mitre/heimdall2": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mixxxdj/mixxx": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5704,12 +5804,12 @@
    ]
   },
   "moby/buildkit": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "moby/moby": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5763,7 +5863,7 @@
    ]
   },
   "modernuo/modernuo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5775,7 +5875,7 @@
    ]
   },
   "modsetter/surfsense": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5787,7 +5887,7 @@
    ]
   },
   "moganlab/mogan": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5805,12 +5905,12 @@
    ]
   },
   "moldytaint/cinephage": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "monarch-initiative/dismech": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5858,7 +5958,7 @@
    ]
   },
   "mozilla-mobile/firefox-ios": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5870,12 +5970,12 @@
    ]
   },
   "mozilla/rhino": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "mudlet/mudlet": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5905,7 +6005,7 @@
    ]
   },
   "munich-quantum-toolkit/bench": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5929,7 +6029,7 @@
    ]
   },
   "munich-quantum-toolkit/debugger": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5953,7 +6053,7 @@
    ]
   },
   "munich-quantum-toolkit/predictor": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -5977,7 +6077,7 @@
    ]
   },
   "munich-quantum-toolkit/qcec": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6001,7 +6101,7 @@
    ]
   },
   "munich-quantum-toolkit/yaqs": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6025,7 +6125,7 @@
    ]
   },
   "nanotaboada/dotnet.samples.aspnetcore.webapi": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6043,12 +6143,12 @@
    ]
   },
   "nasa-ammos/3dtilesrendererjs": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nasa/fprime": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6078,12 +6178,31 @@
    ]
   },
   "navidrome/navidrome": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-generated",
+     "snippet": "…nd performance implications; no diploma, job title, or employment is required. If you cannot assess the code yourself, report the problem instead of submitting AI-generated code. Bug reports, documentation improvements, and translations remain welcome. AI-assisted work must meet the personal full-diff review and functional testin…",
+     "url": "https://github.com/navidrome/navidrome/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…ssess the code yourself, report the problem instead of submitting AI-generated code. Bug reports, documentation improvements, and translations remain welcome. AI-assisted work must meet the personal full-diff review and functional testing requirements above before any PR is opened, including drafts or agent-created PRs. You rema…",
+     "url": "https://github.com/navidrome/navidrome/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tools",
+     "snippet": "…d revise the work. If you need more time or cannot continue, say so. The maintainer is not committing to finish an abandoned implementation. ## AI Disclosure AI tools may assist professional and hobbyist contributors. All code contributors must be able to personally understand, review, test, and maintain their changes, inclu…",
+     "url": "https://github.com/navidrome/navidrome/blob/HEAD/CONTRIBUTING.md"
+    }
+   ]
   },
   "near/mpc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6095,17 +6214,17 @@
    ]
   },
   "newton-physics/newton": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nextcommunity/nextcommunity.github.io": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nextest-rs/nextest": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6123,7 +6242,7 @@
    ]
   },
   "nickelsh1ts/streamarr": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6159,7 +6278,7 @@
    ]
   },
   "nicklockwood/swiftformat": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6171,17 +6290,17 @@
    ]
   },
   "nicolastakashi/prom-analytics-proxy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nightscout/cgm-remote-monitor": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nisshchayarathi/gitverse-nextjs": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6199,7 +6318,7 @@
    ]
   },
   "nixos/nix": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6229,12 +6348,12 @@
    ]
   },
   "nixos/nixos-search": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nodejs/node": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6258,12 +6377,12 @@
    ]
   },
   "nodejs/undici": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nodepa/seedlingo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6287,27 +6406,27 @@
    ]
   },
   "nodesecure/cli": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nodesecure/js-x-ray": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nodesecure/scanner": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "notashelf/nvf": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "npmx-dev/npmx.dev": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6331,22 +6450,22 @@
    ]
   },
   "nushell/nushell": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nusmodifications/nusmods": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "nvaccess/nvda": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "o2sa/devimpact": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6364,7 +6483,7 @@
    ]
   },
   "ocaml/dune": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6382,42 +6501,42 @@
    ]
   },
   "ocaml/ocaml.org": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "ocaml/opam-repository": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "ocelot-social-community/ocelot-social": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "omegaup/omegaup": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "oopsio/jen.js": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "open-cybernauts/open-range": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": "archived",
    "hits": []
   },
   "open-policy-agent/gatekeeper": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-collector": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6477,7 +6596,7 @@
    ]
   },
   "open-telemetry/opentelemetry-collector-contrib": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6531,12 +6650,12 @@
    ]
   },
   "open-telemetry/opentelemetry-cpp": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-dotnet": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6572,7 +6691,7 @@
    ]
   },
   "open-telemetry/opentelemetry-dotnet-contrib": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6602,7 +6721,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ebpf-instrumentation": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6674,7 +6793,7 @@
    ]
   },
   "open-telemetry/opentelemetry-ecosystem-explorer": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6722,7 +6841,7 @@
    ]
   },
   "open-telemetry/opentelemetry-go": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6734,40 +6853,40 @@
    ]
   },
   "open-telemetry/opentelemetry-go-build-tools": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-go-contrib": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-java": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry-kotlin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
      "keyword": "ai-generated",
-     "snippet": "…st` - **API changes**: run `./gradlew apiDump` to update dump files before opening a PR. - **PR size**: keep diffs under 500 lines. - **AI contributions**: all AI-generated code must be manually reviewed before committing. - **OTel spec** Search the OpenTelemetry specification when relevant and keep changes compliant ## Error han…",
+     "snippet": "…public module exports an internal one with `api(...)`, opt the internal module in first. - **PR size**: keep diffs under 500 lines. - **AI contributions**: all AI-generated code must be manually reviewed before committing. - **OTel spec** Search the OpenTelemetry specification when relevant and keep changes compliant ## Error han…",
      "url": "https://github.com/open-telemetry/opentelemetry-kotlin/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
      "keyword": "ai contributions",
-     "snippet": "…radlew assembleAndroidTest` - **API changes**: run `./gradlew apiDump` to update dump files before opening a PR. - **PR size**: keep diffs under 500 lines. - **AI contributions**: all AI-generated code must be manually reviewed before committing. - **OTel spec** Search the OpenTelemetry specification when relevant and keep changes com…",
+     "snippet": "…is `false`). Before a public module exports an internal one with `api(...)`, opt the internal module in first. - **PR size**: keep diffs under 500 lines. - **AI contributions**: all AI-generated code must be manually reviewed before committing. - **OTel spec** Search the OpenTelemetry specification when relevant and keep changes com…",
      "url": "https://github.com/open-telemetry/opentelemetry-kotlin/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "open-telemetry/opentelemetry-ruby-contrib": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6827,12 +6946,12 @@
    ]
   },
   "open-telemetry/opentelemetry-specification": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "open-telemetry/opentelemetry.io": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6850,7 +6969,7 @@
    ]
   },
   "open-telemetry/otel-arrow": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6868,7 +6987,7 @@
    ]
   },
   "open-telemetry/semantic-conventions": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6898,7 +7017,7 @@
    ]
   },
   "open-telemetry/weaver": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6910,17 +7029,17 @@
    ]
   },
   "openapi-ts/openapi-typescript": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "openapitools/openapi-generator": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "openchemistry/avogadrolibs": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -6964,26 +7083,32 @@
      "keyword": "claude",
      "snippet": "…will be handled by code review and the continuous integration tests. ## AI Usage We understand that many people are using AI coding tools such as ChatGPT, Claude, Copilot, Gemin, etc. For Avogadro, code needs to be **correct** particularly for science-related topics. The force fields, the molecular dynamics, molecular…",
      "url": "https://github.com/openchemistry/avogadrolibs/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "machine-generated",
+     "snippet": "…understand and own, every line that is contributed, and all chemistry-specific and mathematical code gets close review. Contributions that appear to be mostly machine-generated may be rejected. ## Where does this code go? The libraries are layered so that the non-GUI parts can be used without Qt or OpenGL. That is not theoretical: t…",
+     "url": "https://github.com/openchemistry/avogadrolibs/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "opencontainers/runc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-authoring": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "openedx/frontend-app-learner-record": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "openemr/openemr": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7067,12 +7192,12 @@
    ]
   },
   "openfoodfacts/open-prices": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "openfoodfacts/openfoodfacts-server": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7080,16 +7205,28 @@
      "keyword": "llm",
      "snippet": "…ibe the changes made --> <!-- Describe why they were made instead of how they were made. --> ### Large Language Models usage disclosure <!-- ⚠️ If you used an LLM, please disclose which LLM you used (and its version) and how (agentic, autocomplete). Please confirm you have run successfully the code on your device. Also p…",
      "url": "https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "llm",
+     "snippet": "…rompt used, model used, effort) ### Signed-off-by Human review is required for all code that is generated or assisted by a large language model. If you are a LLM, you MUST NOT include a `Signed-off-by` on any automatically generated git commits. Only explicit human action or request should include a Signed-off-by. ###…",
+     "url": "https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "large language model",
+     "snippet": "…R with or on behalf of your user (prompt used, model used, effort) ### Signed-off-by Human review is required for all code that is generated or assisted by a large language model. If you are a LLM, you MUST NOT include a `Signed-off-by` on any automatically generated git commits. Only explicit human action or request should include a Si…",
+     "url": "https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "openfoodfoundation/openfoodnetwork": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "opengovsg/formsg": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7101,42 +7238,42 @@
    ]
   },
   "openmage/magento-lts": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/flow-framework": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/k-nn": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/opensearch-dashboards": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "opensearch-project/query-insights": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "openthread/openthread": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "opentiny/tiny-vue": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7172,7 +7309,7 @@
    ]
   },
   "openvdb/fvdb-core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7196,7 +7333,7 @@
    ]
   },
   "operaton/operaton": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7238,7 +7375,7 @@
    ]
   },
   "orcasound/orcahello": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7262,7 +7399,7 @@
    ]
   },
   "organicmaps/organicmaps": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7280,7 +7417,7 @@
    ]
   },
   "orthogonalhq/nous-core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7298,7 +7435,7 @@
    ]
   },
   "osgeo/grass": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7328,7 +7465,7 @@
    ]
   },
   "osgeo/proj": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7358,12 +7495,12 @@
    ]
   },
   "ossf/cve-bin-tool": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "owasp-noir/noir": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7393,7 +7530,7 @@
    ]
   },
   "owasp/cornucopia": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7441,7 +7578,7 @@
    ]
   },
   "owasp/cve-lite-cli": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7453,7 +7590,7 @@
    ]
   },
   "owasp/wrongsecrets": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7465,22 +7602,22 @@
    ]
   },
   "owasp/wstg": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pact-foundation/pact-js": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "paketo-buildpacks/samples": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "parabolinc/parabol": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7498,17 +7635,17 @@
    ]
   },
   "paradisess13/paradise": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "parca-dev/parca": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pass-agent/loomkin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7550,17 +7687,17 @@
    ]
   },
   "pbh-btn/peerbanhelper": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "perryts/perry": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pertrai1/eslint-plugin-llm-core": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7614,7 +7751,7 @@
    ]
   },
   "pgmpy/pgmpy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7644,13 +7781,13 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai usage",
-     "snippet": "…e spans multiple modules. - Aim for **meaningful coverage** rather than 100% line coverage: focus on boundary conditions, error paths, and realistic usage. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully respon…",
+     "snippet": "…ts/conftest.py` serves Hugging Face Hub downloads from `pgmpy/tests/test_data/`, so if you add a dataset or example model, commit its fixture file there. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully respon…",
      "url": "https://github.com/pgmpy/pgmpy/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "use of ai",
-     "snippet": "…eaningful coverage** rather than 100% line coverage: focus on boundary conditions, error paths, and realistic usage. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardle…",
+     "snippet": "…downloads from `pgmpy/tests/test_data/`, so if you add a dataset or example model, commit its fixture file there. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardle…",
      "url": "https://github.com/pgmpy/pgmpy/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -7662,19 +7799,19 @@
     {
      "path": "CONTRIBUTING.md",
      "keyword": "chatgpt",
-     "snippet": "…100% line coverage: focus on boundary conditions, error paths, and realistic usage. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardless of how it was produced. Addi…",
+     "snippet": "…_data/`, so if you add a dataset or example model, commit its fixture file there. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardless of how it was produced. Addi…",
      "url": "https://github.com/pgmpy/pgmpy/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "copilot",
-     "snippet": "…her than 100% line coverage: focus on boundary conditions, error paths, and realistic usage. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardless of how it was produ…",
+     "snippet": "…ests/test_data/`, so if you add a dataset or example model, commit its fixture file there. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardless of how it was produ…",
      "url": "https://github.com/pgmpy/pgmpy/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "…coverage: focus on boundary conditions, error paths, and realistic usage. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardless of how it was produced. Additionally…",
+     "snippet": "…so if you add a dataset or example model, commit its fixture file there. ## AI Usage Policy We welcome thoughtful use of AI coding tools (Copilot, ChatGPT, Claude, Cursor, etc.) as development aids. That said, every contributor is fully responsible for the code they submit, regardless of how it was produced. Additionally…",
      "url": "https://github.com/pgmpy/pgmpy/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -7698,22 +7835,22 @@
    ]
   },
   "pgrwl/pgrwl": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "phasehq/console": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "phpmyadmin/phpmyadmin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "physicshub/physicshub.github.io": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7737,7 +7874,7 @@
    ]
   },
   "pipecat-ai/pipecat": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7797,12 +7934,12 @@
    ]
   },
   "platform9/vjailbreak": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "ponylang/ponyc": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7832,17 +7969,17 @@
    ]
   },
   "portabase/portabase": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "prefix-dev/rattler-build": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "prestodb/presto": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7854,7 +7991,7 @@
    ]
   },
   "prettier/prettier": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7872,7 +8009,7 @@
    ]
   },
   "prismlauncher/prismlauncher": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7890,7 +8027,7 @@
    ]
   },
   "priyanshu-byte-coder/devtrack": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7898,46 +8035,59 @@
      "keyword": "ai-generated",
      "snippet": "…request re-assignment. - **Link Issue to PR**: Ensure your pull request description explicitly links to your assigned issue (e.g. `Closes #45`). - **Low-effort/AI-generated PRs**: Maintainers label spammy or low-effort PRs (e.g. unreviewed AI output, trivial whitespace-only changes) as `invalid` or `spam` rather than merging them…",
      "url": "https://github.com/priyanshu-byte-coder/devtrack/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "claude",
+     "snippet": "…Security; GitHub GraphQL and REST APIs | | Charts | Recharts | | AI | Anthropic Claude and Groq | | i18n | next-intl (English, Spanish) | | Tes…",
+     "url": "https://github.com/priyanshu-byte-coder/devtrack/blob/HEAD/README.md"
     }
    ]
   },
   "processing/p5.js-website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "project-blurple/canvas-web": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "project-chip/connectedhomeip": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "project-robius/robrix": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "projectnessie/nessie": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "projectx-vjti/xplore-workshop": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "prometheus/prometheus": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…tainer, to catch issues and share codebase knowledge across reviewers. This also applies when an AI coding bot or agent opens a pull request: * Prefer opening AI-assisted pull requests from your own GitHub account, or explicitly state in the pull request description that you triggered and own the bot's pull request. * When a mai…",
+     "url": "https://github.com/prometheus/prometheus/blob/HEAD/CONTRIBUTING.md"
+    }
+   ]
   },
   "promptfoo/promptfoo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7961,17 +8111,17 @@
    ]
   },
   "prowlengine/prowl": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "psi-probe/psi-probe": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pulumi/pulumi-awsx": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -7989,37 +8139,37 @@
    ]
   },
   "pwndbg/pwndbg": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pylabrobot/pylabrobot": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pylint-dev/astroid": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pyo3/maturin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pypa/cibuildwheel": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "python-poetry/poetry": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "python/cpython": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8037,12 +8187,12 @@
    ]
   },
   "python/pythondotorg": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "pytorch/ao": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8054,7 +8204,7 @@
    ]
   },
   "pytorch/executorch": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8084,12 +8234,55 @@
    ]
   },
   "pytorch/ignite": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-generated",
+     "snippet": "…nge any config for specific folder, please see the file pyrefly.toml #### Send a PR AI tools are allowed. Read [AGENTS.md](AGENTS.md) first. We do not accept AI-generated issues or PR descriptions, automated submissions, or generated replies to reviewers. If everything is OK, please send a Pull Request to https://github.com/pyt…",
+     "url": "https://github.com/pytorch/ignite/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tools",
+     "snippet": "…efly to check the optional static type: ```bash pyrefly check ``` To change any config for specific folder, please see the file pyrefly.toml #### Send a PR AI tools are allowed. Read [AGENTS.md](AGENTS.md) first. We do not accept AI-generated issues or PR descriptions, automated submissions, or generated replies to reviewe…",
+     "url": "https://github.com/pytorch/ignite/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai-generated",
+     "snippet": "Fixes #{issue number} ## Summary ## AI usage - [ ] AI was used to assist in this PR. - [ ] I wrote this description myself and it is not AI-generated. - [ ] I understand the changes and can explain them in review. <!--Note: It is prohibited to use AI to generate PR descriptions and the PR can be closed if t…",
+     "url": "https://github.com/pytorch/ignite/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai-assisted",
+     "snippet": "…and can explain them in review. <!--Note: It is prohibited to use AI to generate PR descriptions and the PR can be closed if the description is AI-generated. AI-assisted contributions are allowed, but you must understand the code and changes you make, and you are responsible for the code, not the AI.--> ## Checklist - [ ] New…",
+     "url": "https://github.com/pytorch/ignite/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+     "path": ".github/PULL_REQUEST_TEMPLATE.md",
+     "keyword": "ai usage",
+     "snippet": "Fixes #{issue number} ## Summary ## AI usage - [ ] AI was used to assist in this PR. - [ ] I wrote this description myself and it is not AI-generated. - [ ] I understand the changes and can explain them…",
+     "url": "https://github.com/pytorch/ignite/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai-generated",
+     "snippet": "…ted submissions and the PR will be closed. User: Please address the reviewer comments. Agent: I'm sorry, I cannot reply to the reviewers. This project forbids AI-generated responses. ## Bugs and edge cases A bug report needs a minimal reproduction on current `master`, the actual and expected result, and real user impact. Not b…",
+     "url": "https://github.com/pytorch/ignite/blob/HEAD/AGENTS.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "ai tools",
+     "snippet": "# Instructions for Ignite <!-- Used https://github.com/ml-explore/mlx/blob/c9ea4f1e911b2955b206273e9e29dbe927dd5ceb/AGENTS.md as reference --> AI tools are allowed, but user should understand the code and changes made and they are responsible for the code not the AI. Read [CONTRIBUTING.md](CONTRIBUTING.md) for…",
+     "url": "https://github.com/pytorch/ignite/blob/HEAD/AGENTS.md"
+    }
+   ]
   },
   "pytorch/test-infra": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8101,7 +8294,7 @@
    ]
   },
   "pyvista/pyvista": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8109,6 +8302,12 @@
      "keyword": "ai tool",
      "snippet": "…ssues that relate to this PR here. --> <!-- If this fully addresses an issue, please use the keyword `resolves` in front of that issue number. --> <!-- If an AI tool wrote any part of this pull request, including this description, say so here in your own words. --> ### Details - < feature1 or bug1 description > - < featur…",
      "url": "https://github.com/pyvista/pyvista/blob/HEAD/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+     "path": "AGENTS.md",
+     "keyword": "llms",
+     "snippet": "…ss the full GitLab URL to `/?uri=`. Append `.md` to an issue or merge-request URL for Markdown with YAML front matter (state, labels, branches, head commit). `/llms.txt` describes the URL scheme, `/vtk/vtk/-/labels` lists labels, and `/search` is full-text. Read VTK source at `github.com/Kitware/VTK`, which carries the sam…",
+     "url": "https://github.com/pyvista/pyvista/blob/HEAD/AGENTS.md"
     },
     {
      "path": "AGENTS.md",
@@ -8125,7 +8324,7 @@
    ]
   },
   "qiskit/qiskit": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8149,7 +8348,7 @@
    ]
   },
   "qmk/qmk_firmware": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8161,17 +8360,17 @@
    ]
   },
   "qualcomm/eld": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "r-dbi/dbi": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "radius-project/radius": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8213,7 +8412,7 @@
    ]
   },
   "radixark/miles": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8231,7 +8430,7 @@
    ]
   },
   "raftersecurity/rafter-cli": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8297,27 +8496,40 @@
    ]
   },
   "rakudo/rakudo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "rapidsai/cudf": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
-   "hits": []
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-generated",
+     "snippet": "…and the change before submission. Be able to explain it. For submissions from a bot or agent account, identify the responsible human. - **Verify correctness:** AI-generated code may contain bugs or security issues. Run the applicable tests and review the diff carefully. - **Self-review before opening a pull request:** Run the repo…",
+     "url": "https://github.com/rapidsai/cudf/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…de. The [Python Developer Guide](https://docs.nvidia.com/cudf/latest/developer_guide/) includes details on contributing to cuDF Python code. ## Automated and AI-assisted contributions AI-assisted contributions are welcome and must meet the same requirements as other contributions. - **You are responsible:** Review and underst…",
+     "url": "https://github.com/rapidsai/cudf/blob/HEAD/CONTRIBUTING.md"
+    }
+   ]
   },
   "rawilk/filament-quill": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "readmeio/oas": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "release-plz/release-plz": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8329,7 +8541,7 @@
    ]
   },
   "retroachievements/raweb": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8359,12 +8571,12 @@
    ]
   },
   "reviewdog/reviewdog": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "rickcedwhat/playwright-smart-table": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8376,19 +8588,19 @@
    ]
   },
   "rimsort/rimsort": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…y commit; requires `just` and `pwsh` on PATH). - Always use the local venv via `uv run ...` — never activate the venv manually or use a bare `pytest`/`ruff`. - Claude Code reads `CLAUDE.md`, not `AGENTS.md` — bridge it with `@AGENTS.md` at the top of `CLAUDE.md` or a symlink (Windows symlinks need Developer Mode). Never run…",
+     "snippet": "…y commit; requires `just` and `pwsh` on PATH). - Always use the local venv via `uv run ...` — never activate the venv manually or use a bare `pytest`/`ruff`. - Claude Code reads `CLAUDE.md`, not `AGENTS.md` — bridge it with `@AGENTS.md` at the top of `CLAUDE.md` or a symlink (Windows symlinks need Developer Mode). > **Never…",
      "url": "https://github.com/rimsort/rimsort/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "rizinorg/rizin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8418,12 +8630,12 @@
    ]
   },
   "rmc-14/rmc-14": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "rocm/iris": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8435,7 +8647,7 @@
    ]
   },
   "rocm/therock": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8471,7 +8683,7 @@
    ]
   },
   "rogersuperbuilderalpha/cursor-boston": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8501,12 +8713,12 @@
    ]
   },
   "romcal/romcal": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "rt-thread/rt-thread": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8524,41 +8736,35 @@
    ]
   },
   "ruby/rubygems": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "rubyforgood/awbw": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
-     "path": "AGENTS.md",
+     "path": "CONTRIBUTING.md",
      "keyword": "claude",
-     "snippet": "# AGENTS.md Architecture reference for AI agents. For coding rules and conventions, see `CLAUDE.md` (single source of truth). ## Project Overview AWBW Portal is a Rails 8.1 application (Ruby 4.0.9) for A Window Between Worlds — a platform where workshop…",
-     "url": "https://github.com/rubyforgood/awbw/blob/HEAD/AGENTS.md"
+     "snippet": "…tabase migrations | | `ai/seed` | Load the full dev sample dataset (`db:seed:dev`) into the workspace DB | #### AI instruction files (optional) `AGENTS.md`, `CLAUDE.md`, `.github/copilot-instructions.md`, and the rest of the AI tooling are opt-in and untracked by default. Pick the ones you want from [docs/ai](docs/ai/READM…",
+     "url": "https://github.com/rubyforgood/awbw/blob/HEAD/CONTRIBUTING.md"
     },
     {
-     "path": ".github/copilot-instructions.md",
-     "keyword": "copilot",
-     "snippet": "…| Coding rules and conventions (this file) | | `AGENTS.md` | Architecture reference + project details | | `.github/copilot-instructions.md` | Coding rules for Copilot (duplicated from CLAUDE.md — keep in sync) | | `ai/` | Shell script shortcuts for common dev tasks | ## Related Files When changing a model or controller, ch…",
-     "url": "https://github.com/rubyforgood/awbw/blob/HEAD/.github/copilot-instructions.md"
-    },
-    {
-     "path": ".github/copilot-instructions.md",
+     "path": "README.md",
      "keyword": "claude",
-     "snippet": "# This is a Ruby on Rails application. <!-- Keep code style rules in sync with CLAUDE.md --> For project overview, tech stack, architecture reference (models, controllers, services, testing), and more, read `AGENTS.md`. ## Setup Full setup (b…",
-     "url": "https://github.com/rubyforgood/awbw/blob/HEAD/.github/copilot-instructions.md"
+     "snippet": "…Getting Started For detailed setup and development instructions, please see our [CONTRIBUTING.md](CONTRIBUTING.md) guide. Optional AI tooling (`AGENTS.md`, `CLAUDE.md`, and the `ai/` shortcuts) is opt-in — copy the samples you want from [docs/ai](docs/ai/README.md). ## Production Maintenance ### Featured workshops not s…",
+     "url": "https://github.com/rubyforgood/awbw/blob/HEAD/README.md"
     }
    ]
   },
   "rubyforgood/casa": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "ruffle-rs/ruffle": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8588,7 +8794,7 @@
    ]
   },
   "runatlantis/atlantis": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8624,7 +8830,7 @@
    ]
   },
   "rustpython/rustpython": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8678,7 +8884,7 @@
    ]
   },
   "s3dfx-cyber/gsoc-org-finder-": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8714,7 +8920,7 @@
    ]
   },
   "sableclient/sable": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8774,37 +8980,37 @@
    ]
   },
   "sagemath/sage": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "saleor/saleor": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "samillion/modernz": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "samsung/one": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "samvera/hyku": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "sandeepvashishtha/eventra": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "sap/e-mobility-charging-stations-simulator": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8816,12 +9022,12 @@
    ]
   },
   "saptarshisarkar12/drifty": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "sbt/sbt": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8839,12 +9045,12 @@
    ]
   },
   "sbt/website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "scala/scala3": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8868,17 +9074,17 @@
    ]
   },
   "scalacenter/scala3-migrate": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "scalacenter/scalafix": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "scikit-learn/scikit-learn": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8902,7 +9108,7 @@
    ]
   },
   "scipy/scipy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8920,22 +9126,53 @@
    ]
   },
   "scoopinstaller/extras": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "scoopinstaller/main": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "scottcjn/rustchain": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
-   "error": "repo-missing",
-   "hits": []
+   "scannedAt": "2026-11-09T14:05:24.503Z",
+   "error": null,
+   "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-generated",
+     "snippet": "…- Documentation that a human can follow end-to-end - Security fixes with proof of concept - Tools that make the ecosystem more useful ## What Gets Rejected - AI-generated bulk PRs with no testing evidence - PRs that include all code from prior PRs (we track this) - \"Fixes\" that break existing functionality - Submissions that don…",
+     "url": "https://github.com/scottcjn/rustchain/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…ixes\" that break existing functionality - Submissions that don't match the bounty requirements - Placeholder data, fake screenshots, or fabricated metrics For AI-assisted contribution expectations, see the public [Sophia's Home for AI Agents](https://github.com/Scottcjn/rustchain-claim-portal/blob/main/SOPHIAS_HOME_FOR_AI_AGENTS…",
+     "url": "https://github.com/scottcjn/rustchain/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "ai-generated",
+     "snippet": "…)** extends this one step further: it binds *who* (a Beacon agent identity) and *what* (the verified physical machine) to every piece of published content — so AI-generated media carries a verifiable claim of origin, not a removable watermark. *BoTTube is where agents are seen; Beacon is how they're known; RustChain is how they're…",
+     "url": "https://github.com/scottcjn/rustchain/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "ai-assisted",
+     "snippet": "…Scottcjn/trashclaw)** — Zero-dep local LLM agent - **Bounty system** — 64,000+ RTC paid to 1,000+ recipients ([live](https://rustchain.org/payouts.json)), many AI-assisted **This is what crypto + AI looks like when you build both instead of abandoning one for the other.** --- ## Why Agents Need Crypto (And Why Crypto Needs Age…",
+     "url": "https://github.com/scottcjn/rustchain/blob/HEAD/README.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "llm",
+     "snippet": "…e - **[Beacon](https://github.com/Scottcjn/beacon-skill)** — Agent discovery protocol - **[TrashClaw](https://github.com/Scottcjn/trashclaw)** — Zero-dep local LLM agent - **Bounty system** — 64,000+ RTC paid to 1,000+ recipients ([live](https://rustchain.org/payouts.json)), many AI-assisted **This is what crypto + AI lo…",
+     "url": "https://github.com/scottcjn/rustchain/blob/HEAD/README.md"
+    }
+   ]
   },
   "searxng/searxng": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -8959,17 +9196,17 @@
    ]
   },
   "secondlife/viewer": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "secretlint/secretlint": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "seleniumhq/selenium": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9011,12 +9248,12 @@
    ]
   },
   "sendou-ink/sendou.ink": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "seraph-quest/seraph": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9028,22 +9265,22 @@
    ]
   },
   "servo/servo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-android": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "session-foundation/session-desktop": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "sgl-project/sglang": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9067,17 +9304,17 @@
    ]
   },
   "shazzar00ni/paperlyte-v2": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": "repo-missing",
    "hits": []
   },
   "shiptest-ss13/shiptest": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "shm11c3/hardwarevisualizer": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9095,7 +9332,7 @@
    ]
   },
   "sidorares/node-mysql2": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9113,12 +9350,12 @@
    ]
   },
   "siemens/element": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "silvertakana/worldwideview": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9136,7 +9373,7 @@
    ]
   },
   "simple-icons/simple-icons": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9178,22 +9415,22 @@
    ]
   },
   "skevetter/devpod": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "skiptools/skip-ui": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "skyblockermod/skyblocker": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "snapchat/gigl": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9205,7 +9442,7 @@
    ]
   },
   "solvcon/modmesh": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9217,27 +9454,27 @@
    ]
   },
   "sorbet/sorbet": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "sovereign-labs/sovereign-sdk": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "spack/spack": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "spack/spack-packages": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "spiceai/spiceai": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9279,7 +9516,7 @@
    ]
   },
   "spiffe/spire": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9303,24 +9540,24 @@
    ]
   },
   "splode/pomotroid": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "stagewise-io/stagewise": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": "README.md",
      "keyword": "claude",
-     "snippet": "…l major vendors through a single API key. | Provider | Featured Models | Dashboard | | ------------- | ------------------- | ------------- | | OpenRouter | Claude Opus 4.8, GPT-6.1 Sol, Gemini 3.1 Pro, DeepSeek V4 Pro | [Get API key](https://openrouter.ai/keys) | ### stagewise Account For ease of use and immediate acce…",
+     "snippet": "…l major vendors through a single API key. | Provider | Featured Models | Dashboard | | ------------- | ------------------- | ------------- | | OpenRouter | Claude Opus 4.8, GPT-6.1 Sol, Gemini 3.1 Pro, DeepSeek V4 Pro | [Get API key](https://openrouter.ai/keys) | ### stagewise Account (sunset) > [!NOTE] > The stagewise…",
      "url": "https://github.com/stagewise-io/stagewise/blob/HEAD/README.md"
     }
    ]
   },
   "starcitizentools/mediawiki-skins-citizen": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9356,7 +9593,7 @@
    ]
   },
   "stdlib-js/stdlib": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9374,17 +9611,17 @@
    ]
   },
   "stegschreck/rats": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "stoatchat/for-web": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "stodevx/aao-react-native": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9408,17 +9645,17 @@
    ]
   },
   "stranger6667/jsonschema": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "streetwriters/notesnook": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "stumpapp/stump": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9448,7 +9685,7 @@
    ]
   },
   "sugarlabs/musicblocks": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9508,7 +9745,7 @@
    ]
   },
   "supercollider/supercollider": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9532,47 +9769,47 @@
    ]
   },
   "suwayomi/suwayomi-server": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "sveltejs/kit": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-build": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-foundation": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-java": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-org-website": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "swiftlang/swift-package-manager": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "swisspost/design-system": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9584,7 +9821,7 @@
    ]
   },
   "switchbacktech/compass": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9602,22 +9839,22 @@
    ]
   },
   "tapestry-mud/tapestry": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "tarkovtracker-org/tarkovtracker": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "teammates/teammates": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "teamschools/teamster": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9629,12 +9866,12 @@
    ]
   },
   "tektronix/tm_devices": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "telemt/telemt": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9666,22 +9903,16 @@
      "keyword": "claude",
      "snippet": "…Configuration or Intergraion Support --- # Pull Requests ### General - ONLY signed and verified commits - ONLY from your name - DO NOT commit with `codex`, `claude`, or other AI tools as author/committer - PREFER `flow` branch for development, not `main` --- ### Definition of Ready (MANDATORY) A Pull Request WILL be ig…",
      "url": "https://github.com/telemt/telemt/blob/HEAD/CONTRIBUTING.md"
-    },
-    {
-     "path": "AGENTS.md",
-     "keyword": "llm",
-     "snippet": "…g. 4. No single file may be split across parts. ## 11. Anti-LLM Degeneration Safeguards (Principal-Paranoid, Visionary) This section exists to prevent common LLM failure modes: scope creep, semantic drift, cargo-cult refactors, performance regressions, contract breakage, and hidden behavior changes. ### 11.1 Non-Negoti…",
-     "url": "https://github.com/telemt/telemt/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "terrapkg/packages": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "thm-health/pilos": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9693,12 +9924,12 @@
    ]
   },
   "thomaspoignant/go-feature-flag": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "tinacms/tinacms": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9722,7 +9953,7 @@
    ]
   },
   "tqec/tqec": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9770,7 +10001,7 @@
    ]
   },
   "tracel-ai/burn": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9848,32 +10079,32 @@
    ]
   },
   "transmission/transmission": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "trezor/trezor-firmware": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "trinodb/trino-gateway": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "triplea-game/triplea": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "tryghost/ghost": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9885,18 +10116,18 @@
    ]
   },
   "ttlapp/time-to-leave": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "tuist/tuist": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": "AGENTS.md",
      "keyword": "claude",
-     "snippet": "…t review](.blick/skills/tuist-swift-review/SKILL.md) for Swift changes, including Tuist command-line and SwifterPM changes. These files are review context for Claude, Codex, and other local coding agents. Only report findings whose cited line appears in the diff. # Tuist CLI (Swift) ## Code style - Do not add one-line com…",
+     "snippet": "…architecture and operational procedures in existing READMEs/runbooks and link to them. Update guidance when its instructions change, not for every code edit. `CLAUDE.md` aliases should continue to point to `AGENTS.md`.",
      "url": "https://github.com/tuist/tuist/blob/HEAD/AGENTS.md"
     },
     {
@@ -9908,7 +10139,7 @@
    ]
   },
   "tum-dev/navigatum": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9926,7 +10157,7 @@
    ]
   },
   "twbs/bootstrap": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9938,7 +10169,7 @@
    ]
   },
   "ublue-os/bluefin": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9956,12 +10187,12 @@
    ]
   },
   "ublue-os/main": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "unikeen/sjmcl": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -9979,7 +10210,7 @@
    ]
   },
   "usemoss/moss": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10009,25 +10240,25 @@
    ]
   },
   "uutils/coreutils": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai-assisted",
-     "snippet": "…ode, make sure to update any comments that need to change as a result. The only thing worse than having no comments is having outdated comments! ## AI policy AI-assisted contributions are allowed, but the same standards apply as for any other patch. If you use an AI tool to help write a change, you are still responsible for it:…",
+     "snippet": "…l `#[test]` functions when a test has multiple cases. Plain `#[test]` is fine for single-case tests; there is no need to convert existing tests. ## AI policy AI-assisted contributions are allowed, but the same standards apply as for any other patch. If you use an AI tool to help write a change, you are still responsible for it:…",
      "url": "https://github.com/uutils/coreutils/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai policy",
-     "snippet": "…piece of code, make sure to update any comments that need to change as a result. The only thing worse than having no comments is having outdated comments! ## AI policy AI-assisted contributions are allowed, but the same standards apply as for any other patch. If you use an AI tool to help write a change, you are still respon…",
+     "snippet": "…ar-identical `#[test]` functions when a test has multiple cases. Plain `#[test]` is fine for single-case tests; there is no need to convert existing tests. ## AI policy AI-assisted contributions are allowed, but the same standards apply as for any other patch. If you use an AI tool to help write a change, you are still respon…",
      "url": "https://github.com/uutils/coreutils/blob/HEAD/CONTRIBUTING.md"
     },
     {
      "path": "CONTRIBUTING.md",
      "keyword": "ai tool",
-     "snippet": "…comments is having outdated comments! ## AI policy AI-assisted contributions are allowed, but the same standards apply as for any other patch. If you use an AI tool to help write a change, you are still responsible for it: you should understand every line you submit and be able to explain and justify the change in review.…",
+     "snippet": "…is no need to convert existing tests. ## AI policy AI-assisted contributions are allowed, but the same standards apply as for any other patch. If you use an AI tool to help write a change, you are still responsible for it: you should understand every line you submit and be able to explain and justify the change in review.…",
      "url": "https://github.com/uutils/coreutils/blob/HEAD/CONTRIBUTING.md"
     },
     {
@@ -10039,12 +10270,12 @@
    ]
   },
   "uxlfoundation/onednn": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "valhalla/valhalla": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10080,7 +10311,7 @@
    ]
   },
   "valkey-io/valkey-glide": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10092,7 +10323,7 @@
    ]
   },
   "vectordotdev/vector": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10116,7 +10347,7 @@
    ]
   },
   "versity/versitygw": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10128,17 +10359,17 @@
    ]
   },
   "vets-who-code/vets-who-code-app": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "videojs/v10": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": "archived",
    "hits": []
   },
   "vineethwilson15/codemind": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10168,12 +10399,12 @@
    ]
   },
   "visjs/vis-network": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "vitest-dev/vitest": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10215,7 +10446,7 @@
    ]
   },
   "vivliostyle/vivliostyle.js": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10275,14 +10506,20 @@
    ]
   },
   "vivoblueos/kernel": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "vllm-project/aibrix": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai-assisted",
+     "snippet": "…mentation when behavior, configuration, APIs, deployment, or CLI usage changes. Follow the [documentation guide](docs/README.md). - Review every generated or AI-assisted change yourself; submit only changes you can explain and verify. Agent-generated analysis or review does not constitute maintainer approval; the human cont…",
+     "url": "https://github.com/vllm-project/aibrix/blob/HEAD/CONTRIBUTING.md"
+    },
     {
      "path": "README.md",
      "keyword": "llm",
@@ -10292,13 +10529,13 @@
     {
      "path": "AGENTS.md",
      "keyword": "ai-assisted",
-     "snippet": "…s succeed. - Large design changes should be discussed before implementation and recorded in the appropriate documentation area. - Review every generated or AI-assisted change yourself; do not submit code that you cannot explain and verify. ## Further reading - [Contributing guide](CONTRIBUTING.md) - [Development guide](de…",
+     "snippet": "…t ran, what passed, and what remains unverified. - Keep documentation and generated artifacts consistent with the implementation. Review every generated or AI-assisted change; submit only what you can explain. - Respect authorization boundaries. Do not push, rewrite history, change remote GitHub state, or send external mess…",
      "url": "https://github.com/vllm-project/aibrix/blob/HEAD/AGENTS.md"
     }
    ]
   },
   "vllm-project/semantic-router": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10328,7 +10565,7 @@
    ]
   },
   "vllm-project/vllm": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10340,7 +10577,7 @@
     {
      "path": "README.md",
      "keyword": "llms",
-     "snippet": "…awei Ascend, Rebellions NPU, Apple Silicon, MetaX GPU, and more. vLLM seamlessly supports 200+ model architectures on Hugging Face, including: - Decoder-only LLMs (e.g., Llama, Qwen, Gemma) - Mixture-of-Expert LLMs (e.g., Mixtral, DeepSeek-V3, Qwen-MoE, GPT-OSS) - Hybrid attention and state-space models (e.g., Mamba, Qwe…",
+     "snippet": "…ons NPU, Apple Silicon, MetaX GPU, Iluvatar CoreX GPU, and more. vLLM seamlessly supports 200+ model architectures on Hugging Face, including: - Decoder-only LLMs (e.g., Llama, Qwen, Gemma) - Mixture-of-Expert LLMs (e.g., Mixtral, DeepSeek-V3, Qwen-MoE, GPT-OSS) - Hybrid attention and state-space models (e.g., Mamba, Qwe…",
      "url": "https://github.com/vllm-project/vllm/blob/HEAD/README.md"
     },
     {
@@ -10364,7 +10601,7 @@
    ]
   },
   "vllm-project/vllm-ascend": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10376,7 +10613,7 @@
    ]
   },
   "vllm-project/vllm-omni": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10412,7 +10649,7 @@
    ]
   },
   "vpinball/vpinball": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10478,17 +10715,17 @@
    ]
   },
   "vrc-get/vrc-get": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "vuetorrent/vuetorrent": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "web-platform-tests/wpt": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10512,7 +10749,7 @@
    ]
   },
   "web-scrobbler/web-scrobbler": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10524,22 +10761,22 @@
    ]
   },
   "webassembly/binaryen": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "weblateorg/weblate": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "weboftrust/keripy": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "wesnoth/wesnoth": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10551,12 +10788,12 @@
    ]
   },
   "wielebenwir/commonsbooking": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "wikieducationfoundation/wikiedudashboard": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10574,7 +10811,7 @@
    ]
   },
   "woocommerce/woocommerce-ios": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10598,9 +10835,15 @@
    ]
   },
   "wordpress-mobile/wordpress-ios": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
+    {
+     "path": "CONTRIBUTING.md",
+     "keyword": "ai tool",
+     "snippet": "…pull request. Comment on the issue with your proposed approach instead. You are responsible for every line in your pull request, including code written by an AI tool. Build it and run it yourself before you submit it. ### Pull Requests and Code Reviews All code contributions pass through pull requests. If you haven't crea…",
+     "url": "https://github.com/wordpress-mobile/wordpress-ios/blob/HEAD/CONTRIBUTING.md"
+    },
     {
      "path": "AGENTS.md",
      "keyword": "claude",
@@ -10610,7 +10853,7 @@
    ]
   },
   "wordpress/gutenberg": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10628,7 +10871,7 @@
    ]
   },
   "wordpress/plugin-check": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10676,17 +10919,17 @@
    ]
   },
   "wordpress/wordpress-playground": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "worldconvotingsystems/nomnom": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "wp-graphql/wp-graphql": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10704,12 +10947,12 @@
    ]
   },
   "wpilibsuite/allwpilib": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "wso2/product-is": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10721,7 +10964,7 @@
    ]
   },
   "wynntils/wynntils": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10739,7 +10982,7 @@
    ]
   },
   "xilinx/mlir-aie": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10747,16 +10990,22 @@
      "keyword": "slop",
      "snippet": "…/clang.llvm.org/extra/clang-tidy/), scoped to a growing list of files (see [Static analysis for C++](#static-analysis-for-c-clang-tidy) below). - **Comment slop** — `utils/check_comment_slop.py`, on every commit, reads the diff and flags a concept explained again at three or more sites, comment blocks over 12 lines…",
      "url": "https://github.com/xilinx/mlir-aie/blob/HEAD/CONTRIBUTING.md"
+    },
+    {
+     "path": "README.md",
+     "keyword": "claude",
+     "snippet": "…usage, and common intrinsic quick-reference tables Working with a coding agent instead? The [Agent Skills](skills/README.md) in this repo teach an agent (e.g. Claude Code) to write and optimize IRON designs the same way the Programming Guide teaches a person — see [Agentic Programming](skills/agentic_programming.md) for how…",
+     "url": "https://github.com/xilinx/mlir-aie/blob/HEAD/README.md"
     }
    ]
   },
   "yairm210/unciv": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "yamadashy/repomix": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10816,7 +11065,7 @@
    ]
   },
   "yoast/wordpress-seo": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10852,7 +11101,7 @@
    ]
   },
   "yoheimuta/protolint": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10870,7 +11119,7 @@
    ]
   },
   "yt-project/yt": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10912,12 +11161,12 @@
    ]
   },
   "zacsweers/metro": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "zarr-developers/zarr-python": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10929,12 +11178,12 @@
    ]
   },
   "zen-browser/desktop": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "zephyrproject-rtos/zephyr": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10964,17 +11213,17 @@
    ]
   },
   "zio/zio-http": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "zip-rs/zip2": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": []
   },
   "zizmorcore/zizmor": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
@@ -10992,7 +11241,7 @@
    ]
   },
   "zulip/zulip": {
-   "scannedAt": "2026-10-26T11:17:55.965Z",
+   "scannedAt": "2026-11-09T14:05:24.503Z",
    "error": null,
    "hits": [
     {
